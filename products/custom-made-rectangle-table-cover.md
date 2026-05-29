@@ -10,9 +10,9 @@ categorySlug: table-covers
 categoryLabel: Table & Dining Covers
 
 seo:
-  title: Custom Made Rectangle Table Cover | Outdoor Dining Table Covers | Custom Cover Company Australia
+  title: Custom Made Rectangle Table Cover | Outdoor Dining Table Covers | Custom Cover Company
   description: Protect your rectangular outdoor dining table with a cover made to its exact width, depth, and height. 200gsm weatherproof polyester. Instant quote online.
-  keywords: [rectangle table cover australia, outdoor dining table cover, custom table cover, outdoor table cover made to measure]
+  keywords: [rectangle table cover, outdoor dining table cover, custom table cover, outdoor table cover made to measure]
 
 image: best-custom-cover-for-outdoor-table-set.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your rectangular outdoor dining table with a cover made to fit its exact length, width, and height — so it hangs evenly to the ground on all four sides without pooling or leaving the legs exposed.
@@ -99,7 +99,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom rectangle table cover.
 
-guideTitle: Custom Made Rectangle Table Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Rectangle Table Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -107,7 +107,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your table and rough dimensions and we will sort out the measurements for you.
 ---
 
-A rectangular outdoor dining table is one of the most common pieces of garden furniture in Australia, and one of the most straightforward to cover when you have the right measurements. This guide covers everything you need to know before ordering a custom cover for your outdoor dining table.
+A rectangular outdoor dining table is one of the most common pieces of garden furniture, and one of the most straightforward to cover when you have the right measurements. This guide covers everything you need to know before ordering a custom cover for your outdoor dining table.
 
 ## Why standard covers rarely fit well
 
@@ -153,7 +153,7 @@ If your table has leaves that extend the length, measure with the leaves either 
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester, which means the pigment is part of the fibre rather than applied on top. This is why it holds its colour through Australian UV conditions where surface-dyed materials go patchy and faded within two or three seasons.
+The face fabric is 200gsm solution-dyed polyester, which means the pigment is part of the fibre rather than applied on top. This is why it holds its colour through prolonged UV exposure where surface-dyed materials go patchy and faded within two or three seasons.
 
 The underside carries a flexible polyurethane waterproof coating. It sheds water cleanly, stays flexible across temperature extremes, and does not crack at fold lines the way stiffer coatings do. Both layers are UV stabilised.
 

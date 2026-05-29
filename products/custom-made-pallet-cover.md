@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Pallet Cover | Outdoor Pallet Lounge & Storage Covers | Custom Cover Company Australia
-  description: Protect pallet furniture, stacked goods, or storage pallets with a custom-made weatherproof cover. Made to your exact dimensions. Ships Australia-wide.
-  keywords: [pallet cover australia, pallet furniture cover, custom pallet cover, outdoor pallet lounge cover]
+  title: Custom Made Pallet Cover | Outdoor Pallet Lounge & Storage Covers | Custom Cover Company
+  description: Protect pallet furniture, stacked goods, or storage pallets with a custom-made weatherproof cover. Made to your exact dimensions. Ships worldwide.
+  keywords: [pallet cover, pallet furniture cover, custom pallet cover, outdoor pallet lounge cover]
 
 image: best-custom-cover-for-pallets.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect pallet furniture, stacked storage pallets, or pallet lounge settings with a cover made to the exact dimensions of your setup.
@@ -54,7 +54,7 @@ measurements:
     label: Height
     unit: cm
 
-measureHelp: Measure the full footprint of the pallet setup at its longest and widest points. If multiple pallets sit side by side, measure across all of them. Height runs from the ground to the top of whatever is stacked on the pallet — furniture, cushions, or goods. A standard Australian pallet is 116 x 116 cm, but pallet furniture can be any size.
+measureHelp: Measure the full footprint of the pallet setup at its longest and widest points. If multiple pallets sit side by side, measure across all of them. Height runs from the ground to the top of whatever is stacked on the pallet — furniture, cushions, or goods. A standard pallet is 116 x 116 cm, but pallet furniture can be any size.
 
 pricing:
   basePrice: 80.00
@@ -95,11 +95,11 @@ faqs:
   - q: Does the height measurement include the cushions on the furniture?
     a: Yes, if you cover the setup with cushions on it. Measure from the ground to the top of the cushions in their normal position. If you store cushions separately, measure to the top of the timber frame.
   - q: Is the material UV-resistant enough for outdoor use?
-    a: Yes. The fabric is solution-dyed polyester with UV stabilisation. This is not a surface coating that fades. The UV protection is built into the fibre itself, which is what allows it to handle full outdoor exposure in Australian conditions over multiple seasons.
+    a: Yes. The fabric is solution-dyed polyester with UV stabilisation. This is not a surface coating that fades. The UV protection is built into the fibre itself, which is what allows it to handle full outdoor exposure in outdoor conditions over multiple seasons.
 
 faqSub: Everything you need to know about ordering a custom pallet cover.
 
-guideTitle: Custom Made Pallet Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Pallet Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:
@@ -107,11 +107,11 @@ cta:
   body: Our team is happy to help. Send us a photo of your pallet setup and rough dimensions and we will sort out the measurements for you.
 ---
 
-Pallet furniture has become a popular choice for Australian backyards and outdoor areas. It is practical, inexpensive, and easy to rearrange. The one challenge is finding a cover that actually fits it. This guide explains how to measure and what to look for.
+Pallet furniture has become a popular choice for backyards and outdoor areas. It is practical, inexpensive, and easy to rearrange. The one challenge is finding a cover that actually fits it. This guide explains how to measure and what to look for.
 
 ## The challenge with pallet covers
 
-Standard pallets in Australia are 116 x 116 cm. That sounds like a simple starting point for a cover, but pallet furniture rarely stays that shape once it is put together.
+Standard pallets are typically 116 x 116 cm. That sounds like a simple starting point for a cover, but pallet furniture rarely stays that shape once it is put together.
 
 A typical pallet lounge setting might be two pallets end to end for the seating section, a third pallet as a coffee table, and cushions stacked on top. The combined footprint could be 120 x 240 cm and the height including cushions could be 90 cm. A cover for a single 116 x 116 cm pallet does not come close.
 

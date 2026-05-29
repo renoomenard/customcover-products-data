@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Patio Heater Cover | Outdoor Heater Covers Australia | Custom Cover Company Australia
-  description: Protect your outdoor patio heater from rain, UV, and corrosion with a custom-made cover. Made to your exact diameter and height. Ships Australia-wide.
-  keywords: [patio heater cover australia, outdoor heater cover, custom heater cover, mushroom heater cover]
+  title: Custom Made Patio Heater Cover | Outdoor Heater Covers | Custom Cover Company
+  description: Protect your outdoor patio heater from rain, UV, and corrosion with a custom-made cover. Made to your exact diameter and height. Ships worldwide.
+  keywords: [patio heater cover, outdoor heater cover, custom heater cover, mushroom heater cover]
 
 image: best-custom-cover-for-outdoor-patio-heater.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your freestanding mushroom patio heater from rain, rust, and UV with a cover made to the exact diameter and height of your unit.
@@ -102,7 +102,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom patio heater cover.
 
-guideTitle: Custom Made Patio Heater Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Patio Heater Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:

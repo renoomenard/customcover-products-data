@@ -10,9 +10,9 @@ categorySlug: bbq-covers
 categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
-  title: Custom Made BBQ Cover | Weatherproof Outdoor BBQ Covers | Custom Cover Company Australia
+  title: Custom Made BBQ Cover | Weatherproof Outdoor BBQ Covers | Custom Cover Company
   description: Protect your BBQ with a tailor-made waterproof cover. Made from 200gsm solution-dyed polyester with a waterproof undercoating. Enter your measurements for an instant quote.
-  keywords: [bbq cover australia, custom bbq cover, outdoor bbq cover, weatherproof bbq cover, made to measure bbq cover]
+  keywords: [bbq cover, custom bbq cover, outdoor bbq cover, weatherproof bbq cover, made to measure bbq cover]
 
 image: best-custom-bbq-cover.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your BBQ with a cover built to fit the actual dimensions of your unit — not the nearest standard size.
@@ -109,7 +109,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom BBQ cover.
 
-guideTitle: Custom Made BBQ Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made BBQ Covers — The Complete Owner's Guide
 guideReadTime: 8 min read
 
 cta:
@@ -117,7 +117,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your BBQ and rough dimensions and we will sort out the measurements for you.
 ---
 
-A BBQ is one of the more expensive pieces of equipment in most Australian backyards — and one of the most exposed to weather. This guide covers everything you need to know before ordering a custom cover for your outdoor BBQ.
+A BBQ is one of the more expensive pieces of equipment in most backyards — and one of the most exposed to weather. This guide covers everything you need to know before ordering a custom cover for your outdoor BBQ.
 
 ## Why BBQ covers fail
 
@@ -125,7 +125,7 @@ Most off-the-shelf BBQ covers fail for the same two reasons: the wrong size and 
 
 Standard covers come in a handful of fixed widths — typically 60 cm, 90 cm, 120 cm, 150 cm, and occasionally 180 cm. The problem is that BBQs are made in hundreds of configurations. A four-burner from one brand might be 105 cm wide. Another brand's five-burner might be 132 cm. Neither fits neatly into the standard range. So you end up with a cover that either stops short of the edges, leaving the bottom of the unit exposed, or is so much wider than the BBQ that it pools water in the folds and flaps in any kind of breeze.
 
-The second problem is material. Budget covers are made from polyester that is printed or dyed on the surface, not through the fibre. Within a season of Australian UV they start to fade, then crack, then stop being waterproof at the spots where the coating has broken down. The cover starts leaking exactly where water tends to collect.
+The second problem is material. Budget covers are made from polyester that is printed or dyed on the surface, not through the fibre. Within a season of intense UV they start to fade, then crack, then stop being waterproof at the spots where the coating has broken down. The cover starts leaking exactly where water tends to collect.
 
 A custom-made cover made from the right fabric fixes both problems.
 
@@ -155,7 +155,7 @@ The other challenge is grease and fat deposits. Even when the BBQ is cleaned bef
 
 ### Solution-dyed polyester face fabric
 
-The face fabric is solution-dyed polyester at 200gsm. Solution-dyed means the pigment is added to the polymer before it is formed into fibres, so the colour runs all the way through each thread. That is what makes it fade-resistant in Australian UV conditions, where surface-dyed fabrics will go noticeably patchy within two or three seasons.
+The face fabric is solution-dyed polyester at 200gsm. Solution-dyed means the pigment is added to the polymer before it is formed into fibres, so the colour runs all the way through each thread. That is what makes it fade-resistant in prolonged UV exposure, where surface-dyed fabrics will go noticeably patchy within two or three seasons.
 
 At 200gsm the fabric is heavy enough to feel substantial and hold its shape over the BBQ in wind, but light enough that one person can put it on and take it off without a struggle.
 
@@ -165,7 +165,7 @@ The underside carries a flexible polyurethane (PU) waterproof coating. PU stays 
 
 ### UV stabilisation
 
-The fabric and coating are UV stabilised, which means the molecular structure is protected against the photodegradation that causes outdoor materials to chalk, crack, and fail. Non-stabilised materials can start to fail within eighteen months in Australian conditions. A stabilised fabric and coating combination will typically give five to seven years of useful life in full sun.
+The fabric and coating are UV stabilised, which means the molecular structure is protected against the photodegradation that causes outdoor materials to chalk, crack, and fail. Non-stabilised materials can start to fail within eighteen months in outdoor conditions. A stabilised fabric and coating combination will typically give five to seven years of useful life in full sun.
 
 ## Caring for your BBQ cover
 

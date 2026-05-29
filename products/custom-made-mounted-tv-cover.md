@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Outdoor TV Cover | Wall Mounted TV Covers | Custom Cover Company Australia
-  description: Protect your wall-mounted outdoor TV from rain, UV, and dust. Custom-made to the exact frame dimensions of your screen. Waterproof 200gsm polyester. Ships Australia-wide.
-  keywords: [outdoor tv cover australia, mounted tv cover, alfresco tv cover, custom tv cover]
+  title: Custom Made Outdoor TV Cover | Wall Mounted TV Covers | Custom Cover Company
+  description: Protect your wall-mounted outdoor TV from rain, UV, and dust. Custom-made to the exact frame dimensions of your screen. Waterproof 200gsm polyester. Ships worldwide.
+  keywords: [outdoor tv cover, mounted tv cover, alfresco tv cover, custom tv cover]
 
 image: best-custom-cover-for-outdoor-tv.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your wall-mounted outdoor TV with a cover made to fit the actual frame dimensions of your screen and the depth of your mount, not a generic bag that flaps and lets moisture in at the sides.
@@ -108,7 +108,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom mounted TV cover.
 
-guideTitle: Custom Made Mounted TV Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Mounted TV Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:

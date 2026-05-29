@@ -10,9 +10,9 @@ categorySlug: bbq-covers
 categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
-  title: Custom Made Kettle BBQ Cover | Custom Cover Company Australia
+  title: Custom Made Kettle BBQ Cover | Custom Cover Company
   description: Kettle BBQ covers made to your exact diameter and height. 200gsm weatherproof polyester, fitted to round kettle BBQs of any size. Get an instant quote online.
-  keywords: [kettle bbq cover australia, custom kettle bbq cover, round bbq cover, weber kettle cover]
+  keywords: [kettle bbq cover, custom kettle bbq cover, round bbq cover, weber kettle cover]
 
 image: best-custom-kettle-bbq-cover.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your kettle BBQ with a round cover made to the exact diameter and height of your unit.
@@ -114,7 +114,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom kettle BBQ cover.
 
-guideTitle: Custom Made Kettle BBQ Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Kettle BBQ Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:
@@ -122,7 +122,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your kettle BBQ and rough dimensions and we will sort out the measurements for you.
 ---
 
-A kettle BBQ is one of the most popular backyard cooking setups in Australia — and one of the harder items to find a well-fitting cover for. This guide explains how to measure your kettle and what to look for in a cover that will actually protect it.
+A kettle BBQ is one of the most popular backyard cooking setups — and one of the harder items to find a well-fitting cover for. This guide explains how to measure your kettle and what to look for in a cover that will actually protect it.
 
 ## Why standard kettle covers never seem to fit
 

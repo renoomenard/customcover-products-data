@@ -10,12 +10,12 @@ categorySlug: chair-covers
 categoryLabel: Chair & Seating Covers
 
 seo:
-  title: Custom Made Outdoor Chair Cover | Custom Cover Company Australia
-  description: Custom outdoor chair covers made to fit your exact chair dimensions. UV and waterproof 200gsm polyester. Single chair covers shipped Australia-wide with tracked delivery.
+  title: Custom Made Outdoor Chair Cover | Custom Cover Company
+  description: Custom outdoor chair covers made to fit your exact chair dimensions. UV and waterproof 200gsm polyester. Single chair covers shipped with tracked delivery with tracked delivery.
   keywords:
-    - outdoor chair cover australia
+    - outdoor chair cover
     - custom chair cover
-    - patio chair cover australia
+    - patio chair cover
     - garden chair cover
 
 image: best-custom-cover-for-outdoor-chair.webp
@@ -37,8 +37,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Outdoor chairs come in too many shapes and sizes for a single standard cover to fit them all well.
@@ -90,7 +90,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard chair covers are made to fit the most common chair proportions, which means anything outside that range ends up with a cover that bunches at the sides or exposes the top of the back. Your cover is cut to your measurements so it fits your chair, not a chair someone else designed around.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester. The dye goes all the way through the fibre, so it does not fade unevenly or peel the way surface-coated covers can after a few seasons in Australian sun. It is UV-stable, waterproof, and built for year-round outdoor use.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester. The dye goes all the way through the fibre, so it does not fade unevenly or peel the way surface-coated covers can after a few seasons in direct sun. It is UV-stable, waterproof, and built for year-round outdoor use.
 
 faqs:
   - q: How do I measure a chair with armrests versus one without?
@@ -106,7 +106,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom outdoor chair cover.
 
-guideTitle: Custom Made Outdoor Chair Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Outdoor Chair Covers — The Complete Owner's Guide
 guideReadTime: 5 min read
 
 cta:
@@ -140,7 +140,7 @@ This measurement determines how long the cover is. The cover drops from the top 
 
 All our covers are made from 200gsm solution-dyed polyester. At this weight the fabric is substantial enough to hold its shape on a single chair without being too heavy to handle easily. It drapes well over a standard chair frame and the hem sits close to the ground without needing weights or ties in normal conditions.
 
-The solution-dyed construction means the colour is part of the fibre rather than a surface treatment. Many cheaper outdoor covers look fine when new but develop patchy fading or surface cracking after a couple of Australian summers. Solution-dyed fabric ages more evenly and stays flexible through heat and UV exposure rather than becoming brittle.
+The solution-dyed construction means the colour is part of the fibre rather than a surface treatment. Many cheaper outdoor covers look fine when new but develop patchy fading or surface cracking after a couple of seasons in direct sun. Solution-dyed fabric ages more evenly and stays flexible through heat and UV exposure rather than becoming brittle.
 
 The fabric is waterproof for normal outdoor rain. Water beads and runs off the surface. In very heavy, driving rain some moisture may find its way through seams, particularly if the cover is under sustained pressure. For most residential use this is not an issue. If you leave chairs permanently outdoors through a wet season, a veranda or awning overhead will extend the life of both the cover and the chair.
 

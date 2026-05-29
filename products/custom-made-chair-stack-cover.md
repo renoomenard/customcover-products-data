@@ -10,13 +10,13 @@ categorySlug: chair-covers
 categoryLabel: Chair & Seating Covers
 
 seo:
-  title: Custom Made Chair Stack Cover | Custom Cover Company Australia
+  title: Custom Made Chair Stack Cover | Custom Cover Company
   description: Custom covers for stacked outdoor chairs. Made to fit your exact stack height and width. UV and waterproof 200gsm polyester. Suits cafes, restaurants, and home entertaining.
   keywords:
-    - chair stack cover australia
+    - chair stack cover
     - outdoor chair stack cover
     - stacked chair cover
-    - cafe chair cover australia
+    - cafe chair cover
 
 image: best-custom-cover-for-outdoor-chairs-stack.webp
 
@@ -37,8 +37,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - A stack of outdoor chairs is an awkward shape to cover and standard covers rarely have the height for more than two or three chairs.
@@ -112,7 +112,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom chair stack cover.
 
-guideTitle: Custom Made Chair Stack Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Chair Stack Covers — The Complete Owner's Guide
 guideReadTime: 5 min read
 
 cta:
@@ -146,7 +146,7 @@ If the chairs have rubber feet or angled legs, measure from where the chair actu
 
 All our covers are made from 200gsm solution-dyed polyester. For a chair stack, you want something with enough weight to stay in place on a tall, slightly top-heavy structure without being so stiff that it is hard to pull on and off quickly. This weight hits that balance well. The cover drops over the stack from the top and sits under its own weight without needing to be tied down in calm conditions.
 
-Solution-dyed fabric means the colour runs through the fibre, not just on the surface. Surface-coated covers look fine when new but can crack and peel after a couple of Australian summers. Solution-dyed fabric does not have that problem. The colour holds, the fabric stays flexible, and it does not become brittle with heat.
+Solution-dyed fabric means the colour runs through the fibre, not just on the surface. Surface-coated covers look fine when new but can crack and peel after a couple of seasons in direct sun. Solution-dyed fabric does not have that problem. The colour holds, the fabric stays flexible, and it does not become brittle with heat.
 
 The fabric is waterproof for normal rain. Water runs off the sides and does not soak through under standard rainfall. If the top of the cover has a flat surface and rain pools there, it will eventually find a path through. Positioning the stack so it tilts very slightly, or using the cover under a veranda, avoids this.
 

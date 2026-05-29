@@ -10,9 +10,9 @@ categorySlug: daybed-covers
 categoryLabel: Daybed & Sun Lounge Covers
 
 seo:
-  title: Custom Made Sun Lounge Cover | Pool Lounger & Sun Bed Covers | Custom Cover Company Australia
+  title: Custom Made Sun Lounge Cover | Pool Lounger & Sun Bed Covers | Custom Cover Company
   description: Keep your pool lounger dry and protected with a cover made to fit its exact length, width, and height. 200gsm weatherproof polyester. Instant quote online.
-  keywords: [sun lounge cover australia, pool lounger cover, sun bed cover, custom sun lounge cover]
+  keywords: [sun lounge cover, pool lounger cover, sun bed cover, custom sun lounge cover]
 
 image: best-custom-cover-for-sunbed.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your sun lounge or pool lounger with a cover that fits the actual dimensions of your piece — length, width, and height — rather than a generic size that never quite works.
@@ -99,7 +99,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom sun lounge cover.
 
-guideTitle: Custom Made Sun Lounge Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Sun Lounge Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -143,7 +143,7 @@ A fitted cover that goes over the whole lounger, cushions included, keeps all of
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester. The pigment is added to the fibre during manufacture, which means it goes all the way through each thread rather than sitting on the surface. That is what makes it resist fading in Australian UV. Surface-dyed fabrics go patchy within a season or two in full sun.
+The face fabric is 200gsm solution-dyed polyester. The pigment is added to the fibre during manufacture, which means it goes all the way through each thread rather than sitting on the surface. That is what makes it resist fading in intense UV. Surface-dyed fabrics go patchy within a season or two in full sun.
 
 The underside carries a flexible polyurethane waterproof coating. It stays pliable in heat and cold and will not crack at fold lines over time. The whole fabric system is UV stabilised, which extends the working life of the cover in outdoor conditions.
 

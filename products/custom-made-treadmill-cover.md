@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Treadmill Cover | Outdoor Treadmill Protection | Custom Cover Company Australia
-  description: Keep your outdoor treadmill protected from rain, UV, and dust with a cover made to your exact measurements. Waterproof 200gsm polyester. Ships Australia-wide.
-  keywords: [treadmill cover australia, custom treadmill cover, outdoor treadmill cover, waterproof treadmill cover]
+  title: Custom Made Treadmill Cover | Outdoor Treadmill Protection | Custom Cover Company
+  description: Keep your outdoor treadmill protected from rain, UV, and dust with a cover made to your exact measurements. Waterproof 200gsm polyester. Ships worldwide.
+  keywords: [treadmill cover, custom treadmill cover, outdoor treadmill cover, waterproof treadmill cover]
 
 image: best-custom-cover-for-garden-treadmill.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor treadmill with a cover made to fit the actual footprint of your machine, not a generic size that leaves gaps at the sides or bunches at the base.
@@ -108,7 +108,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom treadmill cover.
 
-guideTitle: Custom Made Treadmill Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Treadmill Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:
@@ -146,7 +146,7 @@ If your treadmill has handlebars that fold down for storage, measure with them f
 
 Treadmills have a large flat top surface — the console and the area around it. Water that lands on top of a loose or poorly shaped cover sits there rather than running off. That is why waterproofing and fit both matter.
 
-The fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour is part of the fibre, not a surface coat. Australian UV conditions will fade a surface-dyed fabric within a couple of seasons. A solution-dyed fabric holds its colour through years of outdoor exposure.
+The fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour is part of the fibre, not a surface coat. prolonged UV exposure will fade a surface-dyed fabric within a couple of seasons. A solution-dyed fabric holds its colour through years of outdoor exposure.
 
 The waterproof underside is a polyurethane coating. PU coatings stay flexible in both heat and cold. They do not crack along fold lines or get sticky in summer heat the way PVC-based coatings do. Water that lands on the cover runs off to the sides rather than soaking through.
 

@@ -10,9 +10,9 @@ categorySlug: table-covers
 categoryLabel: Table & Dining Covers
 
 seo:
-  title: Custom Made Round Table Cover | Outdoor Round Dining Table Covers | Custom Cover Company Australia
+  title: Custom Made Round Table Cover | Outdoor Round Dining Table Covers | Custom Cover Company
   description: Protect your round outdoor dining table with a cover made to its exact diameter and height. 200gsm weatherproof polyester. Instant quote online.
-  keywords: [round table cover australia, outdoor round table cover, circular table cover, custom round table cover]
+  keywords: [round table cover, outdoor round table cover, circular table cover, custom round table cover]
 
 image: best-custom-cover-for-oudoor-round-table.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your round outdoor dining table with a cover made to fit its exact diameter — not the nearest standard size that leaves the edges exposed or bunches on the ground.
@@ -96,7 +96,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom round table cover.
 
-guideTitle: Custom Made Round Table Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Round Table Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -148,7 +148,7 @@ If your table is in a location that is exposed to salt air — within a few kilo
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester. The pigment is worked into the fibre during manufacture rather than applied to the surface, which is why it holds its colour in Australian UV rather than going patchy within a couple of seasons.
+The face fabric is 200gsm solution-dyed polyester. The pigment is worked into the fibre during manufacture rather than applied to the surface, which is why it holds its colour in intense UV rather than going patchy within a couple of seasons.
 
 The underside carries a flexible polyurethane waterproof coating that sheds water cleanly and stays flexible across the full range of outdoor temperatures. Both layers are UV stabilised throughout.
 

@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Outdoor Cushion Storage Cover | Keep Cushions Dry Outside | Custom Cover Company Australia
-  description: Store your outdoor cushions under a custom-made waterproof cover. Made to the dimensions of your cushion stack. Keeps them dry and dust-free. Ships Australia-wide.
-  keywords: [outdoor cushion cover australia, cushion storage cover, custom cushion cover, waterproof cushion storage]
+  title: Custom Made Outdoor Cushion Storage Cover | Keep Cushions Dry Outside | Custom Cover Company
+  description: Store your outdoor cushions under a custom-made waterproof cover. Made to the dimensions of your cushion stack. Keeps them dry and dust-free. Ships worldwide.
+  keywords: [outdoor cushion cover, cushion storage cover, custom cushion cover, waterproof cushion storage]
 
 image: best-custom-cover-for-outdoor-cushions.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Keep your outdoor cushions dry and protected between uses with a storage cover made to fit the exact dimensions of your cushion stack.
@@ -99,7 +99,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom cushion storage cover.
 
-guideTitle: Custom Made Cushion Storage Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Cushion Storage Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:

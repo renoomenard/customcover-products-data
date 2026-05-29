@@ -10,9 +10,9 @@ categorySlug: daybed-covers
 categoryLabel: Daybed & Sun Lounge Covers
 
 seo:
-  title: Custom Made Outdoor Swing Chair Cover | Hanging Pod & Hammock Chair Covers | Custom Cover Company Australia
+  title: Custom Made Outdoor Swing Chair Cover | Hanging Pod & Hammock Chair Covers | Custom Cover Company
   description: Protect your hanging pod or swing chair with a cover made to its exact width, depth, and height. 200gsm weatherproof polyester. Instant quote online.
-  keywords: [swing chair cover australia, hanging pod chair cover, outdoor hammock chair cover, custom swing chair cover]
+  keywords: [swing chair cover, hanging pod chair cover, outdoor hammock chair cover, custom swing chair cover]
 
 image: best-custom-cover-for-outdoor-swing-chair.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor swing chair or hanging pod with a cover made to the exact dimensions of the seat — not an approximate shape from a generic size range.
@@ -98,11 +98,11 @@ faqs:
   - q: How do I measure a tapered or teardrop-shaped pod?
     a: Measure the widest point for width, the deepest point for depth, and the full height from base to top of the opening. The taper is handled in the pattern — you do not need to account for it in your measurements. Just give us the maximum dimensions in each direction.
   - q: Should I bring the chair inside in a storm or is the cover enough?
-    a: For heavy storms with strong winds, bringing the chair inside is always the safer option. That said, the cover and the material are designed for continuous outdoor exposure, including normal Australian rain and wind. If the chair is on a fixed hanging point and cannot easily be brought in, the cover will do the job in most conditions.
+    a: For heavy storms with strong winds, bringing the chair inside is always the safer option. That said, the cover and the material are designed for continuous outdoor exposure, including normal rain and wind. If the chair is on a fixed hanging point and cannot easily be brought in, the cover will do the job in most conditions.
 
 faqSub: Everything you need to know about ordering a custom outdoor swing chair cover.
 
-guideTitle: Custom Made Outdoor Swing Chair Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Outdoor Swing Chair Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -148,9 +148,9 @@ On tapered models, each panel narrows from top to bottom, which adds pattern com
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour runs through each fibre rather than being applied as a surface coating, which is why it holds up in Australian UV conditions where surface-dyed fabrics go dull and patchy within a couple of seasons.
+The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour runs through each fibre rather than being applied as a surface coating, which is why it holds up in prolonged UV exposure where surface-dyed fabrics go dull and patchy within a couple of seasons.
 
-The underside carries a flexible polyurethane waterproof coating. It does not crack at seam lines or fold points in the way that stiffer PVC coatings do, and it stays flexible across the temperature range of an outdoor Australian environment.
+The underside carries a flexible polyurethane waterproof coating. It does not crack at seam lines or fold points in the way that stiffer PVC coatings do, and it stays flexible across the temperature range of an outdoor environment.
 
 Both layers are UV stabilised throughout.
 

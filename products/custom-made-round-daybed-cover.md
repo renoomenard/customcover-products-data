@@ -10,9 +10,9 @@ categorySlug: daybed-covers
 categoryLabel: Daybed & Sun Lounge Covers
 
 seo:
-  title: Custom Made Round Daybed Cover | Pod & Circular Daybed Covers | Custom Cover Company Australia
+  title: Custom Made Round Daybed Cover | Pod & Circular Daybed Covers | Custom Cover Company
   description: Protect your round or pod daybed with a cover made to fit its exact diameter. 200gsm weatherproof polyester. Enter your dimensions for an instant price.
-  keywords: [round daybed cover australia, pod daybed cover, circular daybed cover, custom daybed cover]
+  keywords: [round daybed cover, pod daybed cover, circular daybed cover, custom daybed cover]
 
 image: best-custom-cover-for-round-daybed.webp
 
@@ -33,12 +33,12 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your round or pod daybed with a cover built to match its exact diameter and height — not the closest standard size from a shelf.
-  - Each cover is cut from 200gsm solution-dyed polyester with a waterproof underside that sheds rain cleanly and holds up in full Australian sun.
+  - Each cover is cut from 200gsm solution-dyed polyester with a waterproof underside that sheds rain cleanly and holds up in full direct sun.
   - Round daybeds are sold in dozens of diameters, and no two brands seem to agree on a size. Off-the-shelf covers either leave the base exposed or bunch up with enough slack to pool water and flap in the breeze.
   - A cover made to your measurements drops cleanly over the whole structure, sits flush at the base, and protects the mattress, frame, and canopy from weather, UV, and dust.
   - Enter your diameter and height below to get an instant price.
@@ -99,7 +99,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom round daybed cover.
 
-guideTitle: Custom Made Round Daybed Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Round Daybed Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -139,11 +139,11 @@ A rectangular cover is straightforward to cut and sew. A round cover requires a 
 
 A canopy or pod shape adds further complexity because the profile is not a clean cylinder. Most pod daybeds taper or curve toward the top, which means the pattern needs to account for that change in circumference as the height increases. That is why the pricing for round daybed covers reflects a slightly higher complexity factor than a basic rectangle.
 
-## Material: why it matters outdoors in Australia
+## Material: why it matters outdoors
 
-The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour goes into the fibre during manufacture, not applied on top afterward. That is what keeps the fabric from fading in Australian UV conditions. Surface-dyed alternatives can go patchy within two seasons of full sun exposure.
+The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour goes into the fibre during manufacture, not applied on top afterward. That is what keeps the fabric from fading in prolonged UV exposure. Surface-dyed alternatives can go patchy within two seasons of full sun exposure.
 
-The underside carries a flexible polyurethane waterproof coating. Polyurethane stays flexible across the temperature range of an Australian outdoor environment — from cold overnight winter temperatures to 40-plus degree summer afternoons. It will not crack at fold lines the way stiffer PVC coatings do, and it does not get sticky in direct heat.
+The underside carries a flexible polyurethane waterproof coating. Polyurethane stays flexible across the temperature range of an outdoor conditions — from cold overnight winter temperatures to 40-plus degree summer afternoons. It will not crack at fold lines the way stiffer PVC coatings do, and it does not get sticky in direct heat.
 
 Both the face fabric and the undercoating are UV stabilised, which extends the working life of the cover significantly compared to non-stabilised materials.
 

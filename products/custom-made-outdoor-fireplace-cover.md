@@ -10,9 +10,9 @@ categorySlug: lounge-covers
 categoryLabel: Lounge & Sofa Covers
 
 seo:
-  title: Custom Made Outdoor Fireplace Cover | Custom Cover Company Australia
-  description: Made-to-measure covers for outdoor fireplaces, fire pits, and chimineas. 200gsm waterproof polyester. Always allow to cool before covering. Ships Australia-wide.
-  keywords: [outdoor fireplace cover australia, custom fire pit cover, chiminea cover, outdoor fireplace cover made to measure]
+  title: Custom Made Outdoor Fireplace Cover | Custom Cover Company
+  description: Made-to-measure covers for outdoor fireplaces, fire pits, and chimineas. 200gsm waterproof polyester. Always allow to cool before covering. Ships worldwide.
+  keywords: [outdoor fireplace cover, custom fire pit cover, chiminea cover, outdoor fireplace cover made to measure]
 
 image: best-custom-outdoor-fireplace-cover.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor fireplace, fire pit, or chiminea with a cover built to your exact dimensions.
@@ -120,7 +120,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom outdoor fireplace cover.
 
-guideTitle: Custom Made Outdoor Fireplace Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Outdoor Fireplace Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -128,7 +128,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your outdoor fireplace and rough dimensions and we will sort out the measurements for you.
 ---
 
-Outdoor fireplaces and fire pits have become a fixture in Australian backyards, particularly in colder climates where people want to use their outdoor spaces year-round. A well-chosen fireplace can transform a patio or deck from a summer-only space to somewhere comfortable from autumn through spring. The downside is that a metal fireplace left uncovered in the rain will start to show its age quickly, and a good cover makes a significant difference to how long it lasts.
+Outdoor fireplaces and fire pits have become a fixture in backyards, particularly in colder climates where people want to use their outdoor spaces year-round. A well-chosen fireplace can transform a patio or deck from a summer-only space to somewhere comfortable from autumn through spring. The downside is that a metal fireplace left uncovered in the rain will start to show its age quickly, and a good cover makes a significant difference to how long it lasts.
 
 ## Why outdoor fireplaces need a fitted cover
 
@@ -162,7 +162,7 @@ The minimum recommended waiting time after the last fire is 12 hours. In cold we
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed fabric is significantly more resistant to UV fading than conventionally dyed polyester. The pigment goes into the fibre during production rather than being applied to the surface, so it holds its colour through years of sun exposure. In Australia's UV environment, this matters more than it might in other climates.
+All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed fabric is significantly more resistant to UV fading than conventionally dyed polyester. The pigment goes into the fibre during production rather than being applied to the surface, so it holds its colour through years of sun exposure. In intense UV environments, this difference is especially noticeable.
 
 The PU coating on the underside is bonded to the fabric and stays flexible in cold weather. Unlike older PVC coatings, it does not crack along fold lines after a few seasons. All seams are reinforced and the base hem has enough structure to stay in position in light winds without needing ties.
 

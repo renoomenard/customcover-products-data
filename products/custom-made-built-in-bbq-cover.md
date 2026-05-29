@@ -10,9 +10,9 @@ categorySlug: bbq-covers
 categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
-  title: Custom Made Built-In BBQ Cover | Custom Cover Company Australia
-  description: Protect your built-in BBQ head unit with a cover made to its exact dimensions. 200gsm weatherproof polyester, made in Australia. Enter your measurements for an instant quote.
-  keywords: [built-in bbq cover australia, custom built-in bbq cover, outdoor kitchen bbq cover, made to measure bbq cover]
+  title: Custom Made Built-In BBQ Cover | Custom Cover Company
+  description: Protect your built-in BBQ head unit with a cover made to its exact dimensions. 200gsm weatherproof polyester, custom made. Enter your measurements for an instant quote.
+  keywords: [built-in bbq cover, custom built-in bbq cover, outdoor kitchen bbq cover, made to measure bbq cover]
 
 image: best-custom-built-in-bbq-cover.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your built-in BBQ head unit with a cover made to the exact dimensions of the BBQ, not the surrounding bench.
@@ -105,7 +105,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom built-in BBQ cover.
 
-guideTitle: Custom Made Built-In BBQ Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Built-In BBQ Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -147,7 +147,7 @@ Height is measured from the top surface of the surrounding bench up to the highe
 
 Built-in BBQs in outdoor kitchens tend to be higher-end units. They are worth protecting well.
 
-The face fabric on every cover we make is 200gsm solution-dyed polyester. Solution-dyed means the colour pigment is added to the polymer before the fibre is formed, so the colour runs all the way through each thread rather than sitting on the surface. That is what makes it fade-resistant in Australian conditions, where surface-dyed or printed fabrics become patchy and chalky within two or three seasons of summer UV.
+The face fabric on every cover we make is 200gsm solution-dyed polyester. Solution-dyed means the colour pigment is added to the polymer before the fibre is formed, so the colour runs all the way through each thread rather than sitting on the surface. That is what makes it fade-resistant in outdoor conditions, where surface-dyed or printed fabrics become patchy and chalky within two or three seasons of summer UV.
 
 The underside carries a flexible polyurethane waterproof coating. This is important for a BBQ cover because the unit goes through repeated heat cycles during use. A rigid coating like PVC will crack at the fold lines when the cover is taken on and off. Polyurethane stays flexible and does not break down in heat.
 

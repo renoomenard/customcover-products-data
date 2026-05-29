@@ -10,9 +10,9 @@ categorySlug: lounge-covers
 categoryLabel: Lounge & Sofa Covers
 
 seo:
-  title: Custom Made Lounge Chair Cover | Custom Cover Company Australia
-  description: Made-to-measure covers for outdoor lounge chairs, tub chairs, and accent chairs. 200gsm waterproof polyester. Instant quote. Ships Australia-wide.
-  keywords: [outdoor lounge chair cover australia, custom tub chair cover, outdoor armchair cover, garden chair cover made to measure]
+  title: Custom Made Lounge Chair Cover | Custom Cover Company
+  description: Made-to-measure covers for outdoor lounge chairs, tub chairs, and accent chairs. 200gsm waterproof polyester. Instant quote. Ships worldwide.
+  keywords: [outdoor lounge chair cover, custom tub chair cover, outdoor armchair cover, garden chair cover made to measure]
 
 image: best-custom-cover-for-garden-lounge-chair.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor lounge chair with a cover built to your exact dimensions.
@@ -102,7 +102,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom outdoor lounge chair cover.
 
-guideTitle: Custom Made Outdoor Lounge Chair Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Outdoor Lounge Chair Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:
@@ -110,7 +110,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your lounge chair and rough dimensions and we will sort out the measurements for you.
 ---
 
-Outdoor lounge chairs are used in almost every configuration of Australian outdoor living — on front porches, balconies, around pool areas, in gardens, and on alfresco decks. They tend to stay outside year-round, and because they come in such a wide variety of shapes and sizes, finding a cover that actually fits is genuinely difficult.
+Outdoor lounge chairs are used in almost every configuration of outdoor living — on front porches, balconies, around pool areas, in gardens, and on alfresco decks. They tend to stay outside year-round, and because they come in such a wide variety of shapes and sizes, finding a cover that actually fits is genuinely difficult.
 
 ## Why standard covers rarely fit an outdoor lounge chair
 
@@ -148,7 +148,7 @@ Many people buy lounge chairs in pairs, and covering them individually is often 
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed polyester holds its colour far longer than conventionally dyed fabric because the pigment goes into the fibre during production. In Australian conditions, where UV exposure is intense for much of the year, the difference is noticeable after the first summer or two of regular use.
+All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed polyester holds its colour far longer than conventionally dyed fabric because the pigment goes into the fibre during production. In outdoor conditions, where UV exposure is intense for much of the year, the difference is noticeable after the first summer or two of regular use.
 
 The PU coating on the underside is flexible and stays that way through cold winters, unlike older PVC coatings which tend to crack at fold lines after a season or two. Seams are reinforced throughout, and the base hem has enough structure to sit in position in light winds without needing to be tied down.
 

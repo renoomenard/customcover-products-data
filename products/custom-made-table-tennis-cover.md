@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Table Tennis Table Cover | Outdoor Ping Pong Table Cover | Custom Cover Company Australia
-  description: Keep your outdoor table tennis table protected from rain, UV, and warping with a custom-made cover. Made to your exact dimensions. Ships Australia-wide.
-  keywords: [table tennis table cover australia, ping pong table cover, outdoor table tennis cover, custom table cover]
+  title: Custom Made Table Tennis Table Cover | Outdoor Ping Pong Table Cover | Custom Cover Company
+  description: Keep your outdoor table tennis table protected from rain, UV, and warping with a custom-made cover. Made to your exact dimensions. Ships worldwide.
+  keywords: [table tennis table cover, ping pong table cover, outdoor table tennis cover, custom table cover]
 
 image: best-custom-cover-for-table-tennis-table.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor table tennis table from rain, warping, UV, and debris with a cover made to fit the actual dimensions of your table.
@@ -108,7 +108,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom table tennis table cover.
 
-guideTitle: Custom Made Table Tennis Table Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Table Tennis Table Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:
@@ -122,7 +122,7 @@ An outdoor table tennis table is a piece of equipment that sees regular use and 
 
 The playing surface on a table tennis table is a compressed fibreboard or medium-density fibreboard panel with a melamine or resin coating. Indoor tables use panels that are not moisture-resistant at all. Outdoor tables use panels designed to handle occasional moisture, but they are not immune to prolonged exposure.
 
-When a table surface absorbs moisture, the fibreboard swells unevenly. The edges swell more than the centre because that is where moisture enters first. Over a season or two of Australian rain and humidity, an unprotected outdoor table will develop warped edges that cause the ball to bounce differently near the sides. In more severe cases the surface can delaminate or the frame can warp enough to affect the table's fold mechanism.
+When a table surface absorbs moisture, the fibreboard swells unevenly. The edges swell more than the centre because that is where moisture enters first. Over a season or two of rain and humidity, an unprotected outdoor table will develop warped edges that cause the ball to bounce differently near the sides. In more severe cases the surface can delaminate or the frame can warp enough to affect the table's fold mechanism.
 
 Covering the table between uses prevents this. The cover keeps rain off the surface, reduces the humidity gradient between the top and underside of the panel, and extends the life of the playing surface significantly.
 

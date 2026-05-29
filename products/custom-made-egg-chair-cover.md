@@ -10,10 +10,10 @@ categorySlug: chair-covers
 categoryLabel: Chair & Seating Covers
 
 seo:
-  title: Custom Made Egg Chair Cover | Custom Cover Company Australia
-  description: Custom egg chair covers made to your exact pod dimensions. UV and waterproof 200gsm polyester. Fits hanging and floor-standing egg chairs. Ships Australia-wide.
+  title: Custom Made Egg Chair Cover | Custom Cover Company
+  description: Custom egg chair covers made to your exact pod dimensions. UV and waterproof 200gsm polyester. Fits hanging and floor-standing egg chairs. Ships worldwide.
   keywords:
-    - egg chair cover australia
+    - egg chair cover
     - custom egg chair cover
     - outdoor egg chair cover
     - hanging egg chair cover
@@ -37,8 +37,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Egg chairs have a curved pod shape that standard covers simply cannot fit properly.
@@ -93,7 +93,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Egg chairs come in dozens of shapes and sizes, and no two brands are identical. A cover cut to a flat rectangular template will never sit flush against a curved pod. We pattern each cover to your three measurements so the fabric follows the shape of the chair and stays secure in the wind.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester regardless of size or complexity. The dye goes through the entire fibre, so the colour does not fade or peel away from a surface coating. It is UV-stable, waterproof, and tough enough for year-round outdoor use across any Australian climate.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester regardless of size or complexity. The dye goes through the entire fibre, so the colour does not fade or peel away from a surface coating. It is UV-stable, waterproof, and tough enough for year-round outdoor use across any outdoor climates.
 
 faqs:
   - q: How do I measure a curved pod shape accurately?
@@ -109,7 +109,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom egg chair cover.
 
-guideTitle: Custom Made Egg Chair Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Egg Chair Covers — The Complete Owner's Guide
 guideReadTime: 5 min read
 
 cta:
@@ -137,7 +137,7 @@ A note on the stand and hanging frame. These are not part of your measurements. 
 
 ## The material
 
-All our covers are made from 200gsm solution-dyed polyester. The weight is heavy enough to hold its shape on a curved pod without sagging but light enough that the cover is easy to put on and take off. Solution-dyed means the colour is part of the fibre itself rather than a surface treatment. Covers with a surface coating can peel, crack, or fade unevenly after a season or two in Australian sun. Solution-dyed fabric holds its colour and stays flexible through heat and UV exposure.
+All our covers are made from 200gsm solution-dyed polyester. The weight is heavy enough to hold its shape on a curved pod without sagging but light enough that the cover is easy to put on and take off. Solution-dyed means the colour is part of the fibre itself rather than a surface treatment. Covers with a surface coating can peel, crack, or fade unevenly after a season or two in direct sun. Solution-dyed fabric holds its colour and stays flexible through heat and UV exposure.
 
 The fabric is waterproof. Rain runs off cleanly and the seams are tight enough to stop water working through under normal rainfall. The cover is not designed to be submerged or to handle pooling water on its surface, so if you can position the chair under an overhang during heavy rain that will extend the life of the cover.
 

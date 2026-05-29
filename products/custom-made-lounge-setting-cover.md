@@ -10,9 +10,9 @@ categorySlug: lounge-covers
 categoryLabel: Lounge & Sofa Covers
 
 seo:
-  title: Custom Made Lounge Setting Cover | Custom Cover Company Australia
-  description: Made-to-measure covers for complete outdoor lounge settings. One cover over your whole arrangement. 200gsm waterproof polyester. Instant quote. Ships Australia-wide.
-  keywords: [outdoor lounge setting cover, custom lounge set cover australia, outdoor furniture setting cover, garden lounge set cover]
+  title: Custom Made Lounge Setting Cover | Custom Cover Company
+  description: Made-to-measure covers for complete outdoor lounge settings. One cover over your whole arrangement. 200gsm waterproof polyester. Instant quote. Ships worldwide.
+  keywords: [outdoor lounge setting cover, custom lounge set cover, outdoor furniture setting cover, garden lounge set cover]
 
 image: best-custom-cover-for-garden-lounge-set.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Cover your complete outdoor lounge setting — sofa, chairs, and coffee table — with a single made-to-measure cover.
@@ -108,7 +108,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom lounge setting cover.
 
-guideTitle: Custom Made Lounge Setting Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Lounge Setting Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -116,7 +116,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your lounge setting and rough dimensions and we will sort out the measurements for you.
 ---
 
-Most outdoor lounge settings in Australia are a combination of pieces: a sofa, two or three occasional chairs, and a coffee table in the centre. They sit in one position, they get used together, and when the weather turns, they need to be protected together. The question is how to do that without putting on and taking off four separate covers every time.
+Most outdoor lounge settings are a combination of pieces: a sofa, two or three occasional chairs, and a coffee table in the centre. They sit in one position, they get used together, and when the weather turns, they need to be protected together. The question is how to do that without putting on and taking off four separate covers every time.
 
 ## Why a single setting cover makes sense
 
@@ -150,7 +150,7 @@ The cover drops over the whole setting as one piece. The sofa and chairs hold th
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed construction means the colour goes through the fibre during production rather than being applied to the surface. This gives the fabric far better UV resistance than conventionally dyed alternatives — important in Australia, where UV levels are among the highest in the world. The PU coating on the underside keeps rain out without making the cover stiff, and it stays flexible through cold temperatures rather than cracking along fold lines.
+All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed construction means the colour goes through the fibre during production rather than being applied to the surface. This gives the fabric far better UV resistance than conventionally dyed alternatives — important wherever UV exposure is high. The PU coating on the underside keeps rain out without making the cover stiff, and it stays flexible through cold temperatures rather than cracking along fold lines.
 
 Seams are reinforced throughout. The base hem has enough weight to sit in position in a light breeze without needing ties.
 

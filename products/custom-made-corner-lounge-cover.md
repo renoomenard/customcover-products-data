@@ -10,9 +10,9 @@ categorySlug: lounge-covers
 categoryLabel: Lounge & Sofa Covers
 
 seo:
-  title: Custom Made Corner Lounge Cover | L-Shape Lounge Covers | Custom Cover Company Australia
+  title: Custom Made Corner Lounge Cover | L-Shape Lounge Covers | Custom Cover Company
   description: Cover your corner lounge with a tailor-made outdoor furniture cover. Made from 200gsm solution-dyed polyester with a waterproof undercoating. Enter your measurements for an instant quote.
-  keywords: [corner lounge cover, l-shape lounge cover australia, custom outdoor lounge cover, outdoor corner sofa cover]
+  keywords: [corner lounge cover, l-shape lounge cover, custom outdoor lounge cover, outdoor corner sofa cover]
 
 image: corner-lounge.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your corner lounge with a cover built specifically for the shape of your furniture.
@@ -119,7 +119,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom corner lounge cover.
 
-guideTitle: Custom Made Corner Lounge Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Corner Lounge Covers — The Complete Owner's Guide
 guideReadTime: 10 min read
 
 cta:
@@ -127,7 +127,7 @@ cta:
   body: Our team is happy to walk you through it. Send us a photo of your lounge and rough dimensions, and we will do the rest.
 ---
 
-Corner lounges are the centrepiece of a lot of Australian outdoor living spaces — and they are also one of the hardest pieces of furniture to protect properly. This guide covers everything you need to know before ordering a custom cover for an L-shape lounge.
+Corner lounges are the centrepiece of a lot of outdoor living spaces — and they are also one of the hardest pieces of furniture to protect properly. This guide covers everything you need to know before ordering a custom cover for an L-shape lounge.
 
 ## Why corner lounges need a different kind of cover
 
@@ -179,7 +179,7 @@ The face fabric is not waterproof on its own. The waterproof barrier is a coatin
 
 ### UV stabilisation
 
-Australia has some of the most punishing UV in the world. A solution-dyed fabric with a stabilised PU coating will typically last five to seven years in full sun without significant degradation. Non-stabilised materials can start chalking and flaking within eighteen months.
+UV exposure can be intense and damaging depending on your location. A solution-dyed fabric with a stabilised PU coating will typically last five to seven years in full sun without significant degradation. Non-stabilised materials can start chalking and flaking within eighteen months.
 
 ## Caring for your cover
 

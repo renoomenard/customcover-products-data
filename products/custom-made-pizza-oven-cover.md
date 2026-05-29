@@ -10,9 +10,9 @@ categorySlug: bbq-covers
 categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
-  title: Custom Made Pizza Oven Cover | Custom Cover Company Australia
+  title: Custom Made Pizza Oven Cover | Custom Cover Company
   description: Pizza oven covers made to the exact dimensions of your dome or arch oven. 200gsm weatherproof polyester, cut to your measurements. Get an instant quote online.
-  keywords: [pizza oven cover australia, custom pizza oven cover, outdoor pizza oven cover, dome oven cover]
+  keywords: [pizza oven cover, custom pizza oven cover, outdoor pizza oven cover, dome oven cover]
 
 image: best-custom-pizza-oven-cover.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your pizza oven with a cover made to fit the widest, deepest, and tallest point of your dome or arch oven.
@@ -117,7 +117,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom pizza oven cover.
 
-guideTitle: Custom Made Pizza Oven Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Pizza Oven Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:

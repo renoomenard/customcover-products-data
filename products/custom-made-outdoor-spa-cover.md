@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Outdoor Spa Cover | External Cabinet Cover for Hot Tubs | Custom Cover Company Australia
-  description: Protect your spa cabinet, plumbing, and controls with a custom-made external cover. Waterproof 200gsm polyester. Made to your exact dimensions. Ships Australia-wide.
-  keywords: [outdoor spa cover australia, hot tub cover, custom spa cabinet cover, portable spa cover]
+  title: Custom Made Outdoor Spa Cover | External Cabinet Cover for Hot Tubs | Custom Cover Company
+  description: Protect your spa cabinet, plumbing, and controls with a custom-made external cover. Waterproof 200gsm polyester. Made to your exact dimensions. Ships worldwide.
+  keywords: [outdoor spa cover, hot tub cover, custom spa cabinet cover, portable spa cover]
 
 image: best-custom-cover-for-outdoor-spa.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect the outside of your portable spa with a custom-made cover built to fit the actual dimensions of your cabinet, not a generic size that leaves the base or corners exposed.
@@ -105,7 +105,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom outdoor spa cover.
 
-guideTitle: Custom Made Outdoor Spa Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Outdoor Spa Covers — The Complete Owner's Guide
 guideReadTime: 6 min read
 
 cta:
@@ -113,7 +113,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your spa and rough dimensions and we will sort out the measurements for you.
 ---
 
-A portable spa or hot tub is a significant investment. The cabinet, plumbing, and control systems are built to handle water from the inside, but they are not always designed to cope with years of Australian sun and weather from the outside. This guide explains how an external cabinet cover works and how to measure for one.
+A portable spa or hot tub is a significant investment. The cabinet, plumbing, and control systems are built to handle water from the inside, but they are not always designed to cope with years of direct sun and weather from the outside. This guide explains how an external cabinet cover works and how to measure for one.
 
 ## What this cover is for
 
@@ -139,7 +139,7 @@ Height runs from the ground to the top edge of the cabinet, which is the lip or 
 
 ## Why the cabinet needs protection
 
-The cabinet panels on most portable spas are made from a synthetic wood composite or a UV-stabilised polymer. Both are designed to resist normal outdoor exposure, but neither is completely immune to extended UV in Australian conditions.
+The cabinet panels on most portable spas are made from a synthetic wood composite or a UV-stabilised polymer. Both are designed to resist normal outdoor exposure, but neither is completely immune to extended UV in outdoor conditions.
 
 The problem compounds over time. UV breaks down the surface finish on the panels, which makes them more porous. Once the surface starts to crack or fade, moisture can get behind the panels, which causes warping and eventually compromises the panel fixing points. Replacing cabinet panels is expensive and on some spa models is not straightforward.
 

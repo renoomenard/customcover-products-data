@@ -10,9 +10,9 @@ categorySlug: table-covers
 categoryLabel: Table & Dining Covers
 
 seo:
-  title: Custom Made Bar Setting Cover | Custom Cover Company Australia
-  description: Tailor-made covers for outdoor bar tables and bar stool settings. 200gsm waterproof polyester cut to your exact size. Instant quote. Ships Australia-wide.
-  keywords: [bar table cover australia, outdoor bar setting cover, custom bar stool cover, alfresco bar cover]
+  title: Custom Made Bar Setting Cover | Custom Cover Company
+  description: Tailor-made covers for outdoor bar tables and bar stool settings. 200gsm waterproof polyester cut to your exact size. Instant quote. Ships worldwide.
+  keywords: [bar table cover, outdoor bar setting cover, custom bar stool cover, alfresco bar cover]
 
 image: best-custom-cover-for-outdoor-bar-table-set.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor bar setting — table and stools together — with a single cover built to your exact dimensions.
@@ -99,7 +99,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom bar setting cover.
 
-guideTitle: Custom Made Bar Setting Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Bar Setting Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -107,7 +107,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your bar setting and rough dimensions and we will sort out the measurements for you.
 ---
 
-Outdoor bar settings are one of the most used pieces of furniture in an Australian alfresco or entertaining area. They work for breakfast, afternoon drinks, casual dinners, and everything in between. They also tend to stay outdoors year-round, which means a decent cover is not optional if you want the setting to look good for more than a season or two.
+Outdoor bar settings are one of the most used pieces of furniture in an alfresco or entertaining area. They work for breakfast, afternoon drinks, casual dinners, and everything in between. They also tend to stay outdoors year-round, which means a decent cover is not optional if you want the setting to look good for more than a season or two.
 
 ## The problem with standard covers for bar settings
 
@@ -143,7 +143,7 @@ If your setting is in a particularly exposed spot — a rooftop, a coastal deck,
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed polyester holds its colour far longer than conventionally dyed fabrics because the pigment goes into the fibre during production rather than onto the surface. In the Australian climate, where UV levels are high, this matters a great deal. A solution-dyed cover will still look presentable after four or five years of regular exposure. A conventionally dyed cover can start fading badly within twelve to eighteen months.
+All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed polyester holds its colour far longer than conventionally dyed fabrics because the pigment goes into the fibre during production rather than onto the surface. In the outdoor climates, where UV levels are high, this matters a great deal. A solution-dyed cover will still look presentable after four or five years of regular exposure. A conventionally dyed cover can start fading badly within twelve to eighteen months.
 
 The PU waterproof coating keeps the cover flexible in cold weather and does not crack along fold lines, which is common with PVC-based coatings. Seams are reinforced throughout, and the base hem has enough structure to hold its shape without being rigid.
 

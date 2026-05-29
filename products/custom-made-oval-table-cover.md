@@ -10,9 +10,9 @@ categorySlug: table-covers
 categoryLabel: Table & Dining Covers
 
 seo:
-  title: Custom Made Oval Table Cover | Custom Cover Company Australia
-  description: Made-to-measure covers for oval outdoor dining tables. 200gsm waterproof polyester cut to your exact length and width. Instant quote. Ships Australia-wide.
-  keywords: [oval table cover australia, custom oval outdoor table cover, made to measure oval dining cover, outdoor oval table cover]
+  title: Custom Made Oval Table Cover | Custom Cover Company
+  description: Made-to-measure covers for oval outdoor dining tables. 200gsm waterproof polyester cut to your exact length and width. Instant quote. Ships worldwide.
+  keywords: [oval table cover, custom oval outdoor table cover, made to measure oval dining cover, outdoor oval table cover]
 
 image: best-custom-cover-for-outdoor-oval-table-set.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your oval outdoor dining table with a cover cut to match your exact dimensions.
@@ -99,7 +99,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom oval table cover.
 
-guideTitle: Custom Made Oval Table Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Oval Table Covers — The Complete Owner's Guide
 guideReadTime: 7 min read
 
 cta:
@@ -107,7 +107,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your oval table and rough dimensions and we will sort out the measurements for you.
 ---
 
-Oval outdoor dining tables are a popular choice in Australian backyards and alfresco areas. The shape encourages conversation, seats guests without sharp corners, and looks great with the right outdoor setting. The problem comes when you try to find a cover that actually fits one.
+Oval outdoor dining tables are a popular choice in backyards and alfresco areas. The shape encourages conversation, seats guests without sharp corners, and looks great with the right outdoor setting. The problem comes when you try to find a cover that actually fits one.
 
 ## Why rectangular covers do not work on oval tables
 

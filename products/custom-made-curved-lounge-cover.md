@@ -10,9 +10,9 @@ categorySlug: lounge-covers
 categoryLabel: Lounge & Sofa Covers
 
 seo:
-  title: Custom Made Curved Lounge Cover | Custom Cover Company Australia
-  description: Made-to-measure covers for curved and crescent-shaped outdoor lounges. 200gsm waterproof polyester built to your exact chord length and depth. Ships Australia-wide.
-  keywords: [curved lounge cover australia, crescent sofa cover outdoor, custom curved outdoor lounge cover, arc lounge cover]
+  title: Custom Made Curved Lounge Cover | Custom Cover Company
+  description: Made-to-measure covers for curved and crescent-shaped outdoor lounges. 200gsm waterproof polyester built to your exact chord length and depth. Ships worldwide.
+  keywords: [curved lounge cover, crescent sofa cover outdoor, custom curved outdoor lounge cover, arc lounge cover]
 
 image: best-custom-cover-for-curved-outdoor-lounges.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your curved or crescent-shaped outdoor lounge with a cover built to follow the arc of your furniture.
@@ -111,7 +111,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom curved lounge cover.
 
-guideTitle: Custom Made Curved Lounge Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Curved Lounge Covers — The Complete Owner's Guide
 guideReadTime: 8 min read
 
 cta:
@@ -119,7 +119,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your curved lounge and rough dimensions and we will sort out the measurements for you.
 ---
 
-Curved outdoor lounges have become a popular choice in Australian outdoor living spaces over the past several years. The crescent or arc shape is visually striking, and it creates a natural seating arrangement that works well around a central coffee table or fire pit. The problem is that a curved lounge is one of the hardest pieces of outdoor furniture to find a cover for.
+Curved outdoor lounges have become a popular choice in outdoor living spaces over the past several years. The crescent or arc shape is visually striking, and it creates a natural seating arrangement that works well around a central coffee table or fire pit. The problem is that a curved lounge is one of the hardest pieces of outdoor furniture to find a cover for.
 
 ## Why curved lounges cannot be covered with a standard cover
 

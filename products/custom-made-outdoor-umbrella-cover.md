@@ -10,9 +10,9 @@ categorySlug: miscellaneous-covers
 categoryLabel: Specialty Covers
 
 seo:
-  title: Custom Made Outdoor Umbrella Cover | Patio Umbrella Covers Australia | Custom Cover Company Australia
-  description: Protect your outdoor umbrella canopy from UV, fading, and rain with a custom-made cover. Made to your furled canopy dimensions. Ships Australia-wide.
-  keywords: [outdoor umbrella cover australia, patio umbrella cover, custom umbrella cover, umbrella canopy cover]
+  title: Custom Made Outdoor Umbrella Cover | Patio Umbrella Covers | Custom Cover Company
+  description: Protect your outdoor umbrella canopy from UV, fading, and rain with a custom-made cover. Made to your furled canopy dimensions. Ships worldwide.
+  keywords: [outdoor umbrella cover, patio umbrella cover, custom umbrella cover, umbrella canopy cover]
 
 image: best-custom-cover-for-outdoor-umbrella.webp
 
@@ -33,8 +33,8 @@ highlights:
     title: Made in 3 Weeks
     desc: Express options available
   - icon: truck
-    title: Australia-Wide Delivery
-    desc: Tracked courier to every state
+    title: Nationwide Delivery
+    desc: Tracked courier delivery
 
 shortDescription:
   - Protect your outdoor umbrella canopy from fading and weather damage with a cover made to fit the exact diameter and length of your furled umbrella.
@@ -96,7 +96,7 @@ faqs:
 
 faqSub: Everything you need to know about ordering a custom outdoor umbrella cover.
 
-guideTitle: Custom Made Outdoor Umbrella Covers — The Australian Owner's Complete Guide
+guideTitle: Custom Made Outdoor Umbrella Covers — The Complete Owner's Guide
 guideReadTime: 5 min read
 
 cta:
@@ -104,7 +104,7 @@ cta:
   body: Our team is happy to help. Send us a photo of your umbrella and rough dimensions and we will sort out the measurements for you.
 ---
 
-An outdoor umbrella canopy can fade within a single Australian summer if it is left open or uncovered between uses. This guide covers how to measure for a cover and why it is worth doing from day one.
+An outdoor umbrella canopy can fade within a single season if it is left open or uncovered between uses. This guide covers how to measure for a cover and why it is worth doing from day one.
 
 ## Why umbrella canopies fade
 
