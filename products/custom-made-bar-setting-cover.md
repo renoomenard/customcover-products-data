@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-bar-table-set.webp
 review:
   quote: We use our bar setting on the alfresco almost every weekend, then cover it at the end of the night. Getting a cover made to the actual width with stools pushed in was the only way to get something that sat properly and did not flap around.
   name: Jason W.
-  location: Perth, WA
   initials: JW
 
 highlights:

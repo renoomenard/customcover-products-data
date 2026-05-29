@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-swing-chair.webp
 review:
   quote: We are two streets from the beach and the salt air destroys everything. This cover has kept our swing chair looking brand new through two winters now. The fit is spot on — no flapping, no gaps.
   name: Joel P.
-  location: Manly, NSW
   initials: JP
 
 highlights:

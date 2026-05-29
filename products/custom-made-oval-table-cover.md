@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-oval-table-set.webp
 review:
   quote: Standard rectangular covers always puffed out at the sides and looked ridiculous on our oval table. This one follows the shape properly and fits like it was made for it — because it was.
   name: Claire M.
-  location: Brisbane, QLD
   initials: CM
 
 highlights:

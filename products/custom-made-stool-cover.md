@@ -23,7 +23,6 @@ image: best-custom-cover-for-oudoor-stool.webp
 review:
   quote: I have four bar stools at my outdoor kitchen and they were getting wrecked by the sun and rain. These covers fit each one perfectly and they look much better than the ill-fitting ones I tried before.
   name: C. Nakamura
-  location: Palm Beach, QLD
   initials: CN
 
 highlights:

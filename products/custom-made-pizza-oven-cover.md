@@ -19,7 +19,6 @@ image: best-custom-pizza-oven-cover.webp
 review:
   quote: Learnt the hard way that leaving a pizza oven uncovered in a Sydney winter is a bad idea. Ordered this after water got into the dome and cracked a tile. Fits perfectly and has been on every week since.
   name: Sonja R.
-  location: Sydney, NSW
   initials: SR
 
 highlights:

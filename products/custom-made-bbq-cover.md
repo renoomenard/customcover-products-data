@@ -19,7 +19,6 @@ image: best-custom-bbq-cover.webp
 review:
   quote: Ordered this after ruining two cheap covers in one summer. This one fits perfectly and hasn't let a drop through — six months later it still looks brand new.
   name: Mark T.
-  location: Brisbane, QLD
   initials: MT
 
 highlights:

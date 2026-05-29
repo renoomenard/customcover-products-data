@@ -19,7 +19,6 @@ image: best-custom-cover-for-table-tennis-table.webp
 review:
   quote: The table lives outside under the pergola and we play on it most weekends. This cover goes on after every game and the table surface is still perfectly flat and smooth after two years outdoors — no warping at all.
   name: Peter H.
-  location: Brisbane, QLD
   initials: PH
 
 highlights:

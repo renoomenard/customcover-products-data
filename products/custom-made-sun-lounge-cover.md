@@ -19,7 +19,6 @@ image: best-custom-cover-for-sunbed.webp
 review:
   quote: Left my pool lounger uncovered through one wet season and ruined the cushions completely. This cover has been on it for two summers now and everything underneath is still in perfect condition. Wish I had done it sooner.
   name: Karen B.
-  location: Darwin, NT
   initials: KB
 
 highlights:

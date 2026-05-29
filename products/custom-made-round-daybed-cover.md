@@ -19,7 +19,6 @@ image: best-custom-cover-for-round-daybed.webp
 review:
   quote: Every standard cover I tried either sat too high or was too wide and pooled water on top. This one fits the pod perfectly. Finally sorted after three failed attempts.
   name: Simone H.
-  location: Gold Coast, QLD
   initials: SH
 
 highlights:

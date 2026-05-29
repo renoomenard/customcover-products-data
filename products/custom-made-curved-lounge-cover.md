@@ -19,7 +19,6 @@ image: best-custom-cover-for-curved-outdoor-lounges.webp
 review:
   quote: I spent months trying to find a cover for our curved outdoor sofa. Nothing came close. Having one made to the actual chord measurement was the only solution that worked — it fits perfectly and does not gather at the ends.
   name: Natasha B.
-  location: Gold Coast, QLD
   initials: NB
 
 highlights:

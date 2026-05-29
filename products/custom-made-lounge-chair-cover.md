@@ -19,7 +19,6 @@ image: best-custom-cover-for-garden-lounge-chair.webp
 review:
   quote: We have two wicker lounge chairs on the front porch and they are out in all weather. Having covers made to the exact dimensions means they slip on and off easily and nothing is left sticking out. The chairs still look new after two winters.
   name: Helen T.
-  location: Hobart, TAS
   initials: HT
 
 highlights:

@@ -19,7 +19,6 @@ image: best-custom-kettle-bbq-cover.webp
 review:
   quote: Generic kettle covers were always either too small to pull on properly or so big they just slid off. This one fits the way a cover should — snug over the lid and stays put in the wind.
   name: Paul H.
-  location: Melbourne, VIC
   initials: PH
 
 highlights:

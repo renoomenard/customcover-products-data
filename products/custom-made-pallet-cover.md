@@ -19,7 +19,6 @@ image: best-custom-cover-for-pallets.webp
 review:
   quote: Built a pallet lounge setting for the backyard and spent the whole first summer wondering what to use as a cover. This was the answer — made exactly to the size of the setting and it has been on there every winter since.
   name: Ryan K.
-  location: Melbourne, VIC
   initials: RK
 
 highlights:

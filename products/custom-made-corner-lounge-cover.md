@@ -19,7 +19,6 @@ image: corner-lounge.webp
 review:
   quote: Fits our outdoor sectional perfectly. The corner sits flush, no flapping in the wind, and water just runs straight off.
   name: Sarah R.
-  location: Sydney, NSW
   initials: SR
 
 highlights:

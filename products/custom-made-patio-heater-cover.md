@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-patio-heater.webp
 review:
   quote: Our heater lives on the outdoor entertaining area year-round. The cover keeps rain out of the gas fitting and the head unit and it has made a real difference to how long things have lasted — no rust on the reflector at all after three winters.
   name: Greg T.
-  location: Canberra, ACT
   initials: GT
 
 highlights:

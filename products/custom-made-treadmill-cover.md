@@ -19,7 +19,6 @@ image: best-custom-cover-for-garden-treadmill.webp
 review:
   quote: Left my treadmill on the patio without a cover for one wet winter and the console died completely. Ordered this after replacing the machine and it has been dry and protected through two seasons since.
   name: Jodie M.
-  location: Adelaide, SA
   initials: JM
 
 highlights:

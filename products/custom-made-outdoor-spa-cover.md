@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-spa.webp
 review:
   quote: After two summers the cabinet panels on my spa were already fading and the corners were starting to crack. Got this external cover and I wish I had ordered it from day one — the cabinet still looks new two years on.
   name: Craig S.
-  location: Gold Coast, QLD
   initials: CS
 
 highlights:

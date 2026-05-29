@@ -23,7 +23,6 @@ image: best-custom-cover-for-outdoor-chair.webp
 review:
   quote: The sun was bleaching my chairs badly and I wanted individual covers so I could still use them one at a time. These fit perfectly and the colour has held well after a full summer outdoors.
   name: S. Whitfield
-  location: Mandurah, WA
   initials: SW
 
 highlights:

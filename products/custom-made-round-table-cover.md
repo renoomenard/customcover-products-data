@@ -19,7 +19,6 @@ image: best-custom-cover-for-oudoor-round-table.webp
 review:
   quote: My glass-top table was already starting to etch from rain and UV before I found this. The cover fits perfectly and I have had zero issues since. I should have done it the day the table arrived.
   name: Robyn S.
-  location: Adelaide, SA
   initials: RS
 
 highlights:

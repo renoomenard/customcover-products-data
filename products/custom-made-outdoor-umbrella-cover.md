@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-umbrella.webp
 review:
   quote: Left the umbrella up between uses for a whole season and the canopy faded badly. Bought a new one and now it goes in its cover every time I close it. Still looks brand new after three summers.
   name: Alison F.
-  location: Hobart, TAS
   initials: AF
 
 highlights:

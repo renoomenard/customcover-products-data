@@ -23,7 +23,6 @@ image: best-custom-cover-for-outdoor-chairs-stack.webp
 review:
   quote: We stack about six chairs at a time between functions and nothing off the shelf came close to fitting. These covers are exactly what I needed. Easy to get on and off and they actually stay in place overnight.
   name: R. Papadopoulos
-  location: Fitzroy, VIC
   initials: RP
 
 highlights:

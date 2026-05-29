@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-table-set.webp
 review:
   quote: We have an eight-seater outdoor table that we cover every winter. The cover fits perfectly and packs away neatly. Did not lose a single chair or table to the weather this year — completely worth it.
   name: Andrew M.
-  location: Melbourne, VIC
   initials: AM
 
 highlights:

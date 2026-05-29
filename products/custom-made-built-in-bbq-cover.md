@@ -19,7 +19,6 @@ image: best-custom-built-in-bbq-cover.webp
 review:
   quote: My built-in BBQ head is finally properly covered between uses. Fits perfectly over the unit without touching the surrounding bench — exactly what I needed after years of using a towel.
   name: Craig M.
-  location: Adelaide, SA
   initials: CM
 
 highlights:

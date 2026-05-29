@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-cushions.webp
 review:
   quote: We have a big outdoor setting with twelve seat and back cushions. There was nowhere to store them inside so they used to just sit on the chairs getting rained on. This cover goes over the whole stack and they stay dry and clean all season.
   name: Sandra W.
-  location: Sydney, NSW
   initials: SW
 
 highlights:

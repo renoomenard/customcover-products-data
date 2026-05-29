@@ -19,7 +19,6 @@ image: best-custom-cover-for-garden-lounge-set.webp
 review:
   quote: We go away for a few weeks every school holidays and always covered individual pieces separately, which was a hassle. Having one cover made for the whole arrangement has made packing up the backyard so much faster.
   name: Karen O.
-  location: Adelaide, SA
   initials: KO
 
 highlights:

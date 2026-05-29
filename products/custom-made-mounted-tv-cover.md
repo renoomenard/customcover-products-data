@@ -19,7 +19,6 @@ image: best-custom-cover-for-outdoor-tv.webp
 review:
   quote: First TV on the alfresco lasted about eighteen months before moisture got into it. Replaced it and ordered this cover straight away. Two years on and the replacement is still going perfectly.
   name: Nathan B.
-  location: Perth, WA
   initials: NB
 
 highlights:

@@ -23,7 +23,6 @@ image: best-custom-cover-for-egg-chair.webp
 review:
   quote: I searched for months and could not find a cover to fit my egg chair. Everything was either too small or way too boxy. This fit the pod perfectly on the first go.
   name: T. Bergmann
-  location: Noosa Heads, QLD
   initials: TB
 
 highlights:

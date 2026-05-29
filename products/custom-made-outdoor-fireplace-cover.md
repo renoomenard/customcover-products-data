@@ -19,7 +19,6 @@ image: best-custom-outdoor-fireplace-cover.webp
 review:
   quote: We use our outdoor fireplace almost every evening in winter here in Canberra. The cover protects it from overnight frosts and morning dew and it has not shown a spot of rust since we started using it. Well worth having made to the right size.
   name: David P.
-  location: Canberra, ACT
   initials: DP
 
 highlights:
