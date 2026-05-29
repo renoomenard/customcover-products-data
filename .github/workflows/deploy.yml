@@ -9,14 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger AU site rebuild
-        if: secrets.VERCEL_DEPLOY_HOOK_AU != ''
         run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_AU }}"
 
       # Add more country sites here as you expand:
       # - name: Trigger UK site rebuild
-      #   if: secrets.VERCEL_DEPLOY_HOOK_UK != ''
       #   run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_UK }}"
       #
       # - name: Trigger US site rebuild
-      #   if: secrets.VERCEL_DEPLOY_HOOK_US != ''
       #   run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_US }}"
