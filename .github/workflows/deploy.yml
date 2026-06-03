@@ -11,6 +11,12 @@ jobs:
       - name: Trigger AU site rebuild
         run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_AU }}"
 
+      - name: Trigger NZ site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_NZ }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_NZ not set — skipping NZ"; fi
+
       # Add more country sites here as you expand:
       # - name: Trigger UK site rebuild
       #   run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_UK }}"
