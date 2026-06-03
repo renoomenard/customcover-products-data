@@ -17,9 +17,38 @@ jobs:
         run: |
           if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_NZ not set — skipping NZ"; fi
 
-      # Add more country sites here as you expand:
-      # - name: Trigger UK site rebuild
-      #   run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_UK }}"
-      #
-      # - name: Trigger US site rebuild
-      #   run: curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK_US }}"
+      - name: Trigger ASIA site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_ASIA }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_ASIA not set — skipping ASIA"; fi
+
+      - name: Trigger EU site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_EU }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_EU not set — skipping EU"; fi
+
+      - name: Trigger IE site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_IE }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_IE not set — skipping IE"; fi
+
+      - name: Trigger CA site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_CA }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_CA not set — skipping CA"; fi
+
+      - name: Trigger US site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_US }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_US not set — skipping US"; fi
+
+      - name: Trigger TH site rebuild
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_TH }}
+        run: |
+          if [ -n "$HOOK" ]; then curl -X POST "$HOOK"; else echo "VERCEL_DEPLOY_HOOK_TH not set — skipping TH"; fi
