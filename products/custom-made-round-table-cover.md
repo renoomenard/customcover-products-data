@@ -53,7 +53,7 @@ measurements:
 measureHelp: Measure the diameter at the widest point of the tabletop surface from one outer edge to the other. Do not measure the base or pedestal. For height, measure from the ground to the top of the tabletop surface. Do not add extra centimetres — the correct drape allowance is built into the pattern.
 
 pricing:
-  basePrice: 300.00
+  basePrice: 400.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

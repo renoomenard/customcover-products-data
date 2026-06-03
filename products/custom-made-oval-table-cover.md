@@ -56,7 +56,7 @@ measurements:
 measureHelp: Measure the longest point of the oval for Length and the widest point for Width. Height is from the ground to the tabletop. Do not add extra centimetres — the correct ease is built into production.
 
 pricing:
-  basePrice: 250.00
+  basePrice: 400.00
   complexity: 1.1
   extrasBase: 0.00
   minPrice: 55.00

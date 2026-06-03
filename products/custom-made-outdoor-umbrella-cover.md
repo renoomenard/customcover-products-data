@@ -53,7 +53,7 @@ measurements:
 measureHelp: Close the umbrella fully and wrap the canopy down tightly against the pole. Diameter is the measurement across the widest part of the bundled canopy — not the pole diameter. Length is the full length of the umbrella from the base of the pole to the tip at the top with the canopy folded down and attached.
 
 pricing:
-  basePrice: 200.00
+  basePrice: 300.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 39.00

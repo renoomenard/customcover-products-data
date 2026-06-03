@@ -66,7 +66,7 @@ measurements:
 measureHelp: Measure the chair pod only, not the stand or hanging frame. Width is the widest point of the pod from side to side. Depth is front to back at the widest point. Height is from the bottom of the pod itself to the top of the pod. Do not include the hanging chains, base stand, or footrest in any measurement.
 
 pricing:
-  basePrice: 200.00
+  basePrice: 450.00
   complexity: 1.3
   extrasBase: 0.00
   minPrice: 59.00

@@ -60,7 +60,7 @@ measurements:
 measureHelp: Width is the widest point of the seat from side to side. Depth is the deepest point of the seat front to back. For a round stool, enter the diameter for both Width and Depth. Height is from the ground to the top of the seat, not the footrest ring. Do not include any back rest in the height if your stool has one. Contact us if your stool has a backrest and you want it included.
 
 pricing:
-  basePrice: 50.00
+  basePrice: 100.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 35.00

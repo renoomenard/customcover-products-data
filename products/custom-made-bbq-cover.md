@@ -65,7 +65,7 @@ measurements:
 measureHelp: Measure the widest and deepest points of your BBQ including side shelves or handles. Measure height from the ground (or from the base of the unit if it sits on a trolley) to the highest fixed point. Do not add extra cm — the correct ease is built in during production.
 
 pricing:
-  basePrice: 200.00
+  basePrice: 350.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

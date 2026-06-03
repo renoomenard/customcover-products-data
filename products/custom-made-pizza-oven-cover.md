@@ -74,7 +74,7 @@ measurements:
 measureHelp: Measure the bounding rectangle of your pizza oven dome. Width is the widest point of the dome from side to side. Depth is the deepest point from front to back. Height is from the base of the oven body (not the stand) to the peak of the dome, including the chimney flue if it is a fixed part of the oven. Do not add extra centimetres — production ease is built in.
 
 pricing:
-  basePrice: 350.00
+  basePrice: 300.00
   complexity: 1.2
   extrasBase: 0.00
   minPrice: 69.00

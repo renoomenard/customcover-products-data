@@ -56,7 +56,7 @@ measurements:
 measureHelp: Measure the full length from one end to the other including the headrest. Measure width at the widest point of the seat. For height, measure from the ground to the top of the backrest with it in the upright position, or in the position you normally store the lounger. Do not add extra centimetres — the correct ease is already built into the pattern.
 
 pricing:
-  basePrice: 150.00
+  basePrice: 300.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

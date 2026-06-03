@@ -69,7 +69,7 @@ measurements:
 measureHelp: Measure the actual stack of chairs you plan to cover, not a single chair. Width is the widest point of the stack from side to side. Depth is the deepest point front to back, which is often the seat overhang of the bottom chair. Height is from the ground to the top of the highest chair in the stack. Stack your chairs first, then measure.
 
 pricing:
-  basePrice: 60.00
+  basePrice: 250.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

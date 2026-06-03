@@ -65,7 +65,7 @@ measurements:
 measureHelp: Measure your treadmill with the handlebars in their stored or folded position, whichever is how you normally leave the machine. Length runs from the front console end to the rear of the belt deck. Width is the widest point, usually across the belt or deck. Height is from the floor to the top of the console or highest point of the handlebars in stored position.
 
 pricing:
-  basePrice: 200.00
+  basePrice: 300.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 59.00

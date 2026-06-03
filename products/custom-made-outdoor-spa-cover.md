@@ -62,7 +62,7 @@ measurements:
 measureHelp: Measure the outside of the spa cabinet. Width is the widest side of the unit. Depth is the deepest side front to back. Height is from the ground to the top lip of the cabinet, not including the inner lid or water cover. Measure the cabinet itself, not any steps or accessories placed alongside it.
 
 pricing:
-  basePrice: 350.00
+  basePrice: 400.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 89.00

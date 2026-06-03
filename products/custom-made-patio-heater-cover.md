@@ -59,7 +59,7 @@ measurements:
 measureHelp: Diameter is the widest point of the heater, which is almost always the mushroom reflector head at the top. Measure across the widest point of the head from edge to edge. Height is from the ground to the very top of the heater. Always allow the heater to cool for at least one hour after use before fitting the cover.
 
 pricing:
-  basePrice: 100.00
+  basePrice: 300.00
   complexity: 1.1
   extrasBase: 0.00
   minPrice: 49.00

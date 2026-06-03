@@ -56,7 +56,7 @@ measurements:
 measureHelp: Measure the full footprint of the pallet setup at its longest and widest points. If multiple pallets sit side by side, measure across all of them. Height runs from the ground to the top of whatever is stacked on the pallet — furniture, cushions, or goods. A standard pallet is 116 x 116 cm, but pallet furniture can be any size.
 
 pricing:
-  basePrice: 80.00
+  basePrice: 400.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

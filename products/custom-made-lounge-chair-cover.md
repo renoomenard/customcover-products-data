@@ -59,7 +59,7 @@ measurements:
 measureHelp: Width is from the outside of one armrest to the outside of the other. Depth is front to back at the deepest point. Height is from the ground to the top of the back. Do not add extra centimetres — the correct ease is built into production.
 
 pricing:
-  basePrice: 100.00
+  basePrice: 250.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 45.00

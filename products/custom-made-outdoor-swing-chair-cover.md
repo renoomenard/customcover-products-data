@@ -59,7 +59,7 @@ measurements:
 measureHelp: Measure the width at the widest point of the seat pod from side to side. Measure the depth from the front of the seat to the back at the deepest point. For height, measure from the bottom of the pod to the top. Do not include the hanging rope, chain, or the A-frame stand in your measurements — measure the chair pod only. Do not add extra centimetres.
 
 pricing:
-  basePrice: 150.00
+  basePrice: 700.00
   complexity: 1.3
   extrasBase: 8.00
   minPrice: 69.00

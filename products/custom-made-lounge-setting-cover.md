@@ -65,7 +65,7 @@ measurements:
 measureHelp: Measure the full footprint of the setting as it sits in its normal arrangement. Width is side to side at the widest point, Depth is front to back at the deepest point, and Height is from the ground to the top of the tallest piece, usually the sofa back. Do not add extra centimetres.
 
 pricing:
-  basePrice: 450.00
+  basePrice: 500.00
   complexity: 1.2
   extrasBase: 0.00
   minPrice: 89.00

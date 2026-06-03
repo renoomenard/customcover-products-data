@@ -63,7 +63,7 @@ measurements:
 measureHelp: Width is measured from the outside edge of one armrest to the outside edge of the other, or seat width if the chair has no armrests. Depth is front to back including any leg protrusion beyond the seat. Height is from the ground to the top of the chair back.
 
 pricing:
-  basePrice: 90.00
+  basePrice: 150.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 39.00

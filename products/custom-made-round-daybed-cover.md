@@ -56,7 +56,7 @@ measurements:
 measureHelp: Measure the diameter at the widest point of the daybed base or mattress. If the base flares out wider than the mattress, use the base measurement. For height, measure from the ground to the top of the canopy or backrest in its normal storage position. Do not add extra centimetres — the correct ease is built into the pattern.
 
 pricing:
-  basePrice: 250.00
+  basePrice: 400.00
   complexity: 1.2
   extrasBase: 0.00
   minPrice: 79.00

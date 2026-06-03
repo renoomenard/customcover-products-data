@@ -56,7 +56,7 @@ measurements:
 measureHelp: Stack your cushions in the way you normally store them, then measure the pile. Length is the longest cushion length or the longest dimension of the stack. Width is the widest point of the pile. Height is the total height from the ground to the top of the stack. If cushions are different widths, use the widest point.
 
 pricing:
-  basePrice: 80.00
+  basePrice: 200.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

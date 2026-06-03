@@ -56,7 +56,7 @@ measurements:
 measureHelp: Width is the widest point of the setting with stools pushed in. Depth is the deepest point front to back. Height is from the ground to the top of the table surface. Do not add extra centimetres — the correct ease is built into production.
 
 pricing:
-  basePrice: 250.00
+  basePrice: 350.00
   complexity: 1.1
   extrasBase: 0.00
   minPrice: 69.00

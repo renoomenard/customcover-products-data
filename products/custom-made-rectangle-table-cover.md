@@ -56,7 +56,7 @@ measurements:
 measureHelp: Measure the longest dimension of the tabletop for width, and the shorter dimension for depth. Both measurements should be taken at the tabletop surface level. For height, measure from the floor to the top surface of the tabletop. Do not add extra centimetres — the correct drape allowance is built into the pattern.
 
 pricing:
-  basePrice: 250.00
+  basePrice: 350.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 49.00

@@ -65,7 +65,7 @@ measurements:
 measureHelp: Measure the table in its flat playing position with the net removed. Length is the long side of the table surface. Width is the short side. Height is from the ground to the playing surface — the top of the table. A standard table tennis table is approximately 274 x 152 cm with a playing height of 76 cm, but measure yours directly as sizes vary between brands and models.
 
 pricing:
-  basePrice: 150.00
+  basePrice: 250.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 79.00

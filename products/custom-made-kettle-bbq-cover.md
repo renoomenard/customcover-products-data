@@ -71,7 +71,7 @@ measurements:
 measureHelp: Diameter is the widest point of the kettle body measured straight across, not including the legs. Height is from the ground (bottom of the legs) to the top of the lid knob in its fully closed position. Do not add extra centimetres — the correct ease is built in during production.
 
 pricing:
-  basePrice: 150.00
+  basePrice: 350.00
   complexity: 1.2
   extrasBase: 0.00
   minPrice: 49.00

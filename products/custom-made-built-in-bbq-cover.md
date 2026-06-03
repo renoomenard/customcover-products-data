@@ -62,7 +62,7 @@ measurements:
 measureHelp: Measure the BBQ head unit itself, not the surrounding bench or island. Width is the outer edge of the unit from left to right. Depth is front to back. Height is from the bench surface up to the highest point of the lid in its closed position. Do not add extra centimetres — the correct ease is built in during production.
 
 pricing:
-  basePrice: 180.00
+  basePrice: 300.00
   complexity: 1.0
   extrasBase: 0.00
   minPrice: 59.00
