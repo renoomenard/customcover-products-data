@@ -27,7 +27,7 @@ https://cdn.jsdelivr.net/gh/renoomenard/customcover-products-data@main/images/FI
 2. Add the secret name to the `deploy.yml` workflow
 3. In your country site repo, add this repo as a git submodule:
    ```
-   git submodule add https://github.com/renoomenard/customcover-products-data.git src/products-data
+   git submodule add https://github.com/renoomenard/customcover-products-data.git src/products-central
    ```
 4. Set `PRODUCT_IMAGE_BASE=https://cdn.jsdelivr.net/gh/renoomenard/customcover-products-data@main/images` in your Vercel environment variables
 
@@ -42,3 +42,10 @@ https://cdn.jsdelivr.net/gh/renoomenard/customcover-products-data@main/images/FI
 | Site | Repo | Deploy Hook Secret |
 |------|------|--------------------|
 | Australia | renoomenard/WEB-customcovernetau | `VERCEL_DEPLOY_HOOK_AU` |
+| New Zealand | renoomenard/WEB-customcoverconz | `VERCEL_DEPLOY_HOOK_NZ` |
+| Singapore/Asia | renoomenard/WEB-customcoverasia | `VERCEL_DEPLOY_HOOK_ASIA` |
+| Europe | renoomenard/WEB-customcovereucom | `VERCEL_DEPLOY_HOOK_EU` |
+| Ireland | renoomenard/WEB-customcoverirish | `VERCEL_DEPLOY_HOOK_IE` |
+| Canada | renoomenard/WEB-customcovershop | `VERCEL_DEPLOY_HOOK_CA` |
+| USA | renoomenard/WEB-customcoverstore | `VERCEL_DEPLOY_HOOK_US` |
+| Thailand | renoomenard/WEB-customcoverinth | `VERCEL_DEPLOY_HOOK_TH` |
