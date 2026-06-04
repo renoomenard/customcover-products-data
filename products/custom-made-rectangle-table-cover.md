@@ -11,7 +11,7 @@ categoryLabel: Table & Dining Covers
 
 seo:
   title: Custom Made Rectangle Table Cover | Outdoor Dining Table Covers | Custom Cover Company
-  description: Protect your rectangular outdoor dining table with a cover made to its exact width, depth, and height. 200gsm weatherproof polyester. Instant quote online.
+  description: Protect your rectangular outdoor dining table with a cover made to its exact width, depth, and height. 350gsm silver laminated woven polypropylene. Instant quote online.
   keywords: [rectangle table cover, outdoor dining table cover, custom table cover, outdoor table cover made to measure]
 
 image: best-custom-cover-for-outdoor-table-set.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    title: Reflective & Water Resistant
+    desc: 350gsm Silver Laminated Woven Polypropylene
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your rectangular outdoor dining table with a cover made to fit its exact length, width, and height — so it hangs evenly to the ground on all four sides without pooling or leaving the legs exposed.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof undercoating that sheds rain and blocks UV, keeping the tabletop, frame, and base in good condition season after season.
+  - Each cover is made from 350gsm silver laminated woven polypropylene. The silver coating sits on the outside, where it reflects sunlight to keep the table cooler and sheds rain to keep weather off, so the tabletop, frame, and base stay in good condition season after season.
   - Standard rectangular table covers come in a limited range of fixed sizes. A table that does not match one of those sizes exactly ends up with a cover that is too short on one side, too long on another, or too wide to sit properly.
   - A custom-made cover is cut to your table's actual dimensions, so it drapes cleanly to the ground on all sides with no excess fabric to pool, flap, or let weather in underneath.
   - Enter your width, depth, and height below for an instant price.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Rectangular outdoor dining tables are made in an enormous range of sizes and proportions. A six-seater might be 180 cm long. An eight-seater could be anywhere from 210 cm to 260 cm. The depth varies just as much. Standard covers are made for common sizes and leave everything outside those sizes as a compromise. A custom-made cover is cut to your exact width, depth, and height, so it drapes to the ground on all four sides with no overhang and no short sides.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester face fabric with a flexible polyurethane waterproof undercoating. The only variable is the dimensions. A six-seater table cover and a ten-seater table cover are made from the same material with the same construction. No cheap tier, no premium upgrade — just a price that reflects the size you need.
+    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene. The woven base is strong and tear-resistant, and the silver coating on the outside reflects sunlight and sheds rain. The only variable is the dimensions. A six-seater table cover and a ten-seater table cover are made from the same material with the same construction. No cheap tier, no premium upgrade, just a price that reflects the size you need.
 
 faqs:
   - q: Which dimension is width and which is depth?
@@ -152,12 +152,24 @@ If your table has leaves that extend the length, measure with the leaves either 
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester, which means the pigment is part of the fibre rather than applied on top. This is why it holds its colour through prolonged UV exposure where surface-dyed materials go patchy and faded within two or three seasons.
+### Woven polypropylene base
 
-The underside carries a flexible polyurethane waterproof coating. It sheds water cleanly, stays flexible across temperature extremes, and does not crack at fold lines the way stiffer coatings do. Both layers are UV stabilised.
+The base of the cover is woven polypropylene. Weaving the material makes it strong and tough, with good resistance to tearing and to the snags and rough handling a cover gets when it goes on and off a table. This is the layer that gives the cover its body and lets it take the strain of wind without splitting.
+
+Cheap covers tend to use thin, unwoven film that stretches and tears at the first sign of wind or a sharp table corner. A woven base holds together much longer.
+
+### Silver reflective laminate
+
+The outside of the cover carries a silver laminate coating. The silver is reflective, so it bounces sunlight away instead of soaking it up. That keeps the cover and the table underneath cooler, and it shields the furniture from the sun and UV that fade and crack finishes over time.
+
+The same coating is water resistant. It sheds rain off the surface and keeps rain off the table, while the reflective layer handles the sun. One coating does both jobs from the outside of the cover.
+
+### Weight and durability
+
+At 350gsm the fabric is heavier and more substantial than a light summer cover. The extra weight helps the cover hold its shape and sit steady on the table rather than lifting and flapping in the wind. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle.
 
 ## Caring for your rectangle table cover
 
 Rinse the outside of the cover with a garden hose every month or so, and always after a heavy rain or dust period. Shake off debris before putting the cover on — grit trapped between the cover and the table surface can scratch both over time.
 
-Spot-clean any marks with warm soapy water and allow to dry fully before putting the cover back on. Do not machine wash — the agitation breaks down the waterproof coating in a single cycle. When storing the cover, vary the fold lines rather than folding in the same place each time.
+Spot-clean any marks with warm soapy water and allow to dry fully before putting the cover back on. Do not machine wash. The agitation breaks down the silver coating in a single cycle. When storing the cover, vary the fold lines rather than folding in the same place each time.

@@ -11,7 +11,7 @@ categoryLabel: Lounge & Sofa Covers
 
 seo:
   title: Custom Made Lounge Setting Cover | Custom Cover Company
-  description: Made-to-measure covers for complete outdoor lounge settings. One cover over your whole arrangement. 200gsm waterproof polyester. Instant quote. Ships worldwide.
+  description: Made-to-measure covers for complete outdoor lounge settings. One cover over your whole arrangement. 350gsm silver laminated woven polypropylene, water resistant and reflective. Instant quote. Ships worldwide.
   keywords: [outdoor lounge setting cover, custom lounge set cover, outdoor furniture setting cover, garden lounge set cover]
 
 image: best-custom-cover-for-garden-lounge-set.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    title: Reflective & Water Resistant
+    desc: 350gsm Silver Laminated Woven Polypropylene
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Cover your complete outdoor lounge setting — sofa, chairs, and coffee table — with a single made-to-measure cover.
-  - Made from 200gsm solution-dyed polyester with a waterproof underside, it protects the whole arrangement in one go.
+  - Made from 350gsm silver laminated woven polypropylene with a reflective, water resistant coating, it protects the whole arrangement in one go.
   - Covering each piece separately takes time, leaves gaps between items, and means multiple covers to store and manage.
   - A single setting cover goes on in seconds, keeps everything together, and is built to the exact footprint of your arrangement.
   - Enter your measurements below for an instant quote.
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: An outdoor lounge setting is an arrangement, not a single piece. Covering it well means accounting for the full footprint of the sofa, chairs, and coffee table together. A cover built to the bounding rectangle of your setting drops over the whole arrangement cleanly, holds everything in place, and sheds water across the entire surface rather than leaving gaps between individual covers.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester, the same waterproof underside, and the same reinforced seam construction. A lounge setting cover is a larger piece than a single chair cover, and the pricing reflects the scale. The quality does not change.
+    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene, the same reflective coating, and the same reinforced seam construction. A lounge setting cover is a larger piece than a single chair cover, and the pricing reflects the scale. The quality does not change.
 
 faqs:
   - q: Should I measure with chairs pushed in or in their normal positions?
@@ -149,10 +149,22 @@ The cover drops over the whole setting as one piece. The sofa and chairs hold th
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed construction means the colour goes through the fibre during production rather than being applied to the surface. This gives the fabric far better UV resistance than conventionally dyed alternatives — important wherever UV exposure is high. The PU coating on the underside keeps rain out without making the cover stiff, and it stays flexible through cold temperatures rather than cracking along fold lines.
+All covers are made from 350gsm silver laminated woven polypropylene. There are a few things worth understanding about how that fabric works.
+
+### Woven polypropylene base
+
+The base is woven polypropylene. The threads are woven together rather than bonded, which makes the fabric strong and tough. It resists tearing, so a snag on a chair corner or a gust that catches an edge does not turn into a rip. This is the part of the fabric that gives the cover its structure.
+
+### Silver reflective laminate
+
+The outside of the fabric carries a silver laminate coating. The silver is reflective, so it bounces sunlight away from the cover instead of soaking it up. That keeps the cover and the furniture underneath cooler on hot days, and it shields everything below from sun and UV. The same coating is water resistant. It sheds rain and keeps rain off the furniture rather than letting it soak through.
+
+### Weight and durability
+
+At 350gsm the fabric is heavier and more substantial than lighter covers. It holds its shape well, drapes properly over the setting, and stays put in a light breeze. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle. Cheap covers tend to thin out and fail within a season or two. This fabric is built to last through repeated use.
 
 Seams are reinforced throughout. The base hem has enough weight to sit in position in a light breeze without needing ties.
 
 ## Caring for your cover
 
-Rinse regularly with a garden hose. Spot-clean with mild soapy water. Do not machine wash — the agitation removes the waterproof coating in a single cycle. Fold loosely for storage rather than compressing tightly. Sustained pressure along the same fold line will eventually cause the coating to wear at that point.
+Rinse regularly with a garden hose. Spot-clean with mild soapy water. Do not machine wash. The agitation wears the silver coating in a single cycle. Fold loosely for storage rather than compressing tightly. Sustained pressure along the same fold line will eventually cause the coating to wear at that point.

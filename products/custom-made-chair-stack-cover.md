@@ -11,7 +11,7 @@ categoryLabel: Chair & Seating Covers
 
 seo:
   title: Custom Made Chair Stack Cover | Custom Cover Company
-  description: Custom covers for stacked outdoor chairs. Made to fit your exact stack height and width. UV and waterproof 200gsm polyester. Suits cafes, restaurants, and home entertaining.
+  description: Custom covers for stacked outdoor chairs. Made to fit your exact stack height and width. Reflective and water resistant 350gsm silver laminated woven polypropylene. Suits cafes, restaurants, and home entertaining.
   keywords:
     - chair stack cover
     - outdoor chair stack cover
@@ -27,8 +27,8 @@ review:
 
 highlights:
   - icon: uv
-    title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    title: Reflective & Water Resistant
+    desc: 350gsm Silver Laminated Woven Polypropylene
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -41,7 +41,7 @@ highlights:
 
 shortDescription:
   - A stack of outdoor chairs is an awkward shape to cover and standard covers rarely have the height for more than two or three chairs.
-  - Your cover is made from 200gsm solution-dyed polyester that blocks UV and sheds rain without any peelable coating.
+  - Your cover is made from 350gsm silver laminated woven polypropylene, with a reflective coating on the outside that bounces sunlight away and sheds rain.
   - Generic bag-style covers are either too short for a full stack or so oversized they flap around and let weather in from the sides.
   - A cover made to your exact stack width, depth, and height protects the whole pile and stays put overnight.
   - Measure your stacked chairs and enter the dimensions below for an instant price.
@@ -95,7 +95,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Chair stacks vary enormously depending on chair style, number of chairs, and how the chairs nest when stacked. A cover made to your stack means the fabric reaches the ground at the right height and wraps the width without bunching or leaving gaps at the sides. Measure your actual stack and we cut to those numbers.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester regardless of size. The dye goes through the entire fibre, so it does not fade, peel, or crack the way surface-coated covers do. It is UV-stable, waterproof, and tough enough for commercial and residential outdoor use year-round.
+    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene regardless of size. The woven base is strong and tear-resistant, and the silver coating on the outside reflects sunlight away so the stack underneath stays cooler and shielded from the sun. It is water resistant and tough enough for commercial and residential outdoor use year-round.
 
 faqs:
   - q: How do I decide how many chairs to include in the measurement?
@@ -143,11 +143,19 @@ If the chairs have rubber feet or angled legs, measure from where the chair actu
 
 ## The material
 
-All our covers are made from 200gsm solution-dyed polyester. For a chair stack, you want something with enough weight to stay in place on a tall, slightly top-heavy structure without being so stiff that it is hard to pull on and off quickly. This weight hits that balance well. The cover drops over the stack from the top and sits under its own weight without needing to be tied down in calm conditions.
+All our covers are made from 350gsm silver laminated woven polypropylene. For a chair stack, you want something with enough weight to stay in place on a tall, slightly top-heavy structure without being so stiff that it is hard to pull on and off quickly. At 350gsm this fabric is heavier and more substantial than a thin cover, so it holds its shape and drops over the stack under its own weight. It is still light enough for one person to fit and remove, because it is a cover and not a tarp.
 
-Solution-dyed fabric means the colour runs through the fibre, not just on the surface. Surface-coated covers look fine when new but can crack and peel after a couple of seasons in direct sun. Solution-dyed fabric does not have that problem. The colour holds, the fabric stays flexible, and it does not become brittle with heat.
+### Woven polypropylene base
 
-The fabric is waterproof for normal rain. Water runs off the sides and does not soak through under standard rainfall. If the top of the cover has a flat surface and rain pools there, it will eventually find a path through. Positioning the stack so it tilts very slightly, or using the cover under a veranda, avoids this.
+The base of the fabric is woven polypropylene. The weave makes it strong and tough, and it resists tearing even when it gets caught on an armrest or a leg as you pull it on and off. Cheap covers tend to use thin, flimsy material that splits at the seams or shreds in the wind after a season or two. A woven base stands up to repeated handling, which matters when you are covering and uncovering a stack every day.
+
+### Silver reflective laminate
+
+The outside of the fabric carries a silver laminate coating. That silver surface is reflective, so it bounces sunlight away instead of soaking it up. The cover and the chairs underneath stay cooler, and the contents are shielded from the sun and its UV. This is what protects the stack on hot, exposed days. The same coating is water resistant. Rain runs off the surface and the cover keeps rain off the stack rather than soaking through under normal conditions.
+
+### Weight and handling
+
+If the top of the cover has a flat surface and rain pools there, water will eventually find a path through. Positioning the stack so it tilts very slightly, or using the cover under a veranda, avoids this. The 350gsm weight gives the cover enough body to sit firmly on a tall stack without flapping in a breeze, while staying manageable enough to pull on and fold away by hand.
 
 ## Care and storage
 

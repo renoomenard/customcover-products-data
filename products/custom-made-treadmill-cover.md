@@ -11,20 +11,20 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Treadmill Cover | Outdoor Treadmill Protection | Custom Cover Company
-  description: Keep your outdoor treadmill protected from rain, UV, and dust with a cover made to your exact measurements. Waterproof 200gsm polyester. Ships worldwide.
-  keywords: [treadmill cover, custom treadmill cover, outdoor treadmill cover, waterproof treadmill cover]
+  description: Keep your outdoor treadmill protected from rain, sun, and dust with a cover made to your exact measurements. Water resistant 350gsm silver laminated woven polypropylene. Ships worldwide.
+  keywords: [treadmill cover, custom treadmill cover, outdoor treadmill cover, water resistant treadmill cover]
 
 image: best-custom-cover-for-garden-treadmill.webp
 
 review:
-  quote: Left my treadmill on the patio without a cover for one wet winter and the console died completely. Ordered this after replacing the machine and it has been dry and protected through two seasons since.
+  quote: Left my treadmill on the patio without a cover for one wet winter and the console died completely. Ordered this after replacing the machine and it has kept the rain off and stayed protected through two seasons since.
   name: Jodie M.
   initials: JM
 
 highlights:
   - icon: uv
-    title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    title: Reflective & Water Resistant
+    desc: 350gsm Silver Laminated Woven Polypropylene
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor treadmill with a cover made to fit the actual footprint of your machine, not a generic size that leaves gaps at the sides or bunches at the base.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain, dust, UV, and insects away from the console, motor, and belt.
+  - Each cover is made from 350gsm silver laminated woven polypropylene. The reflective coated exterior sheds rain and bounces sunlight away, keeping rain, dust, sun, and insects off the console, motor, and belt.
   - Generic treadmill covers are made for a handful of standard sizes, and most machines fall somewhere between two of them. That means a loose fit, pooling water, and exposure at the base.
   - A made-to-measure cover drops cleanly over your machine, sits flush at every edge, and keeps weather out of the electronics and motor housing wherever the treadmill is stored.
   - Enter your measurements below for an instant price.
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard treadmill covers come in a handful of sizes, but treadmills vary considerably between brands and models. A cover that is too wide pools water and catches wind. A cover that is too short exposes the motor housing at the rear. A custom-made cover is cut from your measurements and fits cleanly over the machine as it actually sits in your space.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester with a waterproof polyurethane underside. There is no budget tier and no premium upgrade. Whether you are covering a compact fold-up treadmill or a full-size commercial-style machine, you are getting the same material and construction.
+    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene. The woven base is tough and tear-resistant, and the silver coating on the outside reflects sunlight and sheds rain. There is no budget tier and no premium upgrade. Whether you are covering a compact fold-up treadmill or a full-size commercial-style machine, you are getting the same material and construction.
 
 faqs:
   - q: Should I measure with the handlebars folded down or upright?
@@ -143,11 +143,13 @@ If your treadmill has handlebars that fold down for storage, measure with them f
 
 ## Material and why it matters for treadmills
 
-Treadmills have a large flat top surface — the console and the area around it. Water that lands on top of a loose or poorly shaped cover sits there rather than running off. That is why waterproofing and fit both matter.
+Treadmills have a large flat top surface: the console and the area around it. Water that lands on top of a loose or poorly shaped cover sits there rather than running off. That is why water resistance and fit both matter.
 
-The fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour is part of the fibre, not a surface coat. prolonged UV exposure will fade a surface-dyed fabric within a couple of seasons. A solution-dyed fabric holds its colour through years of outdoor exposure.
+The fabric is 350gsm silver laminated woven polypropylene. The base is a woven polypropylene, which is strong, tough, and tear-resistant. It does not stretch out of shape or rip along seams the way a thin cover does.
 
-The waterproof underside is a polyurethane coating. PU coatings stay flexible in both heat and cold. They do not crack along fold lines or get sticky in summer heat the way PVC-based coatings do. Water that lands on the cover runs off to the sides rather than soaking through.
+The outside carries a silver laminate coating. That coating is reflective, so it bounces sunlight away. The cover and the machine underneath stay cooler, and the sun does not break down the cover the way it would a plain fabric left out in the open.
+
+The same coating is water resistant. Rain beads up and runs off to the sides rather than soaking through, so the console and motor stay dry underneath. Cheap covers that lack a proper coating soak through and fail within a season or two.
 
 ## Caring for your treadmill cover
 
@@ -155,6 +157,6 @@ Brush or shake off any dust or debris before fitting the cover. Grit caught betw
 
 Rinse the outside of the cover with a hose every few months. If any moisture gets underneath during an unusually heavy storm, allow both the cover and the machine to dry completely before replacing the cover.
 
-Do not machine wash the cover. The agitation breaks down the waterproof coating quickly. Spot cleaning with warm water and a soft cloth is all that is needed for any marks or stains.
+Do not machine wash the cover. The agitation breaks down the silver coating quickly. Spot cleaning with warm water and a soft cloth is all that is needed for any marks or stains.
 
 Store the cover folded loosely when not in use rather than compressed tightly. Varying the fold points each time avoids repeated stress on the same sections of the material.

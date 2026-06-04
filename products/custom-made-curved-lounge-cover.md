@@ -11,20 +11,20 @@ categoryLabel: Lounge & Sofa Covers
 
 seo:
   title: Custom Made Curved Lounge Cover | Custom Cover Company
-  description: Made-to-measure covers for curved and crescent-shaped outdoor lounges. 200gsm waterproof polyester built to your exact chord length and depth. Ships worldwide.
+  description: Made-to-measure covers for curved and crescent-shaped outdoor lounges. 350gsm silver laminated woven polypropylene built to your exact chord length and depth. Ships worldwide.
   keywords: [curved lounge cover, crescent sofa cover outdoor, custom curved outdoor lounge cover, arc lounge cover]
 
 image: best-custom-cover-for-curved-outdoor-lounges.webp
 
 review:
-  quote: I spent months trying to find a cover for our curved outdoor sofa. Nothing came close. Having one made to the actual chord measurement was the only solution that worked — it fits perfectly and does not gather at the ends.
+  quote: I spent months trying to find a cover for our curved outdoor sofa. Nothing came close. Having one made to the actual chord measurement was the only solution that worked. It fits perfectly and does not gather at the ends.
   name: Natasha B.
   initials: NB
 
 highlights:
   - icon: uv
-    title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    title: Reflective & Water Resistant
+    desc: 350gsm Silver Laminated Woven Polypropylene
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your curved or crescent-shaped outdoor lounge with a cover built to follow the arc of your furniture.
-  - Made from 200gsm solution-dyed polyester with a waterproof underside, each cover is pattern-cut specifically for curved lounge shapes.
+  - Made from 350gsm silver laminated woven polypropylene with a reflective, water resistant exterior, each cover is pattern-cut specifically for curved lounge shapes.
   - Off-the-shelf covers cannot accommodate the arc of a curved lounge and end up bunching, pulling, or leaving gaps at the ends.
   - A custom-made curved lounge cover is shaped to match the chord length and depth of your lounge so it sits cleanly across the whole piece.
   - Enter your measurements below for an instant quote.
@@ -94,7 +94,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Curved lounges need pattern-cutting that a standard cover cannot provide. The arc creates a front edge that is longer than a straight line, and a back edge that curves inward. A flat rectangular cover cannot follow that geometry without bunching or pulling. Our curved lounge cover is built from a pattern shaped to your chord length and depth, with the curved seam work that lets the cover sit properly across the whole piece.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester, the same waterproof underside, and the same seam construction. The higher complexity of a curved cover is reflected in pricing, not in a lower quality tier. You get the same fabric and the same build, just with the additional work required to make it fit a curve.
+    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene, the same reflective water resistant exterior, and the same seam construction. The higher complexity of a curved cover is reflected in pricing, not in a lower quality tier. You get the same fabric and the same build, just with the additional work required to make it fit a curve.
 
 faqs:
   - q: How do I measure the chord length correctly?
@@ -148,14 +148,26 @@ Do not add extra centimetres to any of these measurements. The production patter
 
 ## Why curved covers cost more to make
 
-The complexity factor in the pricing for a curved lounge cover reflects the additional work involved in producing one. A straight sofa cover is built from flat rectangular panels that are sewn together in a straightforward sequence. A curved lounge cover requires a different front panel pattern for every size. The curved seams at the front corners — where the arc meets the side panels — need to be shaped and sewn precisely so the cover follows the arc without pulling tight or leaving slack. There is also an extras base charge that covers the additional seam work at the curved corners.
+The complexity factor in the pricing for a curved lounge cover reflects the additional work involved in producing one. A straight sofa cover is built from flat rectangular panels that are sewn together in a straightforward sequence. A curved lounge cover requires a different front panel pattern for every size. The curved seams at the front corners, where the arc meets the side panels, need to be shaped and sewn precisely so the cover follows the arc without pulling tight or leaving slack. There is also an extras base charge that covers the additional seam work at the curved corners.
 
-The fabric and the waterproof construction are identical to every other cover we make. The higher price is purely about cutting and construction time.
+The fabric and the construction are identical to every other cover we make. The higher price is purely about cutting and construction time.
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating bonded to the underside. Solution-dyed fabric holds its colour through years of UV exposure because the pigment is part of the fibre, not a surface treatment. The PU coating stays flexible through cold winters and does not crack along fold lines the way older PVC coatings do. All seams are reinforced, and the curved seams at the front corners are double-stitched for added durability.
+Every cover is made from 350gsm silver laminated woven polypropylene. Here is what each part of that does.
+
+### Woven polypropylene base
+
+The base of the fabric is woven polypropylene. It is a strong, tough material that resists tearing, so the cover stands up to wind flapping against the edges and to being pulled on and off through the seasons. The weave gives the cover its body and keeps it holding its shape over a curved lounge rather than sagging into the gaps.
+
+### Silver reflective laminate
+
+The outside of the fabric carries a silver laminate coating. The silver is reflective, so it bounces sunlight away from the cover instead of soaking it up. That keeps the cover and the furniture underneath cooler on hot days and shields them from the sun and UV that fade and dry out outdoor pieces over time. The same coating is water resistant. It sheds rain and keeps the rain off the lounge rather than letting it soak through.
+
+### Weight and durability
+
+At 350gsm this is a heavier, more substantial fabric than the thin covers sold off the shelf. The extra weight helps the cover hold its shape, sit steady over the arc, and last through years of outdoor use. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle. All seams are reinforced, and the curved seams at the front corners are double-stitched for added durability.
 
 ## Caring for your cover
 
-Rinse regularly with a garden hose to clear dust, pollen, and bird droppings. Spot-clean with mild soapy water and a soft cloth. Avoid machine washing — a single cycle is enough to break down the waterproof coating. When storing the cover, fold it loosely. Tight compression along the same fold lines repeatedly can cause the coating to wear at those points over time.
+Rinse regularly with a garden hose to clear dust, pollen, and bird droppings. Spot-clean with mild soapy water and a soft cloth. Avoid machine washing, as a single cycle is enough to break down the coating. When storing the cover, fold it loosely. Tight compression along the same fold lines repeatedly can cause the coating to wear at those points over time.

@@ -11,7 +11,7 @@ categoryLabel: Daybed & Sun Lounge Covers
 
 seo:
   title: Custom Made Round Daybed Cover | Pod & Circular Daybed Covers | Custom Cover Company
-  description: Protect your round or pod daybed with a cover made to fit its exact diameter. 200gsm weatherproof polyester. Enter your dimensions for an instant price.
+  description: Protect your round or pod daybed with a cover made to fit its exact diameter. 350gsm silver laminated woven polypropylene. Enter your dimensions for an instant price.
   keywords: [round daybed cover, pod daybed cover, circular daybed cover, custom daybed cover]
 
 image: best-custom-cover-for-round-daybed.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    title: Reflective & Water Resistant
+    desc: 350gsm Silver Laminated Woven Polypropylene
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your round or pod daybed with a cover built to match its exact diameter and height — not the closest standard size from a shelf.
-  - Each cover is cut from 200gsm solution-dyed polyester with a waterproof underside that sheds rain cleanly and holds up in full direct sun.
+  - Each cover is cut from 350gsm silver laminated woven polypropylene. The silver coating sits on the outside, sheds rain, and reflects sunlight to keep the daybed cooler underneath.
   - Round daybeds are sold in dozens of diameters, and no two brands seem to agree on a size. Off-the-shelf covers either leave the base exposed or bunch up with enough slack to pool water and flap in the breeze.
   - A cover made to your measurements drops cleanly over the whole structure, sits flush at the base, and protects the mattress, frame, and canopy from weather, UV, and dust.
   - Enter your diameter and height below to get an instant price.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Round daybeds come in an enormous range of diameters. Pod-style models, circular hanging daybeds, and wide wicker bases all have different footprints, and none of them fit standard rectangular covers well. A custom-made cover is cut in a round pattern to your exact diameter and height — it fits the shape of the piece, not the nearest rectangle.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester face fabric with a flexible polyurethane waterproof undercoating. There is no cheap version and no premium upgrade tier. Whether your daybed cost $400 or $4,000, you are getting the same build quality, the same seam construction, and the same hardware.
+    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene. There is no cheap version and no premium upgrade tier. Whether your daybed cost $400 or $4,000, you are getting the same build quality, the same seam construction, and the same hardware.
 
 faqs:
   - q: How do I measure the diameter if I am not sure where to start?
@@ -94,7 +94,7 @@ faqs:
   - q: Can I order a cover just for the base without the legs?
     a: Yes — if your daybed sits on a separate fixed frame and you want to cover only the pod or seat, measure just that section. Note in the order comments that the cover is for the pod only, not the full floor-to-top height, and our team will confirm before production.
   - q: Is this cover suitable for leaving outdoors in the rain long-term?
-    a: Yes. The 200gsm polyester face and polyurethane undercoating are designed for permanent outdoor exposure. Rain sheets off the waterproof underside rather than soaking through. For extended periods of heavy or persistent rain, a snug-fitting cover is far more effective than a loose one, which is exactly what a made-to-measure cover delivers.
+    a: Yes. The 350gsm silver laminated woven polypropylene is built for permanent outdoor exposure. The silver coating on the outside is water resistant, so rain sheets off and runs to the ground rather than soaking in. For extended periods of heavy or persistent rain, a snug-fitting cover keeps water off far better than a loose one, which is exactly what a made-to-measure cover delivers.
 
 faqSub: Everything you need to know about ordering a custom round daybed cover.
 
@@ -140,14 +140,22 @@ A canopy or pod shape adds further complexity because the profile is not a clean
 
 ## Material: why it matters outdoors
 
-The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour goes into the fibre during manufacture, not applied on top afterward. That is what keeps the fabric from fading in prolonged UV exposure. Surface-dyed alternatives can go patchy within two seasons of full sun exposure.
+### Woven polypropylene base
 
-The underside carries a flexible polyurethane waterproof coating. Polyurethane stays flexible across the temperature range of an outdoor conditions — from cold overnight winter temperatures to 40-plus degree summer afternoons. It will not crack at fold lines the way stiffer PVC coatings do, and it does not get sticky in direct heat.
+The base of the fabric is woven polypropylene. Weaving the fibres together makes the cover strong and tough, and it gives the cover good resistance to tearing. That matters outdoors, where wind, branches, and general handling put stress on a cover over the seasons. A woven base holds together where a thin film or a flimsy non-woven sheet would split.
 
-Both the face fabric and the undercoating are UV stabilised, which extends the working life of the cover significantly compared to non-stabilised materials.
+### Silver reflective laminate
+
+The outside of the fabric carries a silver laminate coating. The silver finish is reflective, so it bounces sunlight away instead of letting it soak into the cover. That keeps the cover and the daybed underneath cooler, and it shields the mattress and frame from the sun and UV that fade and break down materials left out year-round.
+
+The same coating is water resistant. Rain runs off the outside and drops to the ground rather than soaking through. Cheap covers tend to fail fast here: the coating wears thin, water starts getting in, and the whole thing goes brittle in a season or two. A heavier coated fabric keeps shedding rain for far longer.
+
+### Weight and durability
+
+At 350gsm the fabric is heavier and more substantial than a thin standard cover. The extra weight helps the cover hold its shape, sit steady in the wind, and stand up to daily use without stretching out. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle.
 
 ## Caring for your round daybed cover
 
 Rinse the outside of the cover with a garden hose every couple of months, or whenever it has been through a period of heavy rain or dusty conditions. Shake off debris before putting the cover on — grit caught between the cover and the frame can scratch both surfaces over time.
 
-If the cover picks up bird droppings or other spot staining, clean with warm soapy water and allow it to dry fully in the air before replacing it. Do not machine wash the cover. The agitation breaks down the waterproof coating in a single cycle. When storing the cover, vary the fold lines so the coating is not stressed along the same crease each time.
+If the cover picks up bird droppings or other spot staining, clean with warm soapy water and allow it to dry fully in the air before replacing it. Do not machine wash the cover. The agitation breaks down the silver coating in a single cycle. When storing the cover, vary the fold lines so the coating is not stressed along the same crease each time.
