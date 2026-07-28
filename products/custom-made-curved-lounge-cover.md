@@ -68,7 +68,7 @@ measurements:
 measureHelp: Length is the straight-line (chord) distance from one end of the lounge to the other, not measured following the curve. Depth is taken at the deepest point, usually the centre of the arc. Height is from the floor to the top of the cushions. Do not add extra centimetres.
 
 pricing:
-  basePrice: 600.00
+  basePrice: 990.00
   complexity: 1.4
   extrasBase: 12.00
   minPrice: 99.00

@@ -74,7 +74,7 @@ measureHelpLink:
   label: How to measure depth
 
 pricing:
-  basePrice: 600.00
+  basePrice: 990.00
   complexity: 1.4
   extrasBase: 12.00
   minPrice: 89.00
