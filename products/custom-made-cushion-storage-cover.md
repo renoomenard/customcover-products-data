@@ -11,20 +11,20 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Outdoor Cushion Storage Cover | Keep Cushions Dry Outside | Custom Cover Company
-  description: Store your outdoor cushions under a custom-made water resistant cover. Made to the dimensions of your cushion stack. Keeps them dry and dust-free. Ships worldwide.
-  keywords: [outdoor cushion cover, cushion storage cover, custom cushion cover, water resistant cushion storage]
+  description: Store your outdoor cushions under a custom-made waterproof cover. Made to the dimensions of your cushion stack. Keeps them dry and dust-free. Ships worldwide.
+  keywords: [outdoor cushion cover, cushion storage cover, custom cushion cover, waterproof cushion storage]
 
 image: best-custom-cover-for-outdoor-cushions.webp
 
 review:
-  quote: We have a big outdoor setting with twelve seat and back cushions. There was nowhere to store them inside so they used to just sit on the chairs getting rained on. This cover goes over the whole stack and it keeps the rain off, so they stay dry and clean all season.
+  quote: We have a big outdoor setting with twelve seat and back cushions. There was nowhere to store them inside so they used to just sit on the chairs getting rained on. This cover goes over the whole stack and they stay dry and clean all season.
   name: Sandra W.
   initials: SW
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,8 +37,8 @@ highlights:
 
 shortDescription:
   - Keep your outdoor cushions dry and protected between uses with a storage cover made to fit the exact dimensions of your cushion stack.
-  - Each cover is made from 350gsm silver laminated woven polypropylene. The silver coating on the outside sheds rain and reflects sunlight, keeping moisture away from the fabric and fill of your cushions when they are not on the furniture.
-  - Generic cushion storage options are either too small for a full set, too large and floppy, or do not shed rain well enough for ongoing outdoor use.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain and moisture away from the fabric and fill of your cushions when they are not on the furniture.
+  - Generic cushion storage options are either too small for a full set, too large and floppy, or not waterproof enough for ongoing outdoor use.
   - A made-to-measure cover slips over your whole cushion pile, sits flush at every side, and keeps weather out of the stack without taking up space inside your home.
   - Enter your measurements below for an instant price.
 
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Cushion storage covers are not sold in the range of sizes needed to fit a full outdoor setting. A set of cushions for a four-seater lounge plus chairs can stack to 70 or 80 cm high and cover a footprint that no standard product matches. A custom cover is built from the actual dimensions of your stack so it fits cleanly over the pile without leaving gaps or bunching at the sides.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 350gsm silver laminated woven polypropylene with a water resistant silver coating on the outside. The material is the same regardless of how large or small your cushion pile is. There is no economy version and nothing to add on.
+    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The material is the same regardless of how large or small your cushion pile is. There is no economy version and nothing to add on.
 
 faqs:
   - q: Should I measure my cushions flat or stacked?
@@ -142,21 +142,9 @@ In persistently damp weather where cushions never fully dry between rain events,
 
 ## Material
 
-The cover is made from 350gsm silver laminated woven polypropylene. Here is what each part of that does.
+The cover is made from 200gsm solution-dyed polyester. The face fabric holds its colour in full sun because the pigment runs through the fibre rather than sitting on the surface. The polyurethane underside is waterproof and stays flexible through temperature changes.
 
-### Woven polypropylene base
-
-The base is woven polypropylene. The weave makes it strong and tough, and it resists tearing even when you pull the cover on and off a tall stack day after day. Cheap covers tend to use thin, flimsy material that splits at the seams or goes brittle after a season in the sun. The woven base holds up to that kind of regular use.
-
-### Silver reflective coating
-
-The outside of the fabric carries a silver laminate coating. The silver is reflective, so it bounces sunlight away instead of soaking it up. That keeps the cover and the cushions underneath cooler, and it shields them from sun and UV that would otherwise break down the fabric and fade the cushions over time.
-
-The same coating is water resistant. It sheds rain and keeps it off the stack rather than letting it soak through to the cushions below.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a thin budget cover. The extra weight helps it hold its shape and stay put on a cushion pile in normal wind conditions. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle.
+The fabric weight — 200gsm — is heavy enough to stay in place on a cushion pile in normal wind conditions without being difficult to fit or remove.
 
 ## Care
 

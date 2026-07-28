@@ -11,7 +11,7 @@ categoryLabel: Table & Dining Covers
 
 seo:
   title: Custom Made Oval Table Cover | Custom Cover Company
-  description: Made-to-measure covers for oval outdoor dining tables. 350gsm silver laminated woven polypropylene cut to your exact length and width. Instant quote. Ships worldwide.
+  description: Made-to-measure covers for oval outdoor dining tables. 200gsm waterproof polyester cut to your exact length and width. Instant quote. Ships worldwide.
   keywords: [oval table cover, custom oval outdoor table cover, made to measure oval dining cover, outdoor oval table cover]
 
 image: best-custom-cover-for-outdoor-oval-table-set.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your oval outdoor dining table with a cover cut to match your exact dimensions.
-  - Each cover is made from 350gsm silver laminated woven polypropylene, so rain sheds cleanly instead of pooling.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, so rain sheds cleanly instead of pooling.
   - Off-the-shelf rectangular covers leave excess fabric bunching at the curved ends of an oval table, which traps moisture and looks untidy.
   - A custom-made cover accounts for the bounding footprint of your oval and wraps neatly around the curves without excess.
   - Enter your table's length and width below for an instant quote.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: An oval table has a shape that no rectangular cover can match properly. The cover will either pool at the curved ends or pull too tight across the middle. A made-to-measure oval cover is cut to the bounding rectangle of your table with a pattern that accounts for the curved profile, so the fit is clean and weather-tight.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene, the same reflective coated exterior, and the same seam construction. You are not choosing between budget and premium. There is one material, one quality level, and pricing based entirely on size.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester, the same waterproof underside, and the same seam construction. You are not choosing between budget and premium. There is one material, one quality level, and pricing based entirely on size.
 
 faqs:
   - q: Why do you measure an oval table as a rectangle?
@@ -138,26 +138,12 @@ When you submit your length and width, we construct an oval profile that fits wi
 
 ## Material and construction
 
-Every cover we make uses 350gsm silver laminated woven polypropylene. The base is woven polypropylene, which is strong, tough, and tear-resistant. That matters on a cover that gets pulled on and off through the year and has to hold up to wind, sun, and rain without splitting at the seams or thinning out.
+Every cover we make uses 200gsm solution-dyed polyester with a polyurethane waterproof coating bonded to the underside. Solution-dyed means the colour goes through the fibre, not onto it — the fabric resists fading far better than conventionally dyed materials, and even when it does fade over many years, it does so evenly.
 
-### Woven polypropylene base
-
-The woven base gives the cover its strength. Polypropylene fibres are tough and do not stretch out of shape, so the cover keeps its form season after season. Because the base is woven rather than a thin film, it resists tearing even when it catches on a table corner or gets snagged during a windy day.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. The silver surface is reflective, so it bounces sunlight away rather than soaking it up. That keeps the cover and the table underneath cooler, and it shields the tabletop from sun and UV that would otherwise bleach or dry out the surface over time. The same coating is water resistant. It sheds rain off the surface so water runs off instead of soaking in, which keeps rain off the table below.
-
-We say water resistant on purpose. In heavy, driven rain over many hours, no cover stays bone dry at every seam and edge, but for normal weather the coated exterior keeps rain off and dries out fast once the sun is back.
-
-### Weight and durability
-
-At 350gsm this is a heavier, more substantial fabric than the thin covers you find off the shelf. The extra weight helps it hold its shape and sit flat on the table instead of flapping around. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle.
-
-Cheap covers tend to fail fast. The fabric goes brittle, the coating flakes, and a single bad season leaves you with a torn, leaking mess. A heavier woven base with a bonded coating is built to last longer than that.
+The waterproof coating keeps rain out without making the cover stiff or prone to cracking in the cold. PU coatings stay flexible through temperature changes, which matters in climates that go from hot summers to cold winters. The coating does not crack along fold lines the way older PVC-based coatings tend to do.
 
 All seams are reinforced, and any hem or edge that faces the weather is double-stitched. The hem at the base of the cover has enough weight to stay in place in a breeze without needing ties or straps, though heavier winds may require you to tuck the cover or use furniture weights.
 
 ## Caring for your cover
 
-Rinse with a garden hose every couple of months to clear off pollen, dust, and salt spray. Spot-clean with mild soapy water and a soft cloth. Do not put the cover in a washing machine. The agitation will break down the silver coating in a single cycle. When storing the cover for summer or between seasons, fold it loosely rather than tightly, as repeated pressure along the same fold lines can eventually wear the coating.
+Rinse with a garden hose every couple of months to clear off pollen, dust, and salt spray. Spot-clean with mild soapy water and a soft cloth. Do not put the cover in a washing machine — the agitation will break down the waterproof coating in a single cycle. When storing the cover for summer or between seasons, fold it loosely rather than tightly, as repeated pressure along the same fold lines can eventually wear the coating.

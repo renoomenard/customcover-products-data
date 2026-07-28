@@ -11,20 +11,20 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Outdoor Umbrella Cover | Patio Umbrella Covers | Custom Cover Company
-  description: Protect your outdoor umbrella canopy from sun, fading, and rain with a custom-made cover in reflective silver laminated woven polypropylene. Made to your furled canopy dimensions. Ships worldwide.
+  description: Protect your outdoor umbrella canopy from UV, fading, and rain with a custom-made cover. Made to your furled canopy dimensions. Ships worldwide.
   keywords: [outdoor umbrella cover, patio umbrella cover, custom umbrella cover, umbrella canopy cover]
 
 image: best-custom-cover-for-outdoor-umbrella.webp
 
 review:
-  quote: Left the umbrella up between uses for a whole season and the canopy faded badly. Bought a new one and now it goes in its cover every time I close it. The silver fabric keeps the sun off it and it still looks brand new after three summers.
+  quote: Left the umbrella up between uses for a whole season and the canopy faded badly. Bought a new one and now it goes in its cover every time I close it. Still looks brand new after three summers.
   name: Alison F.
   initials: AF
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,8 +37,8 @@ highlights:
 
 shortDescription:
   - Protect your outdoor umbrella canopy from fading and weather damage with a cover made to fit the exact diameter and length of your furled umbrella.
-  - Each cover is a tube of 350gsm silver laminated woven polypropylene that slides over the closed umbrella. The reflective silver coating on the outside bounces sunlight away and sheds rain, so sun, rain, and dust stay off the canopy fabric when the umbrella is not in use.
-  - Generic umbrella covers are designed for standard pole diameters and often fit loosely around the canopy, letting sun in at the top or flapping off in the wind.
+  - Each cover is a tube of 200gsm solution-dyed polyester with a waterproof underside that slides over the closed umbrella and keeps UV, rain, and dust off the canopy fabric when the umbrella is not in use.
+  - Generic umbrella covers are designed for standard pole diameters and often fit loosely around the canopy, letting UV in at the top or flapping off in the wind.
   - A made-to-measure cover slides snugly over the bundled canopy, fits the full length of the umbrella from base to tip, and stays put when it is windy.
   - Enter your measurements below for an instant price.
 
@@ -79,7 +79,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Umbrella canopy diameters vary between brands and models. A cover made for a generic small, medium, or large umbrella will be loose on some and will not fit others at all. A custom cover is made to the actual diameter of your furled canopy, so it slides on without excess fabric to flap and without being too tight to fit over the bundle.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 350gsm silver laminated woven polypropylene. The woven base is tough and tear resistant, and the silver coating on the outside reflects sunlight and sheds rain. The same construction goes into every size. Two measurements, one price, one quality level.
+    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same construction goes into every size. Two measurements, one price, one quality level.
 
 faqs:
   - q: Why do I measure the furled canopy and not the pole?
@@ -107,7 +107,7 @@ An outdoor umbrella canopy can fade within a single season if it is left open or
 
 ## Why umbrella canopies fade
 
-Most outdoor umbrella canopies are made from acrylic or a UV-stabilised polyester. These fabrics are designed to resist fading, but they are not immune to UV. The problem is cumulative.
+Most outdoor umbrella canopies are made from solution-dyed acrylic or a UV-stabilised polyester. These fabrics are designed to resist fading, but they are not immune to UV. The problem is cumulative.
 
 An umbrella that is left open in full sun between uses is exposed to UV even when it is not shading anyone. Over a full summer, that is hundreds of hours of UV exposure on the canopy fabric. The colour in the fabric breaks down gradually, starting at the panels most exposed to direct sun.
 
@@ -131,31 +131,13 @@ Length is the full distance from the very base of the pole to the tip at the ver
 
 ## Why diameter matters more than length
 
-Most people assume length is the critical measurement. In practice, diameter is more important for fit. A cover that is the right length but too wide will flap and let sun and moisture in at the top. A cover that is the right diameter slides on snugly, sits flush around the canopy, and does not move in wind.
+Most people assume length is the critical measurement. In practice, diameter is more important for fit. A cover that is the right length but too wide will flap and let UV and moisture in at the top. A cover that is the right diameter slides on snugly, sits flush around the canopy, and does not move in wind.
 
 The length measurement determines whether the cover reaches the base of the umbrella. Both need to be right, but if you can only get one measurement exactly right, prioritise the diameter.
 
 ## Material
 
-The cover is made from 350gsm silver laminated woven polypropylene. Here is what that means and why each part matters.
-
-### Woven polypropylene base
-
-The base of the fabric is woven polypropylene. The weave makes it strong and tough, and it resists tearing even when it catches on a rib tip or a tie. This is the layer that gives the cover its structure and holds up to being slid on and off over and over.
-
-Cheap covers tend to use thin single-layer fabric that goes brittle and splits after a summer or two in the sun. A woven base does not do that.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. It does two jobs.
-
-First, it is reflective. The silver surface bounces sunlight away instead of soaking it up, so the cover and the canopy bundle underneath stay cooler and are shielded from sun and UV. This is what keeps the canopy fabric from fading while it is stored.
-
-Second, the coating is water resistant. It sheds rain and keeps rain off the canopy rather than letting it soak through to the fabric inside.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a light cover. It holds its shape well, sits flush around the canopy, and does not flap about in the wind. It is still a cover, not a tarp, so one person can fit it and pull it off without any fuss.
+The cover is made from 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same UV-stable face fabric that protects the cover from fading also keeps UV from reaching the canopy fabric inside.
 
 The cylindrical shape means the cover can be slid on from the top without any complicated fitting. It is a simple tube, open at the base, that drops over the furled umbrella and sits snugly around the canopy bundle.
 

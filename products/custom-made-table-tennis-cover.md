@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor table tennis table from rain, warping, UV, and debris with a cover made to fit the actual dimensions of your table.
-  - Each cover is made from 350gsm silver laminated woven polypropylene. The silver coating sheds rain and reflects sunlight, keeping moisture and heat away from the playing surface and frame so the table plays consistently season after season.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping moisture away from the playing surface and frame so the table plays consistently season after season.
   - Generic table tennis covers are made for standard tournament-size tables. Outdoor models and mini tables often have different dimensions, and even standard tables vary slightly between brands.
   - A made-to-measure cover fits your table properly in its playing position, with no gaps at the edges and no excess fabric to pool water or flap in the wind.
   - Enter your measurements below for an instant price.
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard table tennis tables are nominally 274 x 152 cm, but outdoor models, mini tables, and different brands vary from that spec. A cover made for the standard size may be slightly too long or too wide for your table, leaving excess fabric that pools water and sags over the edge. A custom cover is built from your exact measurements and sits flush on every side.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 350gsm silver laminated woven polypropylene. The woven base is strong and tear-resistant, and the silver coating on the outside sheds rain and reflects sunlight off the surface. The same material and construction goes into a cover for a mini table as for a full-size competition table. One quality level for every size.
+    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same material and construction goes into a cover for a mini table as for a full-size competition table. One quality level for every size.
 
 faqs:
   - q: Should I measure the table folded or flat?
@@ -103,7 +103,7 @@ faqs:
   - q: Does the cover protect the undercarriage and legs as well?
     a: The cover fits over the playing surface and drapes down the sides. The height measurement determines how far it drops. It covers the top and sides of the table, which protects the playing surface and the frame. The legs at the very base may not be fully enclosed depending on your height measurement.
   - q: Can I leave the cover on in the rain?
-    a: Yes. The cover is water resistant and is designed to be left on the table during rain events. The coated surface sheds rain, and water runs off the sloped sides of the cover rather than pooling on the flat playing surface.
+    a: Yes. The cover is waterproof and is designed to be left on the table during rain events. Water will run off the sloped sides of the cover rather than pooling on the flat playing surface.
 
 faqSub: Everything you need to know about ordering a custom table tennis table cover.
 
@@ -151,19 +151,11 @@ Measuring takes two minutes and guarantees the cover fits correctly.
 
 ## Material
 
-### Woven polypropylene base
+The cover is 200gsm solution-dyed polyester with a waterproof polyurethane underside. The face fabric is UV-stable, which matters for a table that lives outdoors and may have the cover on it for months at a time.
 
-The cover is built on a woven polypropylene base. The weave makes it strong and tear-resistant, which matters for a cover that goes on and comes off after most games and has to handle wind and the odd knock. It holds up to regular handling without splitting or fraying at the stress points.
+The PU underside keeps rain from soaking through to the playing surface. Water runs down the sides of the cover rather than sitting on top and finding its way through seams or under the edge of the cover.
 
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. The silver reflects sunlight away from the cover, so the cover and the table panel underneath stay cooler and are shielded from the sun. For a table that lives outdoors with the cover on for long stretches, that reflective layer keeps heat and UV off the playing surface.
-
-The same coating is water resistant. It sheds rain rather than soaking it up, so water runs down the sloped sides of the cover instead of sitting on top and finding its way under the edge to the surface.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a thin cover. It holds its shape on the table and stays put in normal wind without needing to be tied or weighted down. It is still a cover, not a tarp, so one person can fit it and take it off without a fuss.
+At 200gsm the fabric is heavy enough to stay in place on the table in normal wind without needing to be tied or weighted down.
 
 ## Care
 

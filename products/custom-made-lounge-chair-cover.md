@@ -11,20 +11,20 @@ categoryLabel: Lounge & Sofa Covers
 
 seo:
   title: Custom Made Lounge Chair Cover | Custom Cover Company
-  description: Made-to-measure covers for outdoor lounge chairs, tub chairs, and accent chairs. 350gsm silver laminated woven polypropylene, water resistant. Instant quote. Ships worldwide.
+  description: Made-to-measure covers for outdoor lounge chairs, tub chairs, and accent chairs. 200gsm waterproof polyester. Instant quote. Ships worldwide.
   keywords: [outdoor lounge chair cover, custom tub chair cover, outdoor armchair cover, garden chair cover made to measure]
 
 image: best-custom-cover-for-garden-lounge-chair.webp
 
 review:
-  quote: We have two wicker lounge chairs on the front porch and they are out in all weather. Having covers made to the exact dimensions means they slip on and off easily and nothing is left sticking out. The silver fabric keeps rain off and the chairs still look new after two winters.
+  quote: We have two wicker lounge chairs on the front porch and they are out in all weather. Having covers made to the exact dimensions means they slip on and off easily and nothing is left sticking out. The chairs still look new after two winters.
   name: Helen T.
   initials: HT
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,9 +37,9 @@ highlights:
 
 shortDescription:
   - Protect your outdoor lounge chair with a cover built to your exact dimensions.
-  - Made from 350gsm silver laminated woven polypropylene with a reflective coated exterior, it fits cleanly over the full chair without excess fabric or exposed sections.
+  - Made from 200gsm solution-dyed polyester with a waterproof underside, it fits cleanly over the full chair without excess fabric or exposed sections.
   - Standard covers are sized for common chair shapes and almost never match an individual chair's width, depth, and height combination.
-  - A custom-made cover sits flush on all sides, sheds rain, and stays in position without bunching.
+  - A custom-made cover sits flush on all sides, sheds water properly, and stays in position without bunching.
   - Enter your chair's measurements below for an instant quote.
 
 measurements:
@@ -85,7 +85,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Outdoor lounge chairs come in more variety than any other category of garden furniture. A tub chair is wider relative to its depth. An accent chair may have a tall decorative back. An armless occasional chair has a different silhouette entirely. A standard cover cannot account for that variety. A cover made to your exact measurements fits the chair you have, not a category average.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene with the same reflective coated exterior. A lounge chair cover is one of our more compact pieces, which is reflected in the starting price. The fabric and construction quality are identical to every other cover in the range.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester and the same waterproof underside. A lounge chair cover is one of our more compact pieces, which is reflected in the starting price. The fabric and construction quality are identical to every other cover in the range.
 
 faqs:
   - q: What is the difference between a lounge chair cover and a sun lounge cover?
@@ -147,14 +147,10 @@ Many people buy lounge chairs in pairs, and covering them individually is often 
 
 ## Material and construction
 
-All covers are made from 350gsm silver laminated woven polypropylene. The base is woven polypropylene, which is strong, tough, and tear-resistant. Over the outside it carries a silver laminate coating.
+All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed polyester holds its colour far longer than conventionally dyed fabric because the pigment goes into the fibre during production. In outdoor conditions, where UV exposure is intense for much of the year, the difference is noticeable after the first summer or two of regular use.
 
-That silver coating is reflective. It bounces sunlight away from the cover, so the cover and the chair underneath stay cooler and are shielded from the sun. Where UV exposure is intense for much of the year, this is the part that keeps the fabric and your furniture in good shape season after season.
-
-The coating is also water resistant. It sheds rain and keeps water off the chair rather than soaking through. Cheap covers tend to fail fast in the sun and let water sit on top until it works its way in. This fabric is built to handle both.
-
-At 350gsm it is heavier and more substantial than a thin cover. It holds its shape, sits well in light winds, and lasts. It is still a cover, not a tarp, so one person can fit it and pull it off without a struggle. Seams are reinforced throughout, and the base hem has enough structure to sit in position without needing to be tied down.
+The PU coating on the underside is flexible and stays that way through cold winters, unlike older PVC coatings which tend to crack at fold lines after a season or two. Seams are reinforced throughout, and the base hem has enough structure to sit in position in light winds without needing to be tied down.
 
 ## Caring for your cover
 
-Rinse with a garden hose every couple of months to remove dust, pollen, and bird droppings. Spot-clean with mild soapy water and a soft cloth. Do not machine wash, as a single cycle damages the silver coating. Fold loosely for storage rather than compressing tightly, and keep in a dry spot if storing away for a season.
+Rinse with a garden hose every couple of months to remove dust, pollen, and bird droppings. Spot-clean with mild soapy water and a soft cloth. Do not machine wash — a single cycle removes the waterproof coating. Fold loosely for storage rather than compressing tightly, and keep in a dry spot if storing away for a season.

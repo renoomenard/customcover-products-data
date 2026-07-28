@@ -11,7 +11,7 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Outdoor TV Cover | Wall Mounted TV Covers | Custom Cover Company
-  description: Protect your wall-mounted outdoor TV from rain, sun, and dust. Custom-made to the exact frame dimensions of your screen. Water resistant 350gsm silver laminated woven polypropylene. Ships worldwide.
+  description: Protect your wall-mounted outdoor TV from rain, UV, and dust. Custom-made to the exact frame dimensions of your screen. Waterproof 200gsm polyester. Ships worldwide.
   keywords: [outdoor tv cover, mounted tv cover, alfresco tv cover, custom tv cover]
 
 image: best-custom-cover-for-outdoor-tv.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,9 +37,9 @@ highlights:
 
 shortDescription:
   - Protect your wall-mounted outdoor TV with a cover made to fit the actual frame dimensions of your screen and the depth of your mount, not a generic bag that flaps and lets moisture in at the sides.
-  - Each cover is made from 350gsm silver laminated woven polypropylene. The silver coating on the outside reflects sunlight and sheds rain, keeping heat, humidity, dust, and weather away from the screen and ports when the TV is not in use.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain, humidity, dust, and UV away from the screen and ports when the TV is not in use.
   - Generic outdoor TV covers are made to approximate inch sizes and rarely match the actual frame of the TV. A loose cover that flaps in the wind or lets moisture pool at the bottom defeats the purpose.
-  - A made-to-measure cover slips over the front, sides, and top of the screen, fits flush around the frame, and keeps weather off at every edge.
+  - A made-to-measure cover slips over the front, sides, and top of the screen, fits flush around the frame, and seals out weather at every edge.
   - Enter your measurements below for an instant price.
 
 measurements:
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: TV sizes in inches refer to the diagonal measurement of the screen area. The actual frame width is always different, and it varies between brands at the same nominal screen size. A cover made for "a 65 inch TV" may be several centimetres too wide or too narrow for your specific model. A custom-made cover is built from the actual frame dimensions you provide, so it fits flush on every side.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 350gsm silver laminated woven polypropylene with a water resistant, reflective silver coating on the outside. The same material and construction goes into every order. There is no budget version and no upgraded option, just one quality level across the board.
+    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same material and construction goes into every order. There is no budget version and no upgraded option — one quality level across the board.
 
 faqs:
   - q: Why can't I just use my TV's screen size in inches?
@@ -151,19 +151,9 @@ The depth measurement determines how deep the cover pocket needs to be. A cover 
 
 ## Material for outdoor screen protection
 
-The cover uses 350gsm silver laminated woven polypropylene. The base is a woven polypropylene, which is strong, tough, and tear-resistant. That matters for a screen that may spend months under an alfresco roof with angled sun exposure.
+The cover uses 200gsm solution-dyed polyester. The face fabric is UV-stable, which matters for a screen that may spend months under an alfresco roof with angled sun exposure. UV breaks down standard polyester coatings within a couple of seasons, leaving the cover faded and eventually cracked.
 
-### Woven polypropylene base
-
-The woven base gives the cover its strength. It holds up to being fitted and removed week after week, and it does not tear at the corners the way thin generic covers do after a season or two of wind. Cheap outdoor covers tend to fail fast because the fabric is too light to take real weather. This base is built to last.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. The silver is reflective, so it bounces sunlight away instead of soaking it up. The cover and the screen underneath stay cooler, and the screen is shielded from sun and UV. The same coating is water resistant. It sheds rain and keeps rain off the face of the screen rather than letting it soak through.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a light cover. It holds its shape well instead of flapping in the wind, and the extra weight helps it sit flush against the wall and the frame. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle.
+The waterproof polyurethane underside keeps moisture from soaking through and reaching the screen surface. PU coatings are flexible and do not crack along fold lines in heat or cold.
 
 ## Fitting and care
 

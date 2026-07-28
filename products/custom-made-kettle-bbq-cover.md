@@ -11,7 +11,7 @@ categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
   title: Custom Made Kettle BBQ Cover | Custom Cover Company
-  description: Kettle BBQ covers made to your exact diameter and height. 350gsm silver laminated woven polypropylene, fitted to round kettle BBQs of any size. Get an instant quote online.
+  description: Kettle BBQ covers made to your exact diameter and height. 200gsm weatherproof polyester, fitted to round kettle BBQs of any size. Get an instant quote online.
   keywords: [kettle bbq cover, custom kettle bbq cover, round bbq cover, weber kettle cover]
 
 image: best-custom-kettle-bbq-cover.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your kettle BBQ with a round cover made to the exact diameter and height of your unit.
-  - Made from 350gsm silver laminated woven polypropylene with a reflective coated exterior that sheds rain and bounces sunlight away from the lid and body.
+  - Made from 200gsm solution-dyed polyester with a waterproof underside that keeps rain, dust, and UV off the lid and body.
   - Generic kettle covers come in two or three fixed sizes and never quite fit — too tight to pull on easily or too loose to stay in place in any kind of breeze.
   - A cover cut to your kettle's actual diameter and height fits cleanly over the dome and skirt without any of the frustration.
   - Enter your kettle's diameter and height below to get an instant price.
@@ -97,7 +97,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Kettle BBQs are round, and round covers are harder to size than rectangular ones. A small difference in diameter — say 5 cm — makes a noticeable difference in how a round cover fits. Too small and it will not pull down over the bowl. Too large and it sits loose and lifts in any wind. A cover made to your exact diameter and height sits properly on the kettle every time.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene with a reflective coated exterior and double-stitched seams. Round covers carry a slightly higher complexity rating because the circular pattern requires more precision in cutting and seaming. The fabric, coating, and construction quality are the same as every other cover in our range.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester with a waterproof polyurethane undercoating and double-stitched seams. Round covers carry a slightly higher complexity rating because the circular pattern requires more precision in cutting and seaming. The fabric, coating, and construction quality are the same as every other cover in our range.
 
 faqs:
   - q: Where exactly do I measure the diameter on a round kettle BBQ?
@@ -151,19 +151,11 @@ If your kettle is sitting on a patio or deck, measure from the surface it is sit
 
 ## Why material quality matters for a round cover
 
-Round BBQ covers deal with a specific issue that flat-sided covers do not. Because the cover sits in a dome shape over the kettle lid, the coating has to flex at the crown of the cover every time it is put on and taken off. A brittle coating cracks along those flex lines fairly quickly. Cheap covers tend to go this way within a season or two. A tougher base and a coating that bonds well to it handle repeated use without breaking down.
+Round BBQ covers deal with a specific issue that flat-sided covers do not. Because the cover sits in a dome shape over the kettle lid, any waterproof coating on the underside has to flex at the crown of the cover every time it is put on and taken off. A rigid coating cracks along those flex lines fairly quickly. A flexible coating handles repeated use without breaking down.
 
-### Woven polypropylene base
+The underside of every cover we make uses a polyurethane waterproof coating, which stays flexible across a wide temperature range and does not crack at flex points the way PVC or cheaper coatings do. The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the UV protection runs through every fibre rather than being applied as a surface treatment. Surface treatments wear off. Solution-dyed fabric retains its UV resistance for the life of the fabric.
 
-The base of every cover we make is woven polypropylene. Woven means the threads are interlaced rather than pressed together, which makes the fabric strong and tear-resistant. It holds up to being pulled on and off the kettle and to flapping in the wind without splitting at the stress points.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. That coating does two jobs. It is water resistant, so it sheds rain and keeps rain off the lid and bowl. It is also reflective, so it bounces sunlight away instead of soaking it up. That keeps the cover and the kettle underneath cooler and shields them from the sun, which is the part that ages outdoor fabrics and finishes over time.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a thin cover. It holds its shape over the kettle dome instead of collapsing inward, and it feels solid when you handle it, which is usually the fastest way to tell a good outdoor fabric from a cheap one. It is still a cover, not a tarp, so one person can fit it and take it off without any fuss.
+At 200gsm, the fabric is stiff enough to hold a reasonable shape over the kettle dome and not just collapse inward. It also feels solid when you handle it, which is usually the fastest way to tell a good outdoor fabric from a cheap one.
 
 ## Caring for your kettle BBQ cover
 

@@ -11,7 +11,7 @@ categoryLabel: Chair & Seating Covers
 
 seo:
   title: Custom Made Outdoor Chair Cover | Custom Cover Company
-  description: Custom outdoor chair covers made to fit your exact chair dimensions. Reflective, water resistant 350gsm silver laminated woven polypropylene. Single chair covers shipped with tracked delivery with tracked delivery.
+  description: Custom outdoor chair covers made to fit your exact chair dimensions. UV and waterproof 200gsm polyester. Single chair covers shipped with tracked delivery with tracked delivery.
   keywords:
     - outdoor chair cover
     - custom chair cover
@@ -27,8 +27,8 @@ review:
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -41,7 +41,7 @@ highlights:
 
 shortDescription:
   - Outdoor chairs come in too many shapes and sizes for a single standard cover to fit them all well.
-  - Your cover is made from 350gsm silver laminated woven polypropylene. The silver coating on the outside reflects sunlight to keep the chair cooler and sheds rain to keep it dry.
+  - Your cover is made from 200gsm solution-dyed polyester that blocks UV and sheds rain without any surface coating that can crack or peel.
   - Generic chair covers are designed for the most common shapes and rarely fit chairs with tall backs, wide armrests, or non-standard seat depths.
   - A cover made to your exact width, depth, and height fits flush and stays in place rather than billowing around or leaving part of the chair exposed.
   - Enter your chair dimensions below for an instant price.
@@ -89,7 +89,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard chair covers are made to fit the most common chair proportions, which means anything outside that range ends up with a cover that bunches at the sides or exposes the top of the back. Your cover is cut to your measurements so it fits your chair, not a chair someone else designed around.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene. The woven base is tough and tear-resistant, and the silver coating on the outside reflects sunlight away so the chair stays cooler and shielded from UV. The same coating sheds rain to keep the chair dry. Cheap covers often go patchy or brittle after a couple of seasons in direct sun. This one is built for year-round outdoor use.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester. The dye goes all the way through the fibre, so it does not fade unevenly or peel the way surface-coated covers can after a few seasons in direct sun. It is UV-stable, waterproof, and built for year-round outdoor use.
 
 faqs:
   - q: How do I measure a chair with armrests versus one without?
@@ -137,21 +137,11 @@ This measurement determines how long the cover is. The cover drops from the top 
 
 ## The material
 
-All our covers are made from 350gsm silver laminated woven polypropylene. This section explains what that means and why each part of it matters for a cover that lives outdoors.
+All our covers are made from 200gsm solution-dyed polyester. At this weight the fabric is substantial enough to hold its shape on a single chair without being too heavy to handle easily. It drapes well over a standard chair frame and the hem sits close to the ground without needing weights or ties in normal conditions.
 
-### Woven polypropylene base
+The solution-dyed construction means the colour is part of the fibre rather than a surface treatment. Many cheaper outdoor covers look fine when new but develop patchy fading or surface cracking after a couple of seasons in direct sun. Solution-dyed fabric ages more evenly and stays flexible through heat and UV exposure rather than becoming brittle.
 
-The base of the fabric is woven polypropylene. The weave makes it strong, tough, and tear-resistant, so it stands up to wind, branches, and general handling without splitting at stress points. This is the part that gives the cover its backbone and lets it take a knock without giving way.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating, and that coating does two jobs. First, it is reflective. It bounces sunlight away from the cover, so the cover and the chair underneath stay cooler and are shielded from sun and UV. Cheap covers often go patchy or brittle after a couple of seasons in strong sun. The reflective surface helps this fabric avoid that. Second, the coating is water resistant. Rain beads up and runs off rather than soaking in, so it keeps the rain off the chair.
-
-In very heavy, driving rain some moisture may find its way through seams, particularly if the cover is under sustained pressure. For most home use this is not an issue. If you leave chairs permanently outdoors through a wet season, a veranda or awning overhead will extend the life of both the cover and the chair.
-
-### Weight and handling
-
-At 350gsm the fabric is heavier and more substantial than lightweight covers. That extra weight helps it hold its shape on a single chair and sit close to the ground without needing weights or ties in normal conditions. It is still a cover, not a tarp, so one person can fit it and take it off easily. The heavier build also means it lasts longer through repeated use.
+The fabric is waterproof for normal outdoor rain. Water beads and runs off the surface. In very heavy, driving rain some moisture may find its way through seams, particularly if the cover is under sustained pressure. For most residential use this is not an issue. If you leave chairs permanently outdoors through a wet season, a veranda or awning overhead will extend the life of both the cover and the chair.
 
 ## Care
 

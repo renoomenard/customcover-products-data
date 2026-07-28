@@ -11,20 +11,20 @@ categoryLabel: Lounge & Sofa Covers
 
 seo:
   title: Custom Made Corner Lounge Cover | L-Shape Lounge Covers | Custom Cover Company
-  description: Cover your corner lounge with a tailor-made outdoor furniture cover. Made from 350gsm silver laminated woven polypropylene with a reflective, water-resistant coating. Enter your measurements for an instant quote.
+  description: Cover your corner lounge with a tailor-made outdoor furniture cover. Made from 200gsm solution-dyed polyester with a waterproof undercoating. Enter your measurements for an instant quote.
   keywords: [corner lounge cover, l-shape lounge cover, custom outdoor lounge cover, outdoor corner sofa cover]
 
 image: corner-lounge.webp
 
 review:
-  quote: Fits our outdoor sectional perfectly. The corner sits flush, no flapping in the wind, and rain just runs straight off.
+  quote: Fits our outdoor sectional perfectly. The corner sits flush, no flapping in the wind, and water just runs straight off.
   name: Sarah R.
   initials: SR
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your corner lounge with a cover built specifically for the shape of your furniture.
-  - We construct each one from 350gsm silver laminated woven polypropylene, so rain runs off rather than soaking through and sunlight bounces away from the contents underneath.
+  - We construct each one from 200gsm solution-dyed polyester backed with a waterproof underside, so rain runs off rather than soaking through.
   - Off-the-shelf covers are cut as a square or rectangle, which leaves gaps at the corner of an L-shape and lets weather in around the edges.
   - A made-to-measure cover sits flush along both returns, sheds water the way it should, and keeps your lounge looking presentable for years longer.
   - Send through your measurements below to receive an instant quote.
@@ -102,7 +102,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Our catalogue covers a broad range of common outdoor furniture shapes, but no two backyards are exactly alike. A custom-made cover picks up where standard sizing stops. Pick the shape that most closely resembles your furniture, send through your measurements, and we will build a cover that drops onto your lounge as if it had been pattern-cut from the same drawing as the lounge itself.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same premium outdoor fabric, the same reflective silver coating, the same seam construction and the same hardware. Whether you order a small chair cover or a full L-shape lounge, you are getting the build quality that is going to last. No cheap tier, no upsell, no surprises.
+    body: Every cover we make uses the same premium outdoor fabric, the same waterproof underside, the same seam construction and the same hardware. Whether you order a small chair cover or a full L-shape lounge, you are getting the build quality that is going to last. No cheap tier, no upsell, no surprises.
 
 faqs:
   - q: How do I measure my corner lounge?
@@ -166,20 +166,20 @@ If your chaise has its own back, you can use the overall height from measurement
 
 ## Why fabric quality is everything
 
-The thing that separates a cover that lasts five years from one that fails in twelve months is fabric construction. There are three things to look at: the woven base, the silver coating on top, and the weight of the material.
+The thing that separates a cover that lasts five years from one that fails in twelve months is fabric construction. There are three things to look at: the face fabric, the waterproof coating, and UV resistance.
 
-### Woven polypropylene base
+### Face fabric
 
-The base of our cover is woven polypropylene. Woven means the threads are interlaced rather than pressed into a sheet, and that gives the fabric real strength. It is tough and tear-resistant, so it stands up to wind, scuffs against the furniture, and the general knocks that come with sitting outside all year. Cheap covers tend to use thin, non-woven material that splits at the seams and tears at the corners within a season. A proper woven base does not.
+The outer face of a quality outdoor cover is solution-dyed polyester. Solution-dyed means the colour is added to the polymer before the fibre is extruded, rather than dyed onto pre-made fabric. The colour goes all the way through every fibre, which means the fabric resists fading dramatically better — and even when it does eventually fade, it fades evenly rather than going blotchy. A 200gsm weight is a good baseline: heavy enough to feel substantial and resist tearing, light enough that one person can put it on and take it off without a struggle.
 
-### Silver reflective coating
+### Waterproof coating
 
-The outside of the fabric carries a silver laminate coating, and this is where most of the protection comes from. The coating is reflective, so instead of soaking up the sun it bounces sunlight away. That keeps the cover and the furniture underneath cooler, and it shields your cushions and frame from sun and UV that would otherwise fade and degrade them. The same coating is water resistant, so rain sheds off the surface and stays off your lounge rather than soaking through. It sits on the exterior where the weather actually hits, which is exactly where you want it.
+The face fabric is not waterproof on its own. The waterproof barrier is a coating bonded to the underside — typically polyurethane (PU). PU coatings are flexible, do not crack when the cover is folded for storage, and hold up well under UV exposure. Avoid covers with PVC coatings, which go brittle after a year or two of sun and crack along fold lines.
 
-### Weight and durability
+### UV stabilisation
 
-At 350gsm the fabric is heavier and more substantial than the lightweight covers you find off the shelf. That extra weight means it holds its shape over the furniture, sits firmly instead of flapping in the wind, and wears slowly rather than thinning out after one summer. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle. Heavier where it counts, manageable where it matters.
+UV exposure can be intense and damaging depending on your location. A solution-dyed fabric with a stabilised PU coating will typically last five to seven years in full sun without significant degradation. Non-stabilised materials can start chalking and flaking within eighteen months.
 
 ## Caring for your cover
 
-Rinse with a garden hose every few months to wash off pollen, salt and dust. Spot-clean bird droppings with mild soapy water rather than letting them dry into the coating. Do not machine wash. The agitation strips the silver coating off the fabric in a single cycle. When taking the cover off for storage, fold it loosely rather than scrunching it; repeated fold lines in the same place can wear through the coating over time.
+Rinse with a garden hose every few months to wash off pollen, salt and dust. Spot-clean bird droppings with mild soapy water rather than letting them dry into the coating. Do not machine wash — the agitation strips off the waterproof coating in a single cycle. When taking the cover off for storage, fold it loosely rather than scrunching it; repeated fold lines in the same place can develop micro-cracks in the coating over time.

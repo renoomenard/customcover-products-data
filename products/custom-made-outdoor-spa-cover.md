@@ -11,7 +11,7 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Outdoor Spa Cover | External Cabinet Cover for Hot Tubs | Custom Cover Company
-  description: Protect your spa cabinet, plumbing, and controls with a custom-made external cover. Water resistant 350gsm silver laminated woven polypropylene. Made to your exact dimensions. Ships worldwide.
+  description: Protect your spa cabinet, plumbing, and controls with a custom-made external cover. Waterproof 200gsm polyester. Made to your exact dimensions. Ships worldwide.
   keywords: [outdoor spa cover, hot tub cover, custom spa cabinet cover, portable spa cover]
 
 image: best-custom-cover-for-outdoor-spa.webp
@@ -23,8 +23,8 @@ review:
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect the outside of your portable spa with a custom-made cover built to fit the actual dimensions of your cabinet, not a generic size that leaves the base or corners exposed.
-  - Each cover is made from 350gsm silver laminated woven polypropylene. The silver coating on the outside reflects sunlight and sheds rain, protecting your spa cabinet panels, plumbing access points, and control panel from sun, rain, and debris.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, protecting your spa cabinet panels, plumbing access points, and control panel from UV, rain, and debris.
   - Generic spa covers are designed for the water surface inside. This is an external cabinet cover for the outside of the unit, protecting the shell and components when the spa is not in regular use.
   - A made-to-measure external cover wraps neatly around the cabinet, sits at the right height, and keeps weather away from the parts that generic covers miss entirely.
   - Enter your measurements below for an instant price.
@@ -88,7 +88,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: External spa cabinet covers are not widely sold in standard sizes. Most people either leave the cabinet exposed or order the wrong product. A custom-made cover is built to your cabinet's exact width, depth, and height so it drops cleanly over the unit, protects the panels at every side, and sits at the right height without bunching on the ground.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses 350gsm silver laminated woven polypropylene. The woven base is strong and tear-resistant, and the silver coating on the outside reflects sunlight and sheds rain. The same fabric and construction goes into every order regardless of size. There is no budget tier, no economy option, and nothing to upgrade.
+    body: Every cover we make uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same fabric and construction goes into every order regardless of size. There is no budget tier, no economy option, and nothing to upgrade.
 
 faqs:
   - q: Is this the lid that goes over the water, or something else?
@@ -146,17 +146,9 @@ The control panel area is another point of concern. Most spa controls are rated 
 
 ## Material for spa cover use
 
-### Woven polypropylene base
+The cover is made from 200gsm solution-dyed polyester with a polyurethane waterproof underside. Solution-dyed fabric holds its colour in direct sun because the pigment runs through each fibre rather than sitting on the surface.
 
-The cover is made from silver laminated woven polypropylene. The base is a tightly woven polypropylene, which is strong, tough, and resists tearing. A spa cabinet has corners and edges that put strain on a cover, so the weave matters. It holds together where a thin sheet fabric would split.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. That coating is reflective, so it bounces sunlight away from the cover. The result is that the cover and the cabinet underneath stay cooler and are shielded from sun and UV. The same coating is water resistant. It sheds rain and keeps it off the cabinet panels rather than letting it soak through.
-
-### Weight and durability
-
-At 350gsm this is a heavier, more substantial fabric than the thin covers sold for the same job. The extra weight helps the cover hold its shape over the cabinet instead of flapping or bunching. It is still a cover, not a tarp, so one person can fit it and take it off without help. Cheap covers tend to fail fast in the sun and wind. A heavier coated fabric lasts through more seasons before it shows wear.
+The PU coating on the underside keeps rain from soaking through and running down the cabinet panels. It stays flexible in heat and cold, which matters for a cover that may spend months on a spa between uses.
 
 ## Fitting and care
 

@@ -11,20 +11,20 @@ categoryLabel: Table & Dining Covers
 
 seo:
   title: Custom Made Round Table Cover | Outdoor Round Dining Table Covers | Custom Cover Company
-  description: Protect your round outdoor dining table with a cover made to its exact diameter and height. 350gsm silver laminated woven polypropylene, water resistant and reflective. Instant quote online.
+  description: Protect your round outdoor dining table with a cover made to its exact diameter and height. 200gsm weatherproof polyester. Instant quote online.
   keywords: [round table cover, outdoor round table cover, circular table cover, custom round table cover]
 
 image: best-custom-cover-for-oudoor-round-table.webp
 
 review:
-  quote: My glass-top table was already starting to etch from rain and UV before I found this. The cover fits perfectly, sheds rain, and I have had zero issues since. I should have done it the day the table arrived.
+  quote: My glass-top table was already starting to etch from rain and UV before I found this. The cover fits perfectly and I have had zero issues since. I should have done it the day the table arrived.
   name: Robyn S.
   initials: RS
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your round outdoor dining table with a cover made to fit its exact diameter — not the nearest standard size that leaves the edges exposed or bunches on the ground.
-  - Each cover is made from 350gsm silver laminated woven polypropylene. The coated outer face sheds rain cleanly and its reflective surface bounces sunlight away, keeping the tabletop shielded from rain and UV.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof undercoating that sheds rain cleanly and blocks UV damage to the tabletop surface.
   - Standard round table covers come in three or four fixed diameters. Most tables sit between two of them, which means the cover either stops short of the table edge or pools on the ground in an untidy ring.
   - A custom-made cover drapes cleanly to the ground, sits flush at the sides, and protects the top, legs, and base from weather, UV, and dust all year round.
   - Enter your diameter and height below for an instant price.
@@ -79,7 +79,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Round outdoor dining tables come in a wide range of diameters, from a compact 90 cm two-seater up to 180 cm or larger for entertaining tables. Standard covers are made in three or four fixed sizes. A table that falls between two standard diameters ends up with a cover that either does not reach the edge of the tabletop or pools so far on the ground that it collects water and debris. A custom-made cover is cut to your exact diameter, so it hangs evenly and reaches the ground cleanly all the way around.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 350gsm silver laminated woven polypropylene. The woven base is strong and tear-resistant, and the silver coating on the outside is water resistant and reflective. No cheap version, no premium upgrade. Whether your table cost $300 or $3,000, you are getting the same build quality throughout. The only variable is the size, and that is what the custom-made process is for.
+    body: Every cover we make uses the same 200gsm solution-dyed polyester face fabric with a flexible polyurethane waterproof undercoating. No cheap version, no premium upgrade. Whether your table cost $300 or $3,000, you are getting the same build quality throughout. The only variable is the size, and that is what the custom-made process is for.
 
 faqs:
   - q: How do I measure the diameter if I cannot get a tape measure across the centre?
@@ -147,20 +147,12 @@ If your table is in a location that is exposed to salt air — within a few kilo
 
 ## Material
 
-### Woven polypropylene base
+The face fabric is 200gsm solution-dyed polyester. The pigment is worked into the fibre during manufacture rather than applied to the surface, which is why it holds its colour in intense UV rather than going patchy within a couple of seasons.
 
-The cover is built on a woven polypropylene base. Polypropylene is a tough, strong fabric, and weaving it gives the cover real tear resistance. It takes the wind, the handling, and the daily on-and-off without splitting at the seams or wearing thin the way cheap covers do after a season or two.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. That coating does two jobs. It is water resistant, so rain runs off the surface rather than soaking through, and it is reflective, so it bounces sunlight away instead of absorbing it. The reflected sunlight means the cover and the table underneath stay cooler, and the tabletop is shielded from sun and UV.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a thin standard cover. It holds its shape well, sits properly over the table instead of flapping loose, and stands up to season after season outdoors. It is still a cover, not a tarp, so one person can fit it and take it off without a struggle.
+The underside carries a flexible polyurethane waterproof coating that sheds water cleanly and stays flexible across the full range of outdoor temperatures. Both layers are UV stabilised throughout.
 
 ## Caring for your round table cover
 
 Rinse the outside with a garden hose every month or so, particularly after rain or dusty periods. Brush off any debris before putting the cover on. Spot-clean any marks on the inside surface with warm soapy water and allow to dry fully before replacing.
 
-Do not machine wash. The agitation breaks down the silver laminate coating in a single cycle. If you fold the cover for storage, vary the fold lines so the coating is not repeatedly stressed at the same point.
+Do not machine wash. The agitation breaks down the waterproof coating in a single cycle. If you fold the cover for storage, vary the fold lines so the coating is not repeatedly stressed at the same point.

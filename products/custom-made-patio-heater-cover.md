@@ -17,14 +17,14 @@ seo:
 image: best-custom-cover-for-outdoor-patio-heater.webp
 
 review:
-  quote: Our heater lives on the outdoor entertaining area year-round. The cover keeps rain off the gas fitting and the head unit and it has made a real difference to how long things have lasted. No rust on the reflector at all after three winters.
+  quote: Our heater lives on the outdoor entertaining area year-round. The cover keeps rain out of the gas fitting and the head unit and it has made a real difference to how long things have lasted — no rust on the reflector at all after three winters.
   name: Greg T.
   initials: GT
 
 highlights:
   - icon: uv
-    title: Reflective & Water Resistant
-    desc: 350gsm Silver Laminated Woven Polypropylene
+    title: UV & Waterproof
+    desc: 200gsm solution-dyed polyester
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your freestanding mushroom patio heater from rain, rust, and UV with a cover made to the exact diameter and height of your unit.
-  - Each cover is made from 350gsm silver laminated woven polypropylene. The reflective coating sheds rain and bounces sunlight away, keeping moisture and sun off the gas fitting, control valve, reflector head, and pole when the heater is not in use.
+  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping moisture away from the gas fitting, control valve, reflector head, and pole when the heater is not in use.
   - Generic patio heater covers come in a limited range of sizes and rarely fit the mushroom head correctly, which is the widest and most vulnerable part of the heater.
   - A made-to-measure cover fits snugly over the reflector head and drops cleanly to the base, protecting every part of the unit from the elements.
   - Enter your measurements below for an instant price.
@@ -85,7 +85,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Mushroom patio heaters vary in head diameter between brands and models, and the head is always wider than the pole. A cover made for a generic "large" or "medium" heater may fit the pole well but be too narrow to go over the head, or so wide at the top that it does not sit properly. A custom cover is made to the actual diameter of your head and the full height of your unit.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 350gsm silver laminated woven polypropylene. The woven base is strong and tear resistant, and the silver coating on the outside sheds rain while reflecting sunlight away from the heater. The cylindrical shape requires additional material at the curved seams compared to a flat rectangular cover, which is reflected in the price formula, but the material itself is identical across every product we make.
+    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The cylindrical shape requires additional material at the curved seams compared to a flat rectangular cover, which is reflected in the price formula, but the material itself is identical across every product we make.
 
 faqs:
   - q: Do I measure the diameter at the head or at the pole?
@@ -141,19 +141,9 @@ Covering a hot heater traps heat inside the cover. This risks damaging the fabri
 
 ## Material
 
-The cover is made from 350gsm silver laminated woven polypropylene. The cylindrical shape of a mushroom heater cover requires additional seam construction compared to a flat rectangular cover, which is why it uses a slightly higher complexity factor in the pricing formula. The material itself is the same as every other cover we make.
+The cover is made from 200gsm solution-dyed polyester with a waterproof polyurethane underside. The cylindrical shape of a mushroom heater cover requires additional seam construction compared to a flat rectangular cover, which is why it uses a slightly higher complexity factor in the pricing formula. The material itself is the same as every other cover we make.
 
-### Woven polypropylene base
-
-The base of the fabric is woven polypropylene. Woven, not bonded, so it is strong and tough, and it resists tearing. That matters on a cover that gets pulled on and off over a wide reflector head. Cheap covers tend to be thin and flimsy, and they split at the seams within a season. This base holds up to repeated use.
-
-### Silver reflective laminate
-
-The outside of the fabric carries a silver laminate coating. The coating does two jobs. It is water resistant, so rain beads up and runs off rather than soaking through to the metal underneath. It is also reflective, so it bounces sunlight away. That keeps the cover and the heater under it cooler, and it shields the reflector coating and the pole from sun and UV. The coating is on the exterior where it meets the weather, which is exactly where it needs to be.
-
-### Weight and durability
-
-At 350gsm the fabric is heavier and more substantial than a light cover. It holds its shape well over the dome of the reflector head, and it does not flap loose in wind the way thin material does. It is still a cover, not a tarp, so one person can fit it and take it off without any trouble. The extra weight buys you a cover that lasts and sits properly, not one that fights you every time.
+The PU underside keeps rain from reaching the heater surface. Water runs off the outside of the cover rather than pooling against the metal components.
 
 ## Care
 
