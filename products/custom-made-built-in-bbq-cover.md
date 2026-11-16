@@ -100,7 +100,7 @@ faqs:
   - q: Can I put the cover on straight after cooking?
     a: No. Always allow the BBQ to cool completely before covering it. Covering a hot or warm unit traps heat and moisture, which accelerates rust and can damage the cover material. Give it at least an hour after the last use before putting the cover on.
   - q: Is the material safe to use around a food preparation area?
-    a: The cover is 210T silver-coated nylon. It is made to protect the BBQ between uses, not during cooking. Take it off before you start cooking, keep it away from food, and only put it back once the BBQ is cold.
+    a: Yes. The cover is made from 210T silver-coated nylon, which is food safe. It is made to protect the BBQ between uses, not during cooking, so take it off before you start cooking and put it back once the BBQ is cold.
 
 faqSub: Everything you need to know about ordering a custom built-in BBQ cover.
 
