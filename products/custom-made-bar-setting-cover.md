@@ -11,7 +11,7 @@ categoryLabel: Table & Dining Covers
 
 seo:
   title: Custom Made Bar Setting Cover | Custom Cover Company
-  description: Tailor-made covers for outdoor bar tables and bar stool settings. 200gsm waterproof polyester cut to your exact size. Instant quote. Ships worldwide.
+  description: Tailor-made covers for outdoor bar tables and bar stool settings. Waterproof 210T silver-coated nylon cut to your exact size. Instant quote. Ships worldwide.
   keywords: [bar table cover, outdoor bar setting cover, custom bar stool cover, alfresco bar cover]
 
 image: best-custom-cover-for-outdoor-bar-table-set.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor bar setting — table and stools together — with a single cover built to your exact dimensions.
-  - Made from 200gsm solution-dyed polyester with a waterproof underside, it sheds rain cleanly and holds up in all weather.
+  - Made from 210T silver-coated nylon in Silver or Black, it sheds rain cleanly and reflects the sun's heat.
   - Standard covers are too short for the height of a bar table or too narrow once stools are included, and end up leaving half the setting exposed.
   - A custom cover is cut to the full width and height of your setting with stools pushed in, so everything is protected in one go.
   - Enter your measurements below for an instant quote.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Bar settings are taller than a standard dining table and wider than the table base once stools are included. A cover sized for a regular dining table will not reach the ground on a bar height setting, and standard widths rarely account for the stool spread. A made-to-measure cover is sized for the whole setting as you use it, so the fit is clean and nothing is left exposed.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester, the same waterproof underside, and the same seam construction. Whether you order a small chair cover or a full bar setting cover, you are getting the same build quality. One material, one quality level, priced by size.
+    body: Every cover we make uses the same 210T silver-coated nylon and the same seam construction. Whether you order a small chair cover or a full bar setting cover, you are getting the same build quality. One material, one quality level, priced by size.
 
 faqs:
   - q: Do I include the stools in the width measurement?
@@ -142,10 +142,20 @@ If your setting is in a particularly exposed spot — a rooftop, a coastal deck,
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed polyester holds its colour far longer than conventionally dyed fabrics because the pigment goes into the fibre during production rather than onto the surface. In the outdoor climates, where UV levels are high, this matters a great deal. A solution-dyed cover will still look presentable after four or five years of regular exposure. A conventionally dyed cover can start fading badly within twelve to eighteen months.
+All covers are made from 210T silver-coated nylon. Seams are reinforced throughout, and the base hem has enough structure to hold its shape without being rigid.
 
-The PU waterproof coating keeps the cover flexible in cold weather and does not crack along fold lines, which is common with PVC-based coatings. Seams are reinforced throughout, and the base hem has enough structure to hold its shape without being rigid.
+### 210T nylon
+
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so even a cover for a full bar setting is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the table and stools cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 ## Caring for your cover
 
-Rinse with a garden hose regularly to remove dust, pollen, and salt. Spot-clean with mild soapy water. Do not machine wash — the agitation removes the waterproof coating in a single cycle. Store the cover folded loosely rather than compressed tightly, as sustained pressure on the same fold line can eventually wear the coating.
+Rinse with a garden hose regularly to remove dust, pollen, and salt. Spot-clean with mild soapy water. Do not machine wash. The agitation removes the silver coating in a single cycle. Store the cover folded loosely rather than compressed tightly, as sustained pressure on the same fold line can eventually wear the coating.

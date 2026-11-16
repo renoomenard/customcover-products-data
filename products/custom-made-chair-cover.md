@@ -11,7 +11,7 @@ categoryLabel: Chair & Seating Covers
 
 seo:
   title: Custom Made Outdoor Chair Cover | Custom Cover Company
-  description: Custom outdoor chair covers made to fit your exact chair dimensions. UV and waterproof 200gsm polyester. Single chair covers shipped with tracked delivery with tracked delivery.
+  description: Custom outdoor chair covers made to your exact chair size. UV and waterproof 210T silver-coated nylon. Single chair covers sent with tracked delivery.
   keywords:
     - outdoor chair cover
     - custom chair cover
@@ -28,7 +28,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -41,7 +41,7 @@ highlights:
 
 shortDescription:
   - Outdoor chairs come in too many shapes and sizes for a single standard cover to fit them all well.
-  - Your cover is made from 200gsm solution-dyed polyester that blocks UV and sheds rain without any surface coating that can crack or peel.
+  - Your cover is made from 210T silver-coated nylon in Silver or Black. The silver coating sheds rain and reflects the sun's heat.
   - Generic chair covers are designed for the most common shapes and rarely fit chairs with tall backs, wide armrests, or non-standard seat depths.
   - A cover made to your exact width, depth, and height fits flush and stays in place rather than billowing around or leaving part of the chair exposed.
   - Enter your chair dimensions below for an instant price.
@@ -89,7 +89,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard chair covers are made to fit the most common chair proportions, which means anything outside that range ends up with a cover that bunches at the sides or exposes the top of the back. Your cover is cut to your measurements so it fits your chair, not a chair someone else designed around.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester. The dye goes all the way through the fibre, so it does not fade unevenly or peel the way surface-coated covers can after a few seasons in direct sun. It is UV-stable, waterproof, and built for year-round outdoor use.
+    body: Every cover we make uses the same 210T silver-coated nylon. It is waterproof, it reflects the sun's heat, and it is light enough for one person to put on and take off.
 
 faqs:
   - q: How do I measure a chair with armrests versus one without?
@@ -137,9 +137,19 @@ This measurement determines how long the cover is. The cover drops from the top 
 
 ## The material
 
-All our covers are made from 200gsm solution-dyed polyester. At this weight the fabric is substantial enough to hold its shape on a single chair without being too heavy to handle easily. It drapes well over a standard chair frame and the hem sits close to the ground without needing weights or ties in normal conditions.
+All our covers are made from 210T silver-coated nylon.
 
-The solution-dyed construction means the colour is part of the fibre rather than a surface treatment. Many cheaper outdoor covers look fine when new but develop patchy fading or surface cracking after a couple of seasons in direct sun. Solution-dyed fabric ages more evenly and stays flexible through heat and UV exposure rather than becoming brittle.
+### 210T nylon
+
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so a single chair cover is easy for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the chair cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 The fabric is waterproof for normal outdoor rain. Water beads and runs off the surface. In very heavy, driving rain some moisture may find its way through seams, particularly if the cover is under sustained pressure. For most residential use this is not an issue. If you leave chairs permanently outdoors through a wet season, a veranda or awning overhead will extend the life of both the cover and the chair.
 
@@ -147,4 +157,4 @@ The fabric is waterproof for normal outdoor rain. Water beads and runs off the s
 
 Wipe the cover down with a damp cloth for routine cleaning. For bird droppings or dirt that has dried on, use mild soap and a soft brush and rinse well with the hose. Let the cover air-dry completely before putting it back on the chair or storing it. Do not machine wash or tumble dry.
 
-Store unused covers folded loosely in a cool, dry place out of direct sun. If you rotate covers through a set of chairs, keeping the spare covers out of UV when not in use will significantly extend how long they last. A single chair cover used every day will naturally show more wear than one that alternates with another, but with routine care both should give you several years of use.
+Store unused covers folded loosely in a cool, dry place out of direct sun. If you rotate covers through a set of chairs, keeping the spare covers out of UV when not in use will significantly extend how long they last. A single chair cover used every day will naturally show more wear than one that alternates with another, but routine care helps both last.

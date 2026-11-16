@@ -11,7 +11,7 @@ categoryLabel: Chair & Seating Covers
 
 seo:
   title: Custom Made Chair Stack Cover | Custom Cover Company
-  description: Custom covers for stacked outdoor chairs. Made to fit your exact stack height and width. UV and waterproof 200gsm polyester. Suits cafes, restaurants, and home entertaining.
+  description: Custom covers for stacked outdoor chairs, made to your stack's height and width. Waterproof 210T silver-coated nylon. Suits cafes, restaurants, and homes.
   keywords:
     - chair stack cover
     - outdoor chair stack cover
@@ -28,7 +28,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -41,7 +41,7 @@ highlights:
 
 shortDescription:
   - A stack of outdoor chairs is an awkward shape to cover and standard covers rarely have the height for more than two or three chairs.
-  - Your cover is made from 200gsm solution-dyed polyester that blocks UV and sheds rain without any peelable coating.
+  - Your cover is made from 210T silver-coated nylon in Silver or Black. The silver coating sheds rain and reflects the sun's heat.
   - Generic bag-style covers are either too short for a full stack or so oversized they flap around and let weather in from the sides.
   - A cover made to your exact stack width, depth, and height protects the whole pile and stays put overnight.
   - Measure your stacked chairs and enter the dimensions below for an instant price.
@@ -95,7 +95,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Chair stacks vary enormously depending on chair style, number of chairs, and how the chairs nest when stacked. A cover made to your stack means the fabric reaches the ground at the right height and wraps the width without bunching or leaving gaps at the sides. Measure your actual stack and we cut to those numbers.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester regardless of size. The dye goes through the entire fibre, so it does not fade, peel, or crack the way surface-coated covers do. It is UV-stable, waterproof, and tough enough for commercial and residential outdoor use year-round.
+    body: Every cover we make uses the same 210T silver-coated nylon regardless of size. It is waterproof, it reflects the sun's heat, and it suits both commercial and home use.
 
 faqs:
   - q: How do I decide how many chairs to include in the measurement?
@@ -143,9 +143,19 @@ If the chairs have rubber feet or angled legs, measure from where the chair actu
 
 ## The material
 
-All our covers are made from 200gsm solution-dyed polyester. For a chair stack, you want something with enough weight to stay in place on a tall, slightly top-heavy structure without being so stiff that it is hard to pull on and off quickly. This weight hits that balance well. The cover drops over the stack from the top and sits under its own weight without needing to be tied down in calm conditions.
+All our covers are made from 210T silver-coated nylon. For a chair stack, you want a cover you can pull on and off quickly. The cover drops over the stack from the top.
 
-Solution-dyed fabric means the colour runs through the fibre, not just on the surface. Surface-coated covers look fine when new but can crack and peel after a couple of seasons in direct sun. Solution-dyed fabric does not have that problem. The colour holds, the fabric stays flexible, and it does not become brittle with heat.
+### 210T nylon
+
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so even a tall stack cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the chairs cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 The fabric is waterproof for normal rain. Water runs off the sides and does not soak through under standard rainfall. If the top of the cover has a flat surface and rain pools there, it will eventually find a path through. Positioning the stack so it tilts very slightly, or using the cover under a veranda, avoids this.
 

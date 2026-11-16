@@ -11,7 +11,7 @@ categoryLabel: Lounge & Sofa Covers
 
 seo:
   title: Custom Made Outdoor Fireplace Cover | Custom Cover Company
-  description: Made-to-measure covers for outdoor fireplaces, fire pits, and chimineas. 200gsm waterproof polyester. Always allow to cool before covering. Ships worldwide.
+  description: Made-to-measure covers for outdoor fireplaces, fire pits, and chimineas. 210T silver-coated nylon. Always allow to cool before covering. Ships worldwide.
   keywords: [outdoor fireplace cover, custom fire pit cover, chiminea cover, outdoor fireplace cover made to measure]
 
 image: best-custom-outdoor-fireplace-cover.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor fireplace, fire pit, or chiminea with a cover built to your exact dimensions.
-  - Made from 200gsm solution-dyed polyester with a waterproof underside, it keeps rain, dew, and debris out when the fire is not in use.
+  - Made from 210T silver-coated nylon in Silver or Black, it keeps rain, dew, and debris out when the fire is not in use.
   - Standard covers rarely match the dimensions of a standalone outdoor fireplace and leave gaps that let moisture in at the base.
   - A made-to-measure cover sits flush on all sides and fully encloses your unit when it is not in use.
   - Important: always allow the fireplace to cool completely — at least 12 hours — before placing the cover on. Enter your measurements below for an instant quote.
@@ -103,7 +103,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Outdoor fireplaces come in a wide variety of shapes and sizes, and almost none of them match the standard dimensions of a generic cover. A made-to-measure cover accounts for the specific footprint of your unit, including any base legs or wide base plates, so it sits flush on all sides and seals properly at the bottom.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester and the same waterproof underside. The fireplace cover is one of our simpler shapes, which is reflected in the pricing. The material and construction quality are the same as every other cover in our range.
+    body: Every cover we make uses the same 210T silver-coated nylon. The fireplace cover is one of our simpler shapes, which is reflected in the pricing. The material and construction quality are the same as every other cover in our range.
 
 faqs:
   - q: How long do I need to wait before covering the fireplace?
@@ -115,7 +115,7 @@ faqs:
   - q: My fireplace is raised on legs. Do I measure from the ground or from the base of the body?
     a: Measure from the ground. The cover needs to reach the ground to fully enclose the unit, including the legs and any airflow gaps beneath the body. If your fireplace has unusually long legs that would make the cover very tall relative to the body, note this in your order comments.
   - q: Is the cover fire-retardant?
-    a: No. The cover is made from 200gsm solution-dyed polyester with a waterproof coating. It is a weather cover, not a fire safety product. It must never be placed on a warm or hot unit. Always allow the fireplace to cool completely before covering — at least 12 hours, and longer in cold weather when cooling is slower.
+    a: No. The cover is made from 210T silver-coated nylon. It is a weather cover, not a fire safety product. It must never be placed on a warm or hot unit. Always allow the fireplace to cool completely before covering. Wait at least 12 hours, and longer in cold weather when cooling is slower.
 
 faqSub: Everything you need to know about ordering a custom outdoor fireplace cover.
 
@@ -133,7 +133,7 @@ Outdoor fireplaces and fire pits have become a fixture in backyards, particularl
 
 A standalone outdoor fireplace or fire pit is almost always made from cast iron, powder-coated steel, or a combination of metal components. All of these materials will hold up well when properly cared for. Left exposed to rain, morning dew, coastal salt air, or frost, they corrode. Rust spots develop at welds and seams, the base collects moisture, and over a few seasons a fireplace that should last fifteen years starts showing deterioration far sooner.
 
-A weather cover keeps the moisture out between uses. It is the simplest and most effective maintenance step for any outdoor fireplace, and the return on investment is straightforward: a cover that lasts five to seven years versus a fireplace that starts corroding in two.
+A weather cover keeps the moisture out between uses. It is the simplest and most effective maintenance step for any outdoor fireplace, and the return on investment is straightforward: a cover costs far less than replacing a fireplace that has started to corrode.
 
 The challenge is that outdoor fireplaces come in such a wide range of shapes and sizes that standard covers rarely fit properly. A cover that is too large flaps in the wind and collects water in the folds. A cover that is too small does not reach the ground and leaves the base exposed. A made-to-measure cover is cut to the specific footprint of your unit.
 
@@ -155,16 +155,24 @@ Do not add extra centimetres to any measurement. The production pattern includes
 
 ## The most important rule: always let it cool
 
-This cannot be overstated. The cover is a weather cover made from polyester fabric. It is not fire-retardant. Placing it on a warm or hot unit will damage the cover, and in some cases creates a genuine fire risk as residual heat builds up underneath.
+This cannot be overstated. The cover is a weather cover made from nylon fabric. It is not fire-retardant. Placing it on a warm or hot unit will damage the cover, and in some cases creates a genuine fire risk as residual heat builds up underneath.
 
 The minimum recommended waiting time after the last fire is 12 hours. In cold weather, when the unit retains heat longer, wait longer. If you are not sure whether the unit has cooled completely, check the base and the back of the unit, which hold heat longer than the front and top. When in doubt, leave it overnight.
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating on the underside. Solution-dyed fabric is significantly more resistant to UV fading than conventionally dyed polyester. The pigment goes into the fibre during production rather than being applied to the surface, so it holds its colour through years of sun exposure. In intense UV environments, this difference is especially noticeable.
+### 210T nylon
 
-The PU coating on the underside is bonded to the fabric and stays flexible in cold weather. Unlike older PVC coatings, it does not crack along fold lines after a few seasons. All seams are reinforced and the base hem has enough structure to stay in position in light winds without needing ties.
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep your fireplace cooler underneath.
+
+### Construction
+
+All seams are reinforced and the base hem has enough structure to stay in position in light winds without needing ties.
 
 ## Caring for your cover
 
-Rinse regularly with a garden hose to remove ash dust, pollen, and debris. Spot-clean with mild soapy water. Do not machine wash — the agitation strips the waterproof coating in a single cycle. Store the cover folded loosely, not compressed tightly, and in a dry location between seasons if you store it away for summer.
+Rinse regularly with a garden hose to remove ash dust, pollen, and debris. Spot-clean with mild soapy water. Do not machine wash. The agitation strips the silver coating in a single cycle. Store the cover folded loosely, not compressed tightly, and in a dry location between seasons if you store it away for summer.

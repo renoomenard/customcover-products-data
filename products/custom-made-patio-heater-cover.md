@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your freestanding mushroom patio heater from rain, rust, and UV with a cover made to the exact diameter and height of your unit.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping moisture away from the gas fitting, control valve, reflector head, and pole when the heater is not in use.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black, keeping moisture away from the gas fitting, control valve, reflector head, and pole when the heater is not in use.
   - Generic patio heater covers come in a limited range of sizes and rarely fit the mushroom head correctly, which is the widest and most vulnerable part of the heater.
   - A made-to-measure cover fits snugly over the reflector head and drops cleanly to the base, protecting every part of the unit from the elements.
   - Enter your measurements below for an instant price.
@@ -85,7 +85,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Mushroom patio heaters vary in head diameter between brands and models, and the head is always wider than the pole. A cover made for a generic "large" or "medium" heater may fit the pole well but be too narrow to go over the head, or so wide at the top that it does not sit properly. A custom cover is made to the actual diameter of your head and the full height of your unit.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The cylindrical shape requires additional material at the curved seams compared to a flat rectangular cover, which is reflected in the price formula, but the material itself is identical across every product we make.
+    body: Every cover uses 210T silver-coated nylon. The cylindrical shape requires additional material at the curved seams compared to a flat rectangular cover, which is reflected in the price formula, but the material itself is identical across every product we make.
 
 faqs:
   - q: Do I measure the diameter at the head or at the pole?
@@ -141,9 +141,17 @@ Covering a hot heater traps heat inside the cover. This risks damaging the fabri
 
 ## Material
 
-The cover is made from 200gsm solution-dyed polyester with a waterproof polyurethane underside. The cylindrical shape of a mushroom heater cover requires additional seam construction compared to a flat rectangular cover, which is why it uses a slightly higher complexity factor in the pricing formula. The material itself is the same as every other cover we make.
+### 210T nylon
 
-The PU underside keeps rain from reaching the heater surface. Water runs off the outside of the cover rather than pooling against the metal components.
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep the heater cooler underneath. Water runs off the outside of the cover rather than pooling against the metal components.
+
+### Shape
+
+The cylindrical shape of a mushroom heater cover requires additional seam construction compared to a flat rectangular cover, which is why it uses a slightly higher complexity factor in the pricing formula. The material itself is the same as every other cover we make.
 
 ## Care
 

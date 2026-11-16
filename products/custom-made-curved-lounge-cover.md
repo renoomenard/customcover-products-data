@@ -11,7 +11,7 @@ categoryLabel: Lounge & Sofa Covers
 
 seo:
   title: Custom Made Curved Lounge Cover | Custom Cover Company
-  description: Made-to-measure covers for curved and crescent-shaped outdoor lounges. 200gsm waterproof polyester built to your exact chord length and depth. Ships worldwide.
+  description: Made-to-measure covers for curved and crescent outdoor lounges. Waterproof 210T silver-coated nylon cut to your chord length and depth. Ships worldwide.
   keywords: [curved lounge cover, crescent sofa cover outdoor, custom curved outdoor lounge cover, arc lounge cover]
 
 image: best-custom-cover-for-curved-outdoor-lounges.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your curved or crescent-shaped outdoor lounge with a cover built to follow the arc of your furniture.
-  - Made from 200gsm solution-dyed polyester with a waterproof underside, each cover is pattern-cut specifically for curved lounge shapes.
+  - Made from 210T silver-coated nylon in Silver or Black, each cover is pattern-cut specifically for curved lounge shapes.
   - Off-the-shelf covers cannot accommodate the arc of a curved lounge and end up bunching, pulling, or leaving gaps at the ends.
   - A custom-made curved lounge cover is shaped to match the chord length and depth of your lounge so it sits cleanly across the whole piece.
   - Enter your measurements below for an instant quote.
@@ -94,7 +94,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Curved lounges need pattern-cutting that a standard cover cannot provide. The arc creates a front edge that is longer than a straight line, and a back edge that curves inward. A flat rectangular cover cannot follow that geometry without bunching or pulling. Our curved lounge cover is built from a pattern shaped to your chord length and depth, with the curved seam work that lets the cover sit properly across the whole piece.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester, the same waterproof underside, and the same seam construction. The higher complexity of a curved cover is reflected in pricing, not in a lower quality tier. You get the same fabric and the same build, just with the additional work required to make it fit a curve.
+    body: Every cover we make uses the same 210T silver-coated nylon and the same seam construction. The higher complexity of a curved cover is reflected in pricing, not in a lower quality tier. You get the same fabric and the same build, just with the additional work required to make it fit a curve.
 
 faqs:
   - q: How do I measure the chord length correctly?
@@ -154,8 +154,20 @@ The fabric and the waterproof construction are identical to every other cover we
 
 ## Material and construction
 
-All covers are made from 200gsm solution-dyed polyester with a polyurethane waterproof coating bonded to the underside. Solution-dyed fabric holds its colour through years of UV exposure because the pigment is part of the fibre, not a surface treatment. The PU coating stays flexible through cold winters and does not crack along fold lines the way older PVC coatings do. All seams are reinforced, and the curved seams at the front corners are double-stitched for added durability.
+All covers are made from 210T silver-coated nylon. All seams are reinforced, and the curved seams at the front corners are double-stitched for added durability.
+
+### 210T nylon
+
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so even a long curved cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the lounge and cushions cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 ## Caring for your cover
 
-Rinse regularly with a garden hose to clear dust, pollen, and bird droppings. Spot-clean with mild soapy water and a soft cloth. Avoid machine washing — a single cycle is enough to break down the waterproof coating. When storing the cover, fold it loosely. Tight compression along the same fold lines repeatedly can cause the coating to wear at those points over time.
+Rinse regularly with a garden hose to clear dust, pollen, and bird droppings. Spot-clean with mild soapy water and a soft cloth. Avoid machine washing. A single cycle is enough to break down the silver coating. When storing the cover, fold it loosely. Tight compression along the same fold lines repeatedly can cause the coating to wear at those points over time.

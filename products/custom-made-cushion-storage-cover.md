@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Keep your outdoor cushions dry and protected between uses with a storage cover made to fit the exact dimensions of your cushion stack.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain and moisture away from the fabric and fill of your cushions when they are not on the furniture.
+  - Each cover is made from waterproof 210T silver-coated nylon in Silver or Black, keeping rain and moisture away from the fabric and fill of your cushions when they are not on the furniture.
   - Generic cushion storage options are either too small for a full set, too large and floppy, or not waterproof enough for ongoing outdoor use.
   - A made-to-measure cover slips over your whole cushion pile, sits flush at every side, and keeps weather out of the stack without taking up space inside your home.
   - Enter your measurements below for an instant price.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Cushion storage covers are not sold in the range of sizes needed to fit a full outdoor setting. A set of cushions for a four-seater lounge plus chairs can stack to 70 or 80 cm high and cover a footprint that no standard product matches. A custom cover is built from the actual dimensions of your stack so it fits cleanly over the pile without leaving gaps or bunching at the sides.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The material is the same regardless of how large or small your cushion pile is. There is no economy version and nothing to add on.
+    body: Every cover uses 210T silver-coated nylon. The material is the same regardless of how large or small your cushion pile is. There is no economy version and nothing to add on.
 
 faqs:
   - q: Should I measure my cushions flat or stacked?
@@ -142,9 +142,17 @@ In persistently damp weather where cushions never fully dry between rain events,
 
 ## Material
 
-The cover is made from 200gsm solution-dyed polyester. The face fabric holds its colour in full sun because the pigment runs through the fibre rather than sitting on the surface. The polyurethane underside is waterproof and stays flexible through temperature changes.
+### 210T nylon
 
-The fabric weight — 200gsm — is heavy enough to stay in place on a cushion pile in normal wind conditions without being difficult to fit or remove.
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the cushions cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 ## Care
 

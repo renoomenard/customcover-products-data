@@ -11,7 +11,7 @@ categoryLabel: Chair & Seating Covers
 
 seo:
   title: Custom Made Outdoor Stool Cover | Custom Cover Company
-  description: Custom outdoor stool covers for bar stools and counter stools. Round or square, made to your exact dimensions. UV and waterproof 200gsm polyester. Ships worldwide.
+  description: Custom covers for outdoor bar and counter stools. Round or square, made to your exact size. UV and waterproof 210T silver-coated nylon. Ships worldwide.
   keywords:
     - outdoor bar stool cover
     - custom stool cover
@@ -28,7 +28,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -41,7 +41,7 @@ highlights:
 
 shortDescription:
   - Bar stools and outdoor stools sit at an awkward height that most standard covers do not account for.
-  - Your cover is made from 200gsm solution-dyed polyester that blocks UV and sheds rain without a surface coating that will crack or peel.
+  - Your cover is made from 210T silver-coated nylon in Silver or Black. The silver coating sheds rain and reflects the sun's heat.
   - Generic stool covers are either too short, too wide, or sized only for the most common seat dimensions.
   - A cover made to your exact seat width, depth, and ground-to-seat height wraps the stool cleanly and protects the frame and seat from sun and weather.
   - Enter your stool measurements below and get a price instantly.
@@ -86,7 +86,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Stools vary in seat size and leg height more than almost any other piece of outdoor furniture. Bar height, counter height, and cafe height are all different, and the seat diameter or width varies just as much. A cover cut to your measurements fits your stool, not a generic approximation of it.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester regardless of size or shape. The dye runs through the entire fibre so the colour does not fade unevenly or peel from the surface. It is UV-stable, waterproof, and built to handle outdoor conditions across every outdoor climates.
+    body: Every cover we make uses the same 210T silver-coated nylon regardless of size or shape. It is waterproof, it reflects the sun's heat, and it is light enough for one person to put on and take off.
 
 faqs:
   - q: How do I measure a round stool?
@@ -132,9 +132,19 @@ Footrest rings are common on bar and counter stools. The cover fabric will pass 
 
 ## The material
 
-All our covers are made from 200gsm solution-dyed polyester. For a stool cover, the main challenge is that the cover needs to be tall enough to hang to the ground from a seat that may be 70 or 80 centimetres up, while still being easy to put on and take off. At 200gsm the fabric has enough weight to drop cleanly and stay in place without being so heavy that it is awkward to handle.
+All our covers are made from 210T silver-coated nylon. For a stool cover, the main challenge is that the cover needs to be tall enough to hang to the ground from a seat that may be 70 or 80 centimetres up, while still being easy to put on and take off.
 
-Solution-dyed construction means the colour runs through the fibre rather than sitting on the surface. Many outdoor covers start to look tired after one or two seasons in direct sun because the surface coating fades unevenly or cracks and peels. Solution-dyed fabric holds its colour far longer and stays flexible through heat and UV rather than going stiff or brittle.
+### 210T nylon
+
+The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so even a tall stool cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the seat and frame cooler underneath on a hot day.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 The fabric is waterproof for normal outdoor conditions. Rain runs off the surface and does not soak through under standard rainfall. If your stools sit fully exposed and receive a lot of driving rain, a position under an overhang will extend the life of the cover. For most outdoor kitchen or bar setups there is at least partial overhead cover, which suits a stool cover well.
 
@@ -142,4 +152,4 @@ The fabric is waterproof for normal outdoor conditions. Rain runs off the surfac
 
 Wipe the cover with a damp cloth for routine cleaning. For heavier soiling, use a soft brush and mild soap and rinse thoroughly with the hose. Always let the cover dry fully in the air before putting it back on the stool or folding it for storage. Folding a damp cover and storing it will shorten its life.
 
-If you remove covers to use the stools during the day and put them back on at night, fold them loosely and keep them out of direct sun while they are off. Consistent UV exposure affects any outdoor fabric even when it is not in use. A simple bag or a shelf in a shaded spot is enough. With routine care a set of stool covers should give you several years of reliable use.
+If you remove covers to use the stools during the day and put them back on at night, fold them loosely and keep them out of direct sun while they are off. Consistent UV exposure affects any outdoor fabric even when it is not in use. A simple bag or a shelf in a shaded spot is enough. With routine care your stool covers will keep doing their job.

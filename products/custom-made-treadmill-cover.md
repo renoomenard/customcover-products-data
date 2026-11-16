@@ -11,7 +11,7 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Treadmill Cover | Outdoor Treadmill Protection | Custom Cover Company
-  description: Keep your outdoor treadmill protected from rain, UV, and dust with a cover made to your exact measurements. Waterproof 200gsm polyester. Ships worldwide.
+  description: Keep your outdoor treadmill safe from rain, UV, and dust with a cover made to your exact measurements. Waterproof 210T silver-coated nylon. Ships worldwide.
   keywords: [treadmill cover, custom treadmill cover, outdoor treadmill cover, waterproof treadmill cover]
 
 image: best-custom-cover-for-garden-treadmill.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor treadmill with a cover made to fit the actual footprint of your machine, not a generic size that leaves gaps at the sides or bunches at the base.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain, dust, UV, and insects away from the console, motor, and belt.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black. It keeps rain, dust, sun, and insects away from the console, motor, and belt.
   - Generic treadmill covers are made for a handful of standard sizes, and most machines fall somewhere between two of them. That means a loose fit, pooling water, and exposure at the base.
   - A made-to-measure cover drops cleanly over your machine, sits flush at every edge, and keeps weather out of the electronics and motor housing wherever the treadmill is stored.
   - Enter your measurements below for an instant price.
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard treadmill covers come in a handful of sizes, but treadmills vary considerably between brands and models. A cover that is too wide pools water and catches wind. A cover that is too short exposes the motor housing at the rear. A custom-made cover is cut from your measurements and fits cleanly over the machine as it actually sits in your space.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester with a waterproof polyurethane underside. There is no budget tier and no premium upgrade. Whether you are covering a compact fold-up treadmill or a full-size commercial-style machine, you are getting the same material and construction.
+    body: Every cover we make uses the same 210T silver-coated nylon. There is no budget tier and no premium upgrade. Whether you are covering a compact fold-up treadmill or a full-size commercial-style machine, you are getting the same material and construction.
 
 faqs:
   - q: Should I measure with the handlebars folded down or upright?
@@ -145,9 +145,17 @@ If your treadmill has handlebars that fold down for storage, measure with them f
 
 Treadmills have a large flat top surface — the console and the area around it. Water that lands on top of a loose or poorly shaped cover sits there rather than running off. That is why waterproofing and fit both matter.
 
-The fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour is part of the fibre, not a surface coat. prolonged UV exposure will fade a surface-dyed fabric within a couple of seasons. A solution-dyed fabric holds its colour through years of outdoor exposure.
+### 210T nylon
 
-The waterproof underside is a polyurethane coating. PU coatings stay flexible in both heat and cold. They do not crack along fold lines or get sticky in summer heat the way PVC-based coatings do. Water that lands on the cover runs off to the sides rather than soaking through.
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and take off.
+
+### Silver coating
+
+The fabric has a silver coating. It sheds rain, so water that lands on the cover runs off to the sides rather than soaking through. It also reflects the sun's heat, which helps keep the machine cooler underneath.
+
+### Silver or Black
+
+You pick Silver or Black on this page.
 
 ## Caring for your treadmill cover
 
@@ -155,6 +163,6 @@ Brush or shake off any dust or debris before fitting the cover. Grit caught betw
 
 Rinse the outside of the cover with a hose every few months. If any moisture gets underneath during an unusually heavy storm, allow both the cover and the machine to dry completely before replacing the cover.
 
-Do not machine wash the cover. The agitation breaks down the waterproof coating quickly. Spot cleaning with warm water and a soft cloth is all that is needed for any marks or stains.
+Do not machine wash the cover. The agitation breaks down the silver coating quickly. Spot cleaning with warm water and a soft cloth is all that is needed for any marks or stains.
 
 Store the cover folded loosely when not in use rather than compressed tightly. Varying the fold points each time avoids repeated stress on the same sections of the material.

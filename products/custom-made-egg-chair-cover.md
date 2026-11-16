@@ -11,7 +11,7 @@ categoryLabel: Chair & Seating Covers
 
 seo:
   title: Custom Made Egg Chair Cover | Custom Cover Company
-  description: Custom egg chair covers made to your exact pod dimensions. UV and waterproof 200gsm polyester. Fits hanging and floor-standing egg chairs. Ships worldwide.
+  description: Custom egg chair covers made to your pod's exact size. Waterproof 210T silver-coated nylon. Fits hanging and floor-standing egg chairs. Ships worldwide.
   keywords:
     - egg chair cover
     - custom egg chair cover
@@ -28,7 +28,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -41,7 +41,7 @@ highlights:
 
 shortDescription:
   - Egg chairs have a curved pod shape that standard covers simply cannot fit properly.
-  - Your cover is made from 200gsm solution-dyed polyester that blocks UV and sheds water without any coating that can peel or crack.
+  - Your cover is made from 210T silver-coated nylon in Silver or Black. The silver coating sheds water and reflects the sun's heat.
   - Generic covers either leave the top exposed or pool at the sides because they are cut for flat-backed furniture, not curved pods.
   - A cover made to your exact width, depth, and height wraps the pod correctly and stays put through wind and rain.
   - Enter your pod measurements below and get a price instantly.
@@ -92,7 +92,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Egg chairs come in dozens of shapes and sizes, and no two brands are identical. A cover cut to a flat rectangular template will never sit flush against a curved pod. We pattern each cover to your three measurements so the fabric follows the shape of the chair and stays secure in the wind.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester regardless of size or complexity. The dye goes through the entire fibre, so the colour does not fade or peel away from a surface coating. It is UV-stable, waterproof, and tough enough for year-round outdoor use across any outdoor climates.
+    body: Every cover we make uses the same 210T silver-coated nylon regardless of size or complexity. It is waterproof, it reflects the sun's heat, and it is light enough for one person to put on and take off.
 
 faqs:
   - q: How do I measure a curved pod shape accurately?
@@ -136,7 +136,19 @@ A note on the stand and hanging frame. These are not part of your measurements. 
 
 ## The material
 
-All our covers are made from 200gsm solution-dyed polyester. The weight is heavy enough to hold its shape on a curved pod without sagging but light enough that the cover is easy to put on and take off. Solution-dyed means the colour is part of the fibre itself rather than a surface treatment. Covers with a surface coating can peel, crack, or fade unevenly after a season or two in direct sun. Solution-dyed fabric holds its colour and stays flexible through heat and UV exposure.
+All our covers are made from 210T silver-coated nylon.
+
+### 210T nylon
+
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is easy for one person to put on and take off.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the pod and cushion cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 The fabric is waterproof. Rain runs off cleanly and the seams are tight enough to stop water working through under normal rainfall. The cover is not designed to be submerged or to handle pooling water on its surface, so if you can position the chair under an overhang during heavy rain that will extend the life of the cover.
 
@@ -144,6 +156,6 @@ The fabric is waterproof. Rain runs off cleanly and the seams are tight enough t
 
 Keeping the cover clean is straightforward. Wipe it down with a damp cloth for general dust and debris. For bird droppings or stubborn marks, use a mild soap and a soft brush and rinse with the garden hose. Let the cover air-dry fully before putting it back on the chair. Do not machine wash or tumble dry.
 
-If you store the cover away during summer or during a period when the chair is in use, fold it loosely and keep it out of direct sun. Prolonged UV exposure will shorten the life of any fabric, even a solution-dyed one, so storing it out of the sun when it is not on the chair is a good habit.
+If you store the cover away during summer or during a period when the chair is in use, fold it loosely and keep it out of direct sun. Prolonged UV exposure will shorten the life of any fabric, so storing it out of the sun when it is not on the chair is a good habit.
 
 Egg chairs that hang from a frame will move in the wind, and the cover will move with them. This is normal. The drawcord at the base helps keep the cover from riding up. In strong wind, particularly gusty or sustained wind, the safest option is to remove the cover and store it until conditions ease.

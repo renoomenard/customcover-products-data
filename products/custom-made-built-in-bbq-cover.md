@@ -11,7 +11,7 @@ categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
   title: Custom Made Built-In BBQ Cover | Custom Cover Company
-  description: Protect your built-in BBQ head unit with a cover made to its exact dimensions. 200gsm weatherproof polyester, custom made. Enter your measurements for an instant quote.
+  description: Protect your built-in BBQ head unit with a cover made to its exact size. 210T silver-coated nylon. Enter your measurements for an instant quote.
   keywords: [built-in bbq cover, custom built-in bbq cover, outdoor kitchen bbq cover, made to measure bbq cover]
 
 image: best-custom-built-in-bbq-cover.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your built-in BBQ head unit with a cover made to the exact dimensions of the BBQ, not the surrounding bench.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside that keeps rain, dust, and UV off your cooktop and burners.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black. It keeps rain, dust, and sun off your cooktop and burners.
   - Generic BBQ covers are made for freestanding units and sit far too wide or too deep when placed over a built-in head, leaving gaps around the edges.
   - A cover made to your BBQ head unit's exact width, depth, and height sits flush over the unit and protects it without overhanging the bench.
   - Enter the dimensions of your BBQ head unit below to get an instant price.
@@ -88,7 +88,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Built-in BBQ heads sit flush in a bench or island, which means they have a very specific footprint. A cover made for a freestanding BBQ will either sit too wide, hang over the bench edges, or fail to sit down far enough to protect the sides of the unit. A cover cut to your BBQ head's exact width, depth, and height sits cleanly over the unit and does what a cover is supposed to do.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester with the same waterproof undercoating, the same double-stitched seams, and the same UV stabilisation. Whether your built-in BBQ is a compact two-burner or a wide six-burner with an integrated side wok burner, you are getting the same build quality at the same price per square metre.
+    body: Every cover we make uses the same 210T silver-coated nylon and the same double-stitched seams. Whether your built-in BBQ is a compact two-burner or a wide six-burner with an integrated side wok burner, you are getting the same build quality at the same price per square metre.
 
 faqs:
   - q: Should I measure the BBQ unit or the surrounding bench cutout?
@@ -100,7 +100,7 @@ faqs:
   - q: Can I put the cover on straight after cooking?
     a: No. Always allow the BBQ to cool completely before covering it. Covering a hot or warm unit traps heat and moisture, which accelerates rust and can damage the cover material. Give it at least an hour after the last use before putting the cover on.
   - q: Is the material safe to use around a food preparation area?
-    a: Yes. The cover is made from polyester with a polyurethane undercoating. Neither material contains harmful off-gassing compounds. The cover is designed to protect the BBQ between uses, not during cooking, and is food-safe in that context.
+    a: The cover is 210T silver-coated nylon. It is made to protect the BBQ between uses, not during cooking. Take it off before you start cooking, keep it away from food, and only put it back once the BBQ is cold.
 
 faqSub: Everything you need to know about ordering a custom built-in BBQ cover.
 
@@ -146,9 +146,17 @@ Height is measured from the top surface of the surrounding bench up to the highe
 
 Built-in BBQs in outdoor kitchens tend to be higher-end units. They are worth protecting well.
 
-The face fabric on every cover we make is 200gsm solution-dyed polyester. Solution-dyed means the colour pigment is added to the polymer before the fibre is formed, so the colour runs all the way through each thread rather than sitting on the surface. That is what makes it fade-resistant in outdoor conditions, where surface-dyed or printed fabrics become patchy and chalky within two or three seasons of summer UV.
+### 210T nylon
 
-The underside carries a flexible polyurethane waterproof coating. This is important for a BBQ cover because the unit goes through repeated heat cycles during use. A rigid coating like PVC will crack at the fold lines when the cover is taken on and off. Polyurethane stays flexible and does not break down in heat.
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the BBQ head cooler under the cover on hot days.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 The stitching is double-stitched at all seams. The seam is the most common failure point on outdoor covers, particularly at the corners where stress concentrates. Double-stitched seams hold together through years of use without splitting.
 
@@ -158,4 +166,4 @@ Rinse the outside with a garden hose every couple of months to clear dust, polle
 
 Always make sure the BBQ is fully cold before covering it. A warm or hot unit traps heat and moisture under the cover, which accelerates rust on the grates and cooking surfaces and can damage the cover over time. Wait at least an hour after the last use.
 
-If the inside of the cover picks up grease or fat from the BBQ surfaces, spot-clean with warm soapy water and let it air dry completely before putting it back on. Do not put the cover in a washing machine. A single wash cycle is enough to break down the waterproof coating.
+If the inside of the cover picks up grease or fat from the BBQ surfaces, spot-clean with warm soapy water and let it air dry completely before putting it back on. Do not put the cover in a washing machine. A single wash cycle is enough to break down the silver coating.

@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect pallet furniture, stacked storage pallets, or pallet lounge settings with a cover made to the exact dimensions of your setup.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain, UV, and debris away from the timber, cushions, and anything stacked on top.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black, keeping rain, UV, and debris away from the timber, cushions, and anything stacked on top.
   - Standard pallet covers come in fixed sizes and rarely account for the height of whatever is stacked on the pallet. That means gaps at the top or a cover so oversized it catches wind and lifts off.
   - A made-to-measure cover fits the full footprint and height of your pallet setup, whether that is a lounge setting, a coffee table, or a stack of stored goods.
   - Enter your measurements below for an instant price.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Pallet furniture comes in every configuration imaginable. Standard pallet covers are made for the footprint of a single pallet, not for a three-seater lounge with a coffee table or a stack of goods at a particular height. A custom-made cover is built from the actual dimensions of your setup, so it fits cleanly over everything and sits at the right height.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same material goes into every order at every size. Whether you are covering a compact single-pallet table or a large multi-pallet lounge setting, the construction is identical.
+    body: Every cover uses 210T silver-coated nylon. The same material goes into every order at every size. Whether you are covering a compact single-pallet table or a large multi-pallet lounge setting, the construction is identical.
 
 faqs:
   - q: Do I need a custom cover if my pallets are a standard 116 x 116 cm size?
@@ -94,7 +94,7 @@ faqs:
   - q: Does the height measurement include the cushions on the furniture?
     a: Yes, if you cover the setup with cushions on it. Measure from the ground to the top of the cushions in their normal position. If you store cushions separately, measure to the top of the timber frame.
   - q: Is the material UV-resistant enough for outdoor use?
-    a: Yes. The fabric is solution-dyed polyester with UV stabilisation. This is not a surface coating that fades. The UV protection is built into the fibre itself, which is what allows it to handle full outdoor exposure in outdoor conditions over multiple seasons.
+    a: Yes. The cover is 210T silver-coated nylon, made for full outdoor use. The silver coating sheds rain and reflects the sun's heat, and the cover keeps direct sun off the timber and cushions underneath.
 
 faqSub: Everything you need to know about ordering a custom pallet cover.
 
@@ -144,9 +144,13 @@ A cover that fits properly keeps the rain off, reduces the UV load on the timber
 
 ## Material and construction
 
-The cover is made from 200gsm solution-dyed polyester. The pigment runs through each fibre rather than sitting on the surface, so the colour holds through years of outdoor exposure without chalking or peeling.
+### 210T nylon
 
-The waterproof polyurethane underside keeps rain from soaking through. Water runs off the top and sides rather than pooling and wicking through to the timber below.
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep the timber and cushions cooler underneath. Water runs off the top and sides rather than pooling and wicking through to the timber below.
 
 ## Care and storage
 

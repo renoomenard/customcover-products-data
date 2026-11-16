@@ -11,7 +11,7 @@ categoryLabel: Daybed & Sun Lounge Covers
 
 seo:
   title: Custom Made Sun Lounge Cover | Pool Lounger & Sun Bed Covers | Custom Cover Company
-  description: Keep your pool lounger dry and protected with a cover made to fit its exact length, width, and height. 200gsm weatherproof polyester. Instant quote online.
+  description: Keep your pool lounger dry and protected with a cover made to fit its exact length, width, and height. 210T silver-coated nylon. Instant quote online.
   keywords: [sun lounge cover, pool lounger cover, sun bed cover, custom sun lounge cover]
 
 image: best-custom-cover-for-sunbed.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your sun lounge or pool lounger with a cover that fits the actual dimensions of your piece — length, width, and height — rather than a generic size that never quite works.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof undercoating that keeps rain, UV, and debris off the frame and cushions.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black. It keeps rain, sun, and debris off the frame and cushions.
   - Standard sun lounge covers come in a small number of fixed sizes. Most loungers sit between two of them, leaving the cover either too short at the ends or loose enough to pool water and let weather in at the sides.
   - A custom-made cover fits cleanly from end to end and seals at the base, keeping the cushions dry and the frame protected whether it is left poolside overnight or stored for the whole off-season.
   - Enter your length, width, and height below for an instant price.
@@ -82,7 +82,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Sun lounges vary considerably in length, width, and backrest height from brand to brand. Standard covers are made to suit the most common sizes and leave everything else as a compromise. A custom-made cover is cut to your exact dimensions, which means it sits flat on the frame, does not gather at the sides, and does not leave the footrest or headrest exposed to the weather.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester with a flexible polyurethane waterproof undercoating and UV stabilisation throughout. No cheap tier, no premium upgrade. A sun lounge cover built to this spec will outlast several seasons of full outdoor exposure, including the intense UV and heavy summer rain that destroys lesser materials quickly.
+    body: Every cover we make uses the same 210T silver-coated nylon. No cheap tier, no premium upgrade. The silver coating sheds heavy summer rain and reflects the sun's heat, which helps keep the cushions cooler underneath.
 
 faqs:
   - q: My sun lounge has an adjustable backrest. Which position do I measure height in?
@@ -92,7 +92,7 @@ faqs:
   - q: My sun lounge has wheels. Will the cover work with wheels on?
     a: Yes. The wheels sit at the base of the frame and do not affect the length, width, or height measurements. The cover will sit at ground level and the wheels will be underneath it, which is fine.
   - q: Can I leave the cover on poolside when it rains?
-    a: Yes. The polyurethane waterproof undercoating is designed for exactly that. Rain sheets off the top surface rather than soaking through. A fitted cover with good contact at the sides and base is far more effective at keeping rain out than a loose one.
+    a: Yes. The silver coating is made to shed rain, so water sheets off the top surface rather than soaking through. A fitted cover with good contact at the sides and base is far more effective at keeping rain out than a loose one.
   - q: How do I prevent mould or mildew building up under the cover?
     a: Make sure the lounger is dry before you put the cover on after it has been wet. The cover is waterproof from outside, but if moisture is trapped underneath at time of covering it can build up. If the lounger has been used or rained on, let it air for an hour or so before covering. Also lift the cover briefly after extended periods of humid weather to let any condensation escape.
 
@@ -138,16 +138,24 @@ Most sun lounges have an adjustable back. Measure with the back in the position 
 
 Sun lounge cushions are the most expensive component to replace and the most vulnerable to weather damage. UV bleaches the fabric within a season or two. Rain soaks through cover-free cushions and leads to mould inside the foam. Salt air accelerates the deterioration of both the fabric and the foam core.
 
-A fitted cover that goes over the whole lounger, cushions included, keeps all of that out. The 200gsm face fabric blocks UV. The waterproof undercoating stops rain from reaching the cushions. And a close fit at the base means the protection starts at ground level rather than leaving a gap at the bottom.
+A fitted cover that goes over the whole lounger, cushions included, keeps all of that out. The silver coating reflects the sun's heat and sheds rain before it reaches the cushions. And a close fit at the base means the protection starts at ground level rather than leaving a gap at the bottom.
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester. The pigment is added to the fibre during manufacture, which means it goes all the way through each thread rather than sitting on the surface. That is what makes it resist fading in intense UV. Surface-dyed fabrics go patchy within a season or two in full sun.
+### 210T nylon
 
-The underside carries a flexible polyurethane waterproof coating. It stays pliable in heat and cold and will not crack at fold lines over time. The whole fabric system is UV stabilised, which extends the working life of the cover in outdoor conditions.
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to put on and take off between swims.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the lounger and cushions cooler underneath, even in full sun by the pool.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 ## Caring for your sun lounge cover
 
 Rinse the outside of the cover with a hose every month or so during the season, particularly after heavy rain or dust. Shake off leaves and debris before putting the cover on — grit can scratch the frame and cushion fabric if it gets trapped underneath.
 
-If the cover picks up sunscreen or poolside residue on the inside, spot-clean with warm soapy water and let it dry fully before putting it back on. Do not machine wash. The agitation breaks down the waterproof coating in a single cycle.
+If the cover picks up sunscreen or poolside residue on the inside, spot-clean with warm soapy water and let it dry fully before putting it back on. Do not machine wash. The agitation breaks down the silver coating in a single cycle.

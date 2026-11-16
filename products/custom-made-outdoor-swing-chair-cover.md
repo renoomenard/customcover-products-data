@@ -11,7 +11,7 @@ categoryLabel: Daybed & Sun Lounge Covers
 
 seo:
   title: Custom Made Outdoor Swing Chair Cover | Hanging Pod & Hammock Chair Covers | Custom Cover Company
-  description: Protect your hanging pod or swing chair with a cover made to its exact width, depth, and height. 200gsm weatherproof polyester. Instant quote online.
+  description: Protect your hanging pod or swing chair with a cover made to its exact width, depth, and height. 210T silver-coated nylon. Instant quote online.
   keywords: [swing chair cover, hanging pod chair cover, outdoor hammock chair cover, custom swing chair cover]
 
 image: best-custom-cover-for-outdoor-swing-chair.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor swing chair or hanging pod with a cover made to the exact dimensions of the seat — not an approximate shape from a generic size range.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof undercoating that keeps rain, UV, and salt air away from the cushion and frame.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black, and keeps rain, sun, and salt air away from the cushion and frame.
   - Swing chairs are an unusual shape for a standard cover. The pod or teardrop profile, combined with the hanging suspension, means almost nothing off the shelf fits without leaving large sections of the chair exposed or bunching badly.
   - A custom-made cover is patterned to fit the curve and taper of the seat pod, closing out rain and UV without the flapping and pooling that comes with an oversized cover.
   - Enter your width, depth, and height below for an instant price.
@@ -85,7 +85,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Pod swing chairs are a curved, tapered shape that standard rectangular or round covers cannot fit properly. The cover needs to follow the narrowing profile from the widest mid-section down to the base, and accommodate the opening at the top where the suspension attaches. A custom-made cover is patterned specifically for that shape, so it sits cleanly against the pod rather than ballooning out or leaving gaps at the base.
   - heading: One material, one quality, one price tier
-    body: The curved seam work involved in a swing chair cover is more involved than a flat rectangle, and the pricing reflects that. But the material is the same across everything we make — 200gsm solution-dyed polyester with a flexible polyurethane waterproof undercoating and UV stabilisation. No corners cut on the fabric, no matter the complexity of the shape.
+    body: The curved seam work involved in a swing chair cover is more involved than a flat rectangle, and the pricing reflects that. But the material is the same across everything we make. It is all 210T silver-coated nylon. No corners cut on the fabric, no matter the complexity of the shape.
 
 faqs:
   - q: Do I measure the whole A-frame stand or just the chair pod?
@@ -147,14 +147,16 @@ On tapered models, each panel narrows from top to bottom, which adds pattern com
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester. Solution-dyed means the colour runs through each fibre rather than being applied as a surface coating, which is why it holds up in prolonged UV exposure where surface-dyed fabrics go dull and patchy within a couple of seasons.
+### 210T nylon
 
-The underside carries a flexible polyurethane waterproof coating. It does not crack at seam lines or fold points in the way that stiffer PVC coatings do, and it stays flexible across the temperature range of an outdoor environment.
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
 
-Both layers are UV stabilised throughout.
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep the seat and cushion cooler underneath.
 
 ## Caring for your swing chair cover
 
 Rinse the outside of the cover with a hose periodically, particularly after storms or dusty periods. Shake off leaves and debris before putting it on. If the cover gets marks on the inside from the cushion fabric or frame, spot-clean with warm soapy water and allow to dry fully before replacing.
 
-Do not machine wash. The agitation breaks down the waterproof coating in one cycle. Store the cover with varied fold lines if you roll or fold it away, so the coating is not repeatedly stressed along the same crease.
+Do not machine wash. The agitation breaks down the silver coating in one cycle. Store the cover with varied fold lines if you roll or fold it away, so the coating is not repeatedly stressed along the same crease.

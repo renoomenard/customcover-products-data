@@ -11,7 +11,7 @@ categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
   title: Custom Made BBQ Cover | Weatherproof Outdoor BBQ Covers | Custom Cover Company
-  description: Protect your BBQ with a tailor-made waterproof cover. Made from 200gsm solution-dyed polyester with a waterproof undercoating. Enter your measurements for an instant quote.
+  description: Protect your BBQ with a tailor-made waterproof cover. Made from 210T silver-coated nylon. Enter your measurements for an instant quote.
   keywords: [bbq cover, custom bbq cover, outdoor bbq cover, weatherproof bbq cover, made to measure bbq cover]
 
 image: best-custom-bbq-cover.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your BBQ with a cover built to fit the actual dimensions of your unit — not the nearest standard size.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, so rain sheets off rather than pooling on top.
+  - Each cover is made from waterproof 210T silver-coated nylon in Silver or Black, so rain sheets off rather than pooling on top.
   - Generic BBQ covers are sold in a handful of fixed sizes. If your unit sits between two sizes you end up with a cover that's too loose, pools water, flaps in the wind, and lets weather in at the base.
   - A made-to-measure cover drops cleanly over your BBQ, sits flush at the sides, and seals out rain, dust, UV and insects — every time.
   - Enter your measurements below to get an instant price.
@@ -92,7 +92,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard BBQ covers come in three or four fixed sizes. Most BBQs fall somewhere between two of them, which means the cover is either too short at the sides or so long it bunches on the ground. A custom-made cover is cut from your measurements — it drops straight onto your unit, sits flush at every edge, and does the job a cover is supposed to do.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same premium outdoor fabric, the same waterproof underside, the same seam construction and the same hardware. Whether you are covering a compact two-burner or a full six-burner with a side burner, you are getting the same build quality. No cheap tier, no upsell, no surprises.
+    body: Every cover we make uses the same 210T silver-coated nylon, the same seam construction and the same hardware. Whether you are covering a compact two-burner or a full six-burner with a side burner, you are getting the same build quality. No cheap tier, no upsell, no surprises.
 
 faqs:
   - q: Do I include the side shelves in my width measurement?
@@ -124,7 +124,7 @@ Most off-the-shelf BBQ covers fail for the same two reasons: the wrong size and 
 
 Standard covers come in a handful of fixed widths — typically 60 cm, 90 cm, 120 cm, 150 cm, and occasionally 180 cm. The problem is that BBQs are made in hundreds of configurations. A four-burner from one brand might be 105 cm wide. Another brand's five-burner might be 132 cm. Neither fits neatly into the standard range. So you end up with a cover that either stops short of the edges, leaving the bottom of the unit exposed, or is so much wider than the BBQ that it pools water in the folds and flaps in any kind of breeze.
 
-The second problem is material. Budget covers are made from polyester that is printed or dyed on the surface, not through the fibre. Within a season of intense UV they start to fade, then crack, then stop being waterproof at the spots where the coating has broken down. The cover starts leaking exactly where water tends to collect.
+The second problem is material. Budget covers are often made from thin fabric with a cheap coating. Within a season of intense UV they start to fade, then crack, then stop being waterproof at the spots where the coating has broken down. The cover starts leaking exactly where water tends to collect.
 
 A custom-made cover made from the right fabric fixes both problems.
 
@@ -148,26 +148,24 @@ Measure from the floor to the top of the lid in its fully closed position. If yo
 
 ## Why fabric quality matters more for BBQ covers
 
-BBQ covers deal with a challenge that other furniture covers do not: heat cycles. A BBQ that has been used and then covered while still warm puts the cover through repeated expansion and contraction cycles. A waterproof coating that cannot flex will crack along the fold lines within a season.
+BBQ covers deal with a challenge that other furniture covers do not: heat cycles. A BBQ that has been used and then covered while still warm puts the cover through repeated expansion and contraction cycles. A cheap coating that cannot cope will crack along the fold lines.
 
 The other challenge is grease and fat deposits. Even when the BBQ is cleaned before covering, residue builds up on the outside of the unit over time and transfers to the inside of the cover.
 
-### Solution-dyed polyester face fabric
+### 210T nylon
 
-The face fabric is solution-dyed polyester at 200gsm. Solution-dyed means the pigment is added to the polymer before it is formed into fibres, so the colour runs all the way through each thread. That is what makes it fade-resistant in prolonged UV exposure, where surface-dyed fabrics will go noticeably patchy within two or three seasons.
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to put on and take off without a struggle.
 
-At 200gsm the fabric is heavy enough to feel substantial and hold its shape over the BBQ in wind, but light enough that one person can put it on and take it off without a struggle.
+### Silver coating
 
-### Polyurethane waterproof undercoating
+The silver coating sheds rain and reflects the sun's heat. That helps keep the BBQ cooler under the cover when it sits in direct sun.
 
-The underside carries a flexible polyurethane (PU) waterproof coating. PU stays flexible through heat cycles and will not crack at fold lines the way PVC coatings do. It also does not get sticky in heat, which matters when a cover is left on a BBQ in direct sun for days at a time.
+### Silver or Black
 
-### UV stabilisation
-
-The fabric and coating are UV stabilised, which means the molecular structure is protected against the photodegradation that causes outdoor materials to chalk, crack, and fail. Non-stabilised materials can start to fail within eighteen months in outdoor conditions. A stabilised fabric and coating combination will typically give five to seven years of useful life in full sun.
+You pick Silver or Black when you order.
 
 ## Caring for your BBQ cover
 
 Rinse the outside with a garden hose every couple of months, especially after any period of heavy rain where water has been sitting on it or after a dusty spell. Shake off any loose debris before putting it on — grit caught between the cover and the BBQ lid can scratch both surfaces over time.
 
-If grease or fat transfers to the inside of the cover, spot-clean with warm soapy water and allow to air dry fully before putting it back on. Do not machine wash — the agitation breaks down the waterproof coating in a single cycle. Do not fold the cover in the same place every time when storing it; vary the fold lines to avoid repeated stress on any one section of the coating.
+If grease or fat transfers to the inside of the cover, spot-clean with warm soapy water and allow to air dry fully before putting it back on. Do not machine wash. The agitation breaks down the silver coating in a single cycle. Do not fold the cover in the same place every time when storing it; vary the fold lines to avoid repeated stress on any one section of the coating.

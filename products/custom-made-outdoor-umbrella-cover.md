@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor umbrella canopy from fading and weather damage with a cover made to fit the exact diameter and length of your furled umbrella.
-  - Each cover is a tube of 200gsm solution-dyed polyester with a waterproof underside that slides over the closed umbrella and keeps UV, rain, and dust off the canopy fabric when the umbrella is not in use.
+  - Each cover is a tube of 210T silver-coated nylon in Silver or Black that slides over the closed umbrella and keeps UV, rain, and dust off the canopy fabric when the umbrella is not in use.
   - Generic umbrella covers are designed for standard pole diameters and often fit loosely around the canopy, letting UV in at the top or flapping off in the wind.
   - A made-to-measure cover slides snugly over the bundled canopy, fits the full length of the umbrella from base to tip, and stays put when it is windy.
   - Enter your measurements below for an instant price.
@@ -79,7 +79,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Umbrella canopy diameters vary between brands and models. A cover made for a generic small, medium, or large umbrella will be loose on some and will not fit others at all. A custom cover is made to the actual diameter of your furled canopy, so it slides on without excess fabric to flap and without being too tight to fit over the bundle.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same construction goes into every size. Two measurements, one price, one quality level.
+    body: Every cover uses 210T silver-coated nylon. The same construction goes into every size. Two measurements, one price, one quality level.
 
 faqs:
   - q: Why do I measure the furled canopy and not the pole?
@@ -107,7 +107,7 @@ An outdoor umbrella canopy can fade within a single season if it is left open or
 
 ## Why umbrella canopies fade
 
-Most outdoor umbrella canopies are made from solution-dyed acrylic or a UV-stabilised polyester. These fabrics are designed to resist fading, but they are not immune to UV. The problem is cumulative.
+Most outdoor umbrella canopies are made from fabrics designed to resist fading, but they are not immune to UV. The problem is cumulative.
 
 An umbrella that is left open in full sun between uses is exposed to UV even when it is not shading anyone. Over a full summer, that is hundreds of hours of UV exposure on the canopy fabric. The colour in the fabric breaks down gradually, starting at the panels most exposed to direct sun.
 
@@ -137,7 +137,15 @@ The length measurement determines whether the cover reaches the base of the umbr
 
 ## Material
 
-The cover is made from 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same UV-stable face fabric that protects the cover from fading also keeps UV from reaching the canopy fabric inside.
+### 210T nylon
+
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep the canopy cooler underneath. The canopy sits inside the cover, out of direct sun.
+
+### Shape
 
 The cylindrical shape means the cover can be slid on from the top without any complicated fitting. It is a simple tube, open at the base, that drops over the furled umbrella and sits snugly around the canopy bundle.
 

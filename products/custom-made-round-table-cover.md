@@ -11,7 +11,7 @@ categoryLabel: Table & Dining Covers
 
 seo:
   title: Custom Made Round Table Cover | Outdoor Round Dining Table Covers | Custom Cover Company
-  description: Protect your round outdoor dining table with a cover made to its exact diameter and height. 200gsm weatherproof polyester. Instant quote online.
+  description: Protect your round outdoor dining table with a cover made to its exact diameter and height. 210T silver-coated nylon. Instant quote online.
   keywords: [round table cover, outdoor round table cover, circular table cover, custom round table cover]
 
 image: best-custom-cover-for-oudoor-round-table.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your round outdoor dining table with a cover made to fit its exact diameter — not the nearest standard size that leaves the edges exposed or bunches on the ground.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof undercoating that sheds rain cleanly and blocks UV damage to the tabletop surface.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black. The silver coating sheds rain cleanly and reflects the sun's heat off the tabletop.
   - Standard round table covers come in three or four fixed diameters. Most tables sit between two of them, which means the cover either stops short of the table edge or pools on the ground in an untidy ring.
   - A custom-made cover drapes cleanly to the ground, sits flush at the sides, and protects the top, legs, and base from weather, UV, and dust all year round.
   - Enter your diameter and height below for an instant price.
@@ -79,7 +79,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Round outdoor dining tables come in a wide range of diameters, from a compact 90 cm two-seater up to 180 cm or larger for entertaining tables. Standard covers are made in three or four fixed sizes. A table that falls between two standard diameters ends up with a cover that either does not reach the edge of the tabletop or pools so far on the ground that it collects water and debris. A custom-made cover is cut to your exact diameter, so it hangs evenly and reaches the ground cleanly all the way around.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester face fabric with a flexible polyurethane waterproof undercoating. No cheap version, no premium upgrade. Whether your table cost $300 or $3,000, you are getting the same build quality throughout. The only variable is the size, and that is what the custom-made process is for.
+    body: Every cover we make uses the same 210T silver-coated nylon. No cheap version, no premium upgrade. Whether your table cost $300 or $3,000, you are getting the same build quality throughout. The only variable is the size, and that is what the custom-made process is for.
 
 faqs:
   - q: How do I measure the diameter if I cannot get a tape measure across the centre?
@@ -147,12 +147,20 @@ If your table is in a location that is exposed to salt air — within a few kilo
 
 ## Material
 
-The face fabric is 200gsm solution-dyed polyester. The pigment is worked into the fibre during manufacture rather than applied to the surface, which is why it holds its colour in intense UV rather than going patchy within a couple of seasons.
+### 210T nylon
 
-The underside carries a flexible polyurethane waterproof coating that sheds water cleanly and stays flexible across the full range of outdoor temperatures. Both layers are UV stabilised throughout.
+The fabric is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds water cleanly and reflects the sun's heat. That helps keep the tabletop and frame cooler underneath.
+
+### Silver or Black
+
+You choose Silver or Black when you order.
 
 ## Caring for your round table cover
 
 Rinse the outside with a garden hose every month or so, particularly after rain or dusty periods. Brush off any debris before putting the cover on. Spot-clean any marks on the inside surface with warm soapy water and allow to dry fully before replacing.
 
-Do not machine wash. The agitation breaks down the waterproof coating in a single cycle. If you fold the cover for storage, vary the fold lines so the coating is not repeatedly stressed at the same point.
+Do not machine wash. The agitation breaks down the silver coating in a single cycle. If you fold the cover for storage, vary the fold lines so the coating is not repeatedly stressed at the same point.

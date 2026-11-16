@@ -11,7 +11,7 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Outdoor Spa Cover | External Cabinet Cover for Hot Tubs | Custom Cover Company
-  description: Protect your spa cabinet, plumbing, and controls with a custom-made external cover. Waterproof 200gsm polyester. Made to your exact dimensions. Ships worldwide.
+  description: Protect your spa cabinet, plumbing, and controls with a custom-made external cover. 210T silver-coated nylon. Made to your exact dimensions. Ships worldwide.
   keywords: [outdoor spa cover, hot tub cover, custom spa cabinet cover, portable spa cover]
 
 image: best-custom-cover-for-outdoor-spa.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect the outside of your portable spa with a custom-made cover built to fit the actual dimensions of your cabinet, not a generic size that leaves the base or corners exposed.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, protecting your spa cabinet panels, plumbing access points, and control panel from UV, rain, and debris.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black, protecting your spa cabinet panels, plumbing access points, and control panel from UV, rain, and debris.
   - Generic spa covers are designed for the water surface inside. This is an external cabinet cover for the outside of the unit, protecting the shell and components when the spa is not in regular use.
   - A made-to-measure external cover wraps neatly around the cabinet, sits at the right height, and keeps weather away from the parts that generic covers miss entirely.
   - Enter your measurements below for an instant price.
@@ -88,7 +88,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: External spa cabinet covers are not widely sold in standard sizes. Most people either leave the cabinet exposed or order the wrong product. A custom-made cover is built to your cabinet's exact width, depth, and height so it drops cleanly over the unit, protects the panels at every side, and sits at the right height without bunching on the ground.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same fabric and construction goes into every order regardless of size. There is no budget tier, no economy option, and nothing to upgrade.
+    body: Every cover we make uses 210T silver-coated nylon. The same fabric and construction goes into every order regardless of size. There is no budget tier, no economy option, and nothing to upgrade.
 
 faqs:
   - q: Is this the lid that goes over the water, or something else?
@@ -146,9 +146,13 @@ The control panel area is another point of concern. Most spa controls are rated 
 
 ## Material for spa cover use
 
-The cover is made from 200gsm solution-dyed polyester with a polyurethane waterproof underside. Solution-dyed fabric holds its colour in direct sun because the pigment runs through each fibre rather than sitting on the surface.
+### 210T nylon
 
-The PU coating on the underside keeps rain from soaking through and running down the cabinet panels. It stays flexible in heat and cold, which matters for a cover that may spend months on a spa between uses.
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep the cabinet panels cooler underneath. Rain runs off the cover instead of soaking through and running down the panels.
 
 ## Fitting and care
 

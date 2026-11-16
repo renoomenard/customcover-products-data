@@ -11,7 +11,7 @@ categoryLabel: Specialty Covers
 
 seo:
   title: Custom Made Outdoor TV Cover | Wall Mounted TV Covers | Custom Cover Company
-  description: Protect your wall-mounted outdoor TV from rain, UV, and dust. Custom-made to the exact frame dimensions of your screen. Waterproof 200gsm polyester. Ships worldwide.
+  description: Protect your wall-mounted outdoor TV from rain, UV, and dust. Made to the exact frame dimensions of your screen. 210T silver-coated nylon. Ships worldwide.
   keywords: [outdoor tv cover, mounted tv cover, alfresco tv cover, custom tv cover]
 
 image: best-custom-cover-for-outdoor-tv.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your wall-mounted outdoor TV with a cover made to fit the actual frame dimensions of your screen and the depth of your mount, not a generic bag that flaps and lets moisture in at the sides.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping rain, humidity, dust, and UV away from the screen and ports when the TV is not in use.
+  - Each cover is made from 210T silver-coated nylon in Silver or Black, keeping rain, humidity, dust, and UV away from the screen and ports when the TV is not in use.
   - Generic outdoor TV covers are made to approximate inch sizes and rarely match the actual frame of the TV. A loose cover that flaps in the wind or lets moisture pool at the bottom defeats the purpose.
   - A made-to-measure cover slips over the front, sides, and top of the screen, fits flush around the frame, and seals out weather at every edge.
   - Enter your measurements below for an instant price.
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: TV sizes in inches refer to the diagonal measurement of the screen area. The actual frame width is always different, and it varies between brands at the same nominal screen size. A cover made for "a 65 inch TV" may be several centimetres too wide or too narrow for your specific model. A custom-made cover is built from the actual frame dimensions you provide, so it fits flush on every side.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same material and construction goes into every order. There is no budget version and no upgraded option — one quality level across the board.
+    body: Every cover uses 210T silver-coated nylon. The same material and construction goes into every order. There is no budget version and no upgraded option. One quality level across the board.
 
 faqs:
   - q: Why can't I just use my TV's screen size in inches?
@@ -151,9 +151,13 @@ The depth measurement determines how deep the cover pocket needs to be. A cover 
 
 ## Material for outdoor screen protection
 
-The cover uses 200gsm solution-dyed polyester. The face fabric is UV-stable, which matters for a screen that may spend months under an alfresco roof with angled sun exposure. UV breaks down standard polyester coatings within a couple of seasons, leaving the cover faded and eventually cracked.
+### 210T nylon
 
-The waterproof polyurethane underside keeps moisture from soaking through and reaching the screen surface. PU coatings are flexible and do not crack along fold lines in heat or cold.
+The cover is made from 210T nylon. That means a 210 thread count, which gives a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to fit and remove.
+
+### Silver coating
+
+The silver coating sheds rain, so the cover stays waterproof. It also reflects the sun's heat, which helps keep the screen cooler underneath. That matters for a TV that may spend months under an alfresco roof with angled sun on it.
 
 ## Fitting and care
 

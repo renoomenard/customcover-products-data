@@ -11,7 +11,7 @@ categoryLabel: BBQ & Outdoor Kitchen Covers
 
 seo:
   title: Custom Made Pizza Oven Cover | Custom Cover Company
-  description: Pizza oven covers made to the exact dimensions of your dome or arch oven. 200gsm weatherproof polyester, cut to your measurements. Get an instant quote online.
+  description: Pizza oven covers made to the exact dimensions of your dome or arch oven. 210T silver-coated nylon, cut to your measurements. Get an instant quote online.
   keywords: [pizza oven cover, custom pizza oven cover, outdoor pizza oven cover, dome oven cover]
 
 image: best-custom-pizza-oven-cover.webp
@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your pizza oven with a cover made to fit the widest, deepest, and tallest point of your dome or arch oven.
-  - Made from 200gsm solution-dyed polyester with a waterproof underside, so rain and moisture cannot get into the dome between uses.
+  - Made from waterproof 210T silver-coated nylon in Silver or Black, so rain and moisture cannot get into the dome between uses.
   - Standard outdoor covers are sized for rectangular furniture. A pizza oven dome sits nothing like a flat-sided piece of furniture, and a standard cover never fits properly.
   - A cover made to your oven's actual bounding dimensions sits flush over the dome and seals out water, UV, and debris without pooling or sagging.
   - Enter the widest, deepest, and tallest measurements of your oven below to get an instant price.
@@ -100,7 +100,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Pizza ovens come in a wide range of dome diameters, arch profiles, and heights. No two are quite the same, and no standard cover is designed to fit one properly. A cover made to your oven's bounding dimensions — width, depth, and peak height — sits cleanly over the dome, protects the flue opening, and holds its shape without pooling water in the crown of the dome.
   - heading: One material, one quality, one price tier
-    body: Every cover we make uses the same 200gsm solution-dyed polyester with the same waterproof undercoating and double-stitched seams. The slightly higher complexity rating on pizza oven covers reflects the additional material and cutting involved in fitting a dome profile. The fabric and coating quality are identical across every product we make.
+    body: Every cover we make uses the same 210T silver-coated nylon and double-stitched seams. The slightly higher complexity rating on pizza oven covers reflects the additional material and cutting involved in fitting a dome profile. The fabric and coating quality are identical across every product we make.
 
 faqs:
   - q: How do I measure a dome shape for a rectangular cover?
@@ -154,13 +154,21 @@ If your chimney is a removable pipe that you take off between uses, measure to t
 
 ## Why the material needs to be right
 
-Pizza ovens present two specific challenges for cover materials. The first is their shape. A dome concentrates any water that falls on it toward a single peak, then channels it down the sides. A cover that sags or pools water at the crown puts pressure on the fabric and coating at that point. A cover made from fabric stiff enough to hold its shape over the dome prevents water from collecting.
+Pizza ovens present two specific challenges for cover materials. The first is their shape. A dome concentrates any water that falls on it toward a single peak, then channels it down the sides. A cover that sags or pools water at the crown puts pressure on the fabric and coating at that point. A cover made to fit the dome sits close over it, so water runs off instead of collecting.
 
-The second challenge is UV. An outdoor pizza oven sits in full sun, often on a paved or tiled area that reflects additional UV back up from below. Surface-dyed or coated fabrics in these conditions can start to chalk and crack within a couple of seasons.
+The second challenge is sun. An outdoor pizza oven sits in full sun, often on a paved or tiled area that bounces extra heat and light back up from below. Cheap budget covers in these conditions can start to wear out fast.
 
-The face fabric on every cover is 200gsm solution-dyed polyester. Solution-dyed means the pigment runs through each fibre rather than sitting on the surface, which is what gives it genuine UV resistance rather than UV resistance that fades away as the surface coating breaks down.
+### 210T nylon
 
-The underside carries a polyurethane waterproof coating that stays flexible in heat. That matters for any cover used in a hot outdoor environment.
+Every cover is made from 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so the cover is light enough for one person to lift on and off the dome.
+
+### Silver coating
+
+The silver coating sheds rain and reflects the sun's heat. That helps keep the oven cooler under the cover on hot days.
+
+### Silver or Black
+
+You pick Silver or Black when you order.
 
 ## Caring for your cover
 
@@ -168,4 +176,4 @@ Rinse the outside of the cover with a hose every month or two, particularly if y
 
 Always wait until the oven is completely cold before covering it. Pizza ovens hold heat for a long time after use, sometimes four to six hours depending on how long and how hot you fired it. Touching the dome should give you complete confidence it is cool before the cover goes on.
 
-Do not fold the cover in the same place every time when storing it. Vary the fold points so the waterproof coating does not wear through along repeated crease lines.
+Do not fold the cover in the same place every time when storing it. Vary the fold points so the silver coating does not wear through along repeated crease lines.

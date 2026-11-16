@@ -24,7 +24,7 @@ review:
 highlights:
   - icon: uv
     title: UV & Waterproof
-    desc: 200gsm solution-dyed polyester
+    desc: 210T silver-coated nylon
   - icon: measure
     title: Made to Measure
     desc: Cut to your exact dimensions
@@ -37,7 +37,7 @@ highlights:
 
 shortDescription:
   - Protect your outdoor table tennis table from rain, warping, UV, and debris with a cover made to fit the actual dimensions of your table.
-  - Each cover is made from 200gsm solution-dyed polyester with a waterproof underside, keeping moisture away from the playing surface and frame so the table plays consistently season after season.
+  - Each cover is made from waterproof 210T silver-coated nylon in Silver or Black, keeping moisture away from the playing surface and frame so the table plays consistently season after season.
   - Generic table tennis covers are made for standard tournament-size tables. Outdoor models and mini tables often have different dimensions, and even standard tables vary slightly between brands.
   - A made-to-measure cover fits your table properly in its playing position, with no gaps at the edges and no excess fabric to pool water or flap in the wind.
   - Enter your measurements below for an instant price.
@@ -91,7 +91,7 @@ tabDescription:
   - heading: Built to fit, not adapted to suit
     body: Standard table tennis tables are nominally 274 x 152 cm, but outdoor models, mini tables, and different brands vary from that spec. A cover made for the standard size may be slightly too long or too wide for your table, leaving excess fabric that pools water and sags over the edge. A custom cover is built from your exact measurements and sits flush on every side.
   - heading: One material, one quality, one price tier
-    body: Every cover uses 200gsm solution-dyed polyester with a waterproof polyurethane underside. The same material and construction goes into a cover for a mini table as for a full-size competition table. One quality level for every size.
+    body: Every cover uses 210T silver-coated nylon. The same material and construction goes into a cover for a mini table as for a full-size competition table. One quality level for every size.
 
 faqs:
   - q: Should I measure the table folded or flat?
@@ -151,11 +151,17 @@ Measuring takes two minutes and guarantees the cover fits correctly.
 
 ## Material
 
-The cover is 200gsm solution-dyed polyester with a waterproof polyurethane underside. The face fabric is UV-stable, which matters for a table that lives outdoors and may have the cover on it for months at a time.
+### 210T nylon
 
-The PU underside keeps rain from soaking through to the playing surface. Water runs down the sides of the cover rather than sitting on top and finding its way through seams or under the edge of the cover.
+The cover is 210T nylon. The 210T means 210 threads, so it is a tight weave. Nylon is strong for its weight, so even a full-size cover is light enough for one person to fit and remove.
 
-At 200gsm the fabric is heavy enough to stay in place on the table in normal wind without needing to be tied or weighted down.
+### Silver coating
+
+The silver coating keeps rain from soaking through to the playing surface. Water runs down the sides of the cover rather than sitting on top and finding its way through seams or under the edge. The coating also reflects the sun's heat, which helps keep the table cooler underneath.
+
+### Silver or Black
+
+You pick Silver or Black when you order.
 
 ## Care
 
